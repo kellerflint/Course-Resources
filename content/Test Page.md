@@ -1,5 +1,5 @@
 ---
-title: "{{test page}}"
+title: Test Page
 ---
 
 
