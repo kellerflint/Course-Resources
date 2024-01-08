@@ -10,6 +10,7 @@ Databases exist to help us store and manage large amounts of information in an o
 | 3          | Alex      | Johnson  | alexj@email.com     |
 
 ## Introduction to the SELECT Statement
+
 The `SELECT` statement is used to retrieve data from a database. It allows you to specify exactly which data you want to fetch from a table.
 
 ##### Basic SELECT Syntax
@@ -20,6 +21,7 @@ FROM table_name;
 ```
 
 ##### Selecting Specific Columns
+
 To retrieve specific columns from a table, list the column names separated by commas. For example the query:
 
 ```sql
@@ -35,7 +37,9 @@ Will result in the following output:
 | Jane | Smith |
 | Alex | Johnson |
 ##### Selecting All Columns
+
 To select all columns from a table, use the asterisk `*` symbol:
+
 ```sql
 SELECT *
 FROM Customers;
@@ -43,7 +47,7 @@ FROM Customers;
 
 This query will result in the entire Customers table being displayed.
 
-# Practice
+# Practice Questions
 
 
 
