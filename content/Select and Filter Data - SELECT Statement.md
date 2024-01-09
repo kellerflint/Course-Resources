@@ -1,5 +1,5 @@
-# Lesson
-## Database Basics
+# SELECT Statement
+## Database Basics Refresher
 
 Databases exist to help us store and manage large amounts of information in an organized way. In SQL this data is organized into tables consisting of rows and columns. Each table in a database represents a different entity, such as customers, products, or orders. The rows in the table represent individual records, and the columns represent the attributes of these entities.
 ##### Example Table: Customers
@@ -9,7 +9,7 @@ Databases exist to help us store and manage large amounts of information in an o
 | 2          | Jane      | Smith    | janesmith@email.com |
 | 3          | Alex      | Johnson  | alexj@email.com     |
 
-## Introduction to the SELECT Statement
+## SELECT Statements
 
 The `SELECT` statement is used to retrieve data from a database. It allows you to specify exactly which data you want to fetch from a table.
 
@@ -28,9 +28,7 @@ To retrieve specific columns from a table, list the column names separated by co
 SELECT FirstName, LastName
 FROM Customers;
 ```
-
-Will result in the following output:
-
+##### Expected Output:
 | FirstName | LastName |
 | ---- | ---- |
 | John | Doe |
@@ -49,6 +47,6 @@ This query will result in the entire Customers table being displayed.
 
 # Practice Questions
 
+Select only the contact's name and age columns from the Customer table.
 
-
-Back: [[Select and Filter Data - Running Database Scripts]] | Next: 
+Back: [[Select and Filter Data - Running Scripts]] | Next: [[Select and Filter Data - WHERE Clause and Comparison Operators]]
