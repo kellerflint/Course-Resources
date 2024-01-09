@@ -15,12 +15,12 @@ WHERE condition;
 There are many different types of operators that can be used in our condition to filter what rows we get back based on the data they contain.
 
 The first type are the comparison operators. These are used to compare values in a column with other values or expressions. These include:
-- = : Equal to
-- <> or != : Not equal to
-- > : Greater than
-- < : Less than
-- >= : Greater than or equal to
-- <= : Less than or equal to
+- `=` : Equal to
+- `<` `>` or `!` `=` : Not equal to
+- `>` : Greater than
+- `<` : Less than
+- `>` `=` : Greater than or equal to
+- `<` `=` : Less than or equal to
 
 For example, assume we have a table `Employees` with the following data:
 
