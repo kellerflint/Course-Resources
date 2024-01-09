@@ -1,5 +1,7 @@
-# Running Database Scripts
+# Select and Filter Data - Running Scripts
+
 <iframe src="https://egator.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=3b6bc768-5330-4f2b-9f42-b0f20177a502&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
+
 To get started with hands-on practice, you'll need data to populate your database. We'll do this by running a SQL script. Follow these steps to execute the script on your database:
 
 1. **Open the SQL File**:

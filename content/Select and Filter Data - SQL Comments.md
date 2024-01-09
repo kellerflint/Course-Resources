@@ -1,5 +1,4 @@
-
-# Comments
+# Select and Filter Data - SQL Comments
 
 Comments in SQL are used to explain sections of SQL statements, or to prevent execution of SQL statements. They are helpful for documentation purposes and making code more readable.
 
