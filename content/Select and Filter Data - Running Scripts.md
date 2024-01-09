@@ -3,7 +3,7 @@
 To get started with hands-on practice, you'll need data to populate your database. We'll do this by running a SQL script. Follow these steps to execute the script on your database:
 
 1. **Open the SQL File**:
-    - Open the script file <a href="https://github.com/kellerflint/Class-Intro-SQL/blob/hugo/content/Files/CustomerScript.sql" target="_blank">CustomerScript.sql (github.com)</a>. It contains the commands to create tables and insert data into them. It can be opened with any text or code editor. I'd recommend <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a> but you can use whatever software you'd like.
+    - Open the script file <a href="https://github.com/kellerflint/Class-Intro-SQL/blob/hugo/content/Files/CustomerScript.sql" target="_blank">CustomerScript.sql (github.com)</a>. It contains the commands to create tables and insert data into them.
 2. **Access phpMyAdmin**:
     - From the WebHostingForStudents Client Area, find your website and click the "Log in to cPanel" button.
     - Once in cPanel, click "phpMyAdmin" under the "Databases" section.

@@ -1,3 +1,5 @@
+Before recording - zoom to 150% and collapse bookmarks.
+
 
 TODO:
 - Video on Canvas explaining this weeks lessons
