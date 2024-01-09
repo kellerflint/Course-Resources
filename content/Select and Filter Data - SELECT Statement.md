@@ -47,6 +47,6 @@ This query will result in the entire Customers table being displayed.
 
 # Practice Questions
 
-Select only the contact's name and age columns from the Customer table.
+1. Select only the contact's name and age columns from the Customer table.
 
 Back: [[Select and Filter Data - Running Scripts]] | Next: [[Select and Filter Data - WHERE Clause and Comparison Operators]]

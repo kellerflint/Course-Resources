@@ -59,8 +59,8 @@ In this ordered list, employees are sorted by their departments ('Finance', 'HR'
 
 # Practice Questions
 
-Write a query to select all customers and order them alphabetically by the customer name.
+7. Write a query to select all customers and order them alphabetically by the customer name.
 
-Write a query to select all customers and order them by their Ids from highest to lowest.
+8. Write a query to select all customers and order them by their Ids from highest to lowest.
 
 Back: [[Select and Filter Data - Logical Operators]] | Next: [[Select and Filter Data - SQL Comments]]

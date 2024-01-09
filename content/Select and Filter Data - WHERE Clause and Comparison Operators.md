@@ -15,12 +15,12 @@ WHERE condition;
 There are many different types of operators that can be used in our condition to filter what rows we get back based on the data they contain.
 
 The first type are the comparison operators. These are used to compare values in a column with other values or expressions. These include:
-- `=` : Equal to
-- `<>` or `!=` : Not equal to
-- `>` : Greater than
-- `<` : Less than
-- `>=` : Greater than or equal to
-- `<=` : Less than or equal to
+- = : Equal to
+- <> or != : Not equal to
+- > : Greater than
+- < : Less than
+- >= : Greater than or equal to
+- <= : Less than or equal to
 
 For example, assume we have a table `Employees` with the following data:
 
@@ -58,7 +58,8 @@ WHERE Department <> 'HR';
 If we wanted to see information for employees over the age of 30 we could write:
 
 ```sql
-SELECT * FROM Employees WHERE Age > 30;
+SELECT * FROM Employees 
+WHERE Age > 30;
 ```
 ##### Expected Output:
 | EmployeeID | Name | Age | Department |
@@ -67,8 +68,8 @@ SELECT * FROM Employees WHERE Age > 30;
 | 3 | Alex Ray | 45 | IT |
 # Practice Questions
 
-Write a query to select all customers who are from 'Germany'.
+2. Write a query to select all customers who are from 'Germany'.
 
-Write a query to select all customers whose contact age is less than or equal to 20.
+3. Write a query to select all customers whose contact age is less than or equal to 20.
 
 Back: [[Select and Filter Data - SELECT Statement]] | Next: [[Select and Filter Data - Logical Operators]]

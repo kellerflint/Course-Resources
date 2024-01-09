@@ -94,10 +94,10 @@ The `%` symbol after the 'J' is a wildcard that represents zero, one, or multipl
 
 # Practice Questions
 
-Write a query to select all customers who are from 'Berlin', 'London', 'Vancouver', 'São Paulo' or 'Madrid'.
+4. Write a query to select all customers who are from 'Berlin', 'London', 'Vancouver', 'São Paulo' or 'Madrid'.
 
-Write a query to select all customers who are not from 'Germany' and whose contact ages are under 60 years old.
+5. Write a query to select all customers who are not from 'Germany' and whose contact ages are under 60 years old.
 
-Write a query to select all customers whose contact ages are between 25 and 35 and whose contact name starts with an 'Al'.
+6. Write a query to select all customers whose contact ages are between 25 and 35 and whose contact name starts with an 'Al'.
 
 Back: [[Select and Filter Data - WHERE Clause and Comparison Operators]] | Next: [[Select and Filter Data - ORDER BY]]
