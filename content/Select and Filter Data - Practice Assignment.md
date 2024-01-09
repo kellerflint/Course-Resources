@@ -1,3 +1,4 @@
+# Practice Assignment 
 <iframe src="https://egator.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=301026b3-0fb6-4a0b-abc9-b0f2017793d2&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 In addition to the practice problems from the lesson pages, write queries to do the following.
 
