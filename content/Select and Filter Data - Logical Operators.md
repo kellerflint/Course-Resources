@@ -1,6 +1,5 @@
-<iframe src="https://egator.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=1d1412b2-7cca-43cf-af61-b0f20177942c&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 # Logical Operators
-
+<iframe src="https://egator.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=1d1412b2-7cca-43cf-af61-b0f20177942c&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 Logical operators are essential in SQL for combining multiple conditions in the WHERE clause and adding flexibility to your queries. With the right operators, you can filter for rows based on any combination of attributes and conditions.
 
 Some of the most commonly used logical operators used in SQL are:
