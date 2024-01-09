@@ -1,3 +1,4 @@
+<iframe src="https://egator.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=10ae282e-3ce2-4f40-81b7-b0f201779467&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 # WHERE Clause
 
 The WHERE clause in SQL is used to filter records from a table, returning only those that meet a specific condition. 

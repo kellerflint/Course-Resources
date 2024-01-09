@@ -1,4 +1,5 @@
 # SELECT Statement
+<iframe src="https://egator.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=aa477a38-2f05-4bf1-9aaf-b0f201779f3c&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 ## Database Basics Refresher
 
 Databases exist to help us store and manage large amounts of information in an organized way. In SQL this data is organized into tables consisting of rows and columns. Each table in a database represents a different entity, such as customers, products, or orders. The rows in the table represent individual records, and the columns represent the attributes of these entities.

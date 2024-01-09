@@ -1,4 +1,4 @@
-
+<iframe src="https://egator.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=1304790b-0894-4c02-90b6-b0f2017793fc&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 # ORDER BY
 
 The `ORDER BY` clause is used to sort the result set of a query by one or more columns. It can sort the data in ascending or descending order. By default, it sorts in ascending order. 
@@ -33,8 +33,7 @@ ORDER BY Age;
 If we instead wrote:
 
 ```sql
-SELECT *
-FROM Employees
+SELECT * FROM Employees
 ORDER BY Age DESC;
 ```
 
