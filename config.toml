@@ -11,10 +11,6 @@ paginate = 10
 enableGitInfo = true
 
 [markup]
-    [markup.tableOfContents]
-        endLevel = 3
-        ordered = true
-        startLevel = 2
     [markup.highlight]
         noClasses = false
         anchorLineNos = false
