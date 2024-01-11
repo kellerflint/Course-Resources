@@ -18,4 +18,4 @@ To get started with hands-on practice, you'll need data to populate your databas
 5. **Verify the Data**:
     - After running the script, check to ensure that tables are created and data is inserted. You can do this by running a simple SELECT query, like `SELECT * FROM tablename;.
 
-Back: [[Select and Filter Data - Introduction]] | Next: [[Select and Filter Data - SELECT Statement]] 
+Back: [[Select and Filter Data - Creating a Database]] | Next: [[Select and Filter Data - SELECT Statement]] 
