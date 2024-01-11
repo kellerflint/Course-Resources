@@ -8,4 +8,4 @@ As you progress through the lessons, make sure to solve the practice questions i
 
 Before getting started you'll want to make sure that you have a text or code editor installed. You will need this to write SQL scripts. I'd recommend <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a> but you can use whatever software you'd like.
 
-Next: [[Select and Filter Data - Running Scripts]]
+Next: [[Select and Filter Data - Creating a Database]]
