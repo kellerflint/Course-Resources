@@ -21,7 +21,7 @@ Given our bookstore database example from the previous lesson:
 |104|War and Peace|3|
 |105|Anna Karenina|3|
 
-To retrieve data that spans across these two tables, we use the SQL JOIN operation. Let's see how we can use the JOIN command to fetch the list of books along with their authors' names.
+In order to retrieve data that spans across these two tables, we use the SQL JOIN operation. Let's see how we can use the JOIN command to fetch the list of books along with their authors' names.
 
 ```sql
 SELECT Books.Title, Authors.AuthorName FROM Books
