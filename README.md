@@ -1,6 +1,6 @@
 # SQL Intro Class
 
-Hosted at: https://kellerflint.github.io/Class-Intro-SQL/Select-and-Filter-Data-Introduction/
+Hosted at: https://kellerflint.github.io/Class-Intro-SQL/Test-Page/
 
 # Quartz
 
