@@ -1,8 +1,5 @@
 ---
-title: Main Page
+title: Landing Page
 ---
 
-
-Hi, testing
-
-[[Test Page]]
+[[SQL For Data Analytics Lesson Index]]

@@ -1,3 +1,4 @@
+# SQL For Data Analytics Lesson Index
 
 Module One:
 Introduction to Databases and Relational Tables
