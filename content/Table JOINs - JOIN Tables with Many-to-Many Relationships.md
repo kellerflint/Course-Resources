@@ -1,8 +1,8 @@
-# Table JOINs - JOIN Tables with Many to Many Relationships
+# Table JOINs - JOIN Tables with Many-to-Many Relationships
 
-Embed Video
+Embed Video. Need to include example of using dates with your operators!
 
-## Understanding JOINs in Many to Many Relationships
+## Understanding JOINs in Many-to-Many Relationships
 
 Given our bookstore database example from the previous lesson:
 ### Authors Table:
@@ -28,7 +28,7 @@ Given our bookstore database example from the previous lesson:
 |103|1|
 |104|3|
 |105|3|
-To retrieve data that spans across these three tables, we use the SQL JOIN operation twice. Let's see how we can use the JOIN command to fetch the list of books along with their authors' names now that we're representing the data with a many to many relationship.
+To retrieve data that spans across these three tables, we use the SQL JOIN operation twice. Let's see how we can use the JOIN command to fetch the list of books along with their authors' names now that we're representing the data with a many-to-many relationship.
 ### Understanding the Many to Many Relationship
 
 ```sql
@@ -46,14 +46,17 @@ JOIN Authors ON BooksAuthors.AuthorID = Authors.AuthorID;
 |Starlight Symphony|Celeste Moon |
 |Moonlit Myth|Celeste Moon |
 #### 1. `SELECT Books.Title, Authors.AuthorName FROM Books`
-- This command retrieves the `Title` from the `Books` table and the `AuthorName` from the `Authors` table, aiming to display book titles alongside their authors' names.
-- It also sets `Books` as the primary table from which the query starts, establishing the context for the JOIN operations that follow.
+- This command retrieves the `Title` from the `Books` table and the `AuthorName` from the `Authors` table to display book titles alongside their authors' names.
+- It also sets `Books` as the table from which the query starts, establishing the context for the JOIN operations that follow.
 
 #### 2. `JOIN BooksAuthors ON Books.BookID = BooksAuthors.BookID`
 - The first JOIN operation. It joins the `Books` table with the `BooksAuthors` joining table, based on the `BookID`. This operation matches each book with its corresponding entries in the `BooksAuthors` table.
 
 #### 3. `JOIN Authors ON BooksAuthors.AuthorID = Authors.AuthorID`
-- The second JOIN operation. It joins the intermediate result (which includes information from `Books` and `BooksAuthors`) with the `Authors` table. The joining is based on the `AuthorID`, linking each entry in the BooksAuthors table with its respective author.
+- The second JOIN operation. It joins the intermediate result (which includes the information from `Books` and `BooksAuthors`) with the `Authors` table. The join is based on the `AuthorID`, linking each entry in the BooksAuthors table with its respective author.
 
+# Practice Questions
 
-Back: [[Table JOINs - Many to Many Relationships]] | Next: [[Table JOINs - Filter and Sort with JOINs]]
+3. **Display Order Details with Product Names:** Write a query to display details of each order, including the order ID, the date it was placed, and the names of the products in the order.
+
+Back: [[Table JOINs - Many-to-Many Relationships]] | Next: [[Table JOINs - Filter and Sort with JOINs]]

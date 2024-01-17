@@ -4,7 +4,7 @@ Video Embed
 
 ## What is Table Aliasing?
 
-Table aliasing involves giving a table in your SQL query a temporary name. This temporary name (aka alias) is often an abbreviation of the full table name. This is particularly useful in queries involving multiple tables, as it simplifies the query syntax and makes it easier to read and write.
+Table aliasing involves giving a table in your SQL query a temporary name. This temporary name (aka alias) is often an abbreviation of the full table name. This is particularly useful in queries involving multiple tables because it simplifies the query syntax and makes it easier to read and write.
 
 ### Example Using Authors and Books
 
@@ -38,9 +38,11 @@ JOIN Authors a ON b.AuthorID = a.AuthorID;
 
 3. **`b.Title, a.AuthorName`**: Instead of writing `Books.Title` and `Authors.AuthorName`, we use the aliases, making the query more concise.
 
-4. **`b.AuthorID = a.AuthorID`**: The JOIN condition uses the aliases as a stand in for the full table names.
+4. **`b.AuthorID = a.AuthorID`**: The JOIN condition uses the aliases as a stand in for the full table names as well.
 
+# Practice Questions
 
+6. **Rewrite Display Products Ordered in December 2023 Using Aliasing:** Copy your answer from #5. Rewrite it to show all products ordered in December 2023, including the product name, the order date and the order ID. Sort the results by product name (A to Z). Use table aliases wherever possible to make your code concise.
 
 
 Back: [[Table JOINs - Filter and Sort with JOINs]] | Next: [[Table JOINs - Practice Assignment]]

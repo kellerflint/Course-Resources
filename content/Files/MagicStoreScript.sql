@@ -2,13 +2,24 @@ DROP TABLE IF EXISTS `OrderProduct`;
 DROP TABLE IF EXISTS `Client`;
 DROP TABLE IF EXISTS `Order`;
 DROP TABLE IF EXISTS `Product`;
+DROP TABLE IF EXISTS `Supplier`;
+CREATE TABLE `Supplier`(
+    ID INT,
+    Name VARCHAR(255),
+	Address VARCHAR(255),
+    PhoneNumber VARCHAR(15),
+    
+    PRIMARY KEY (ID)
+);
 CREATE TABLE `Product`
 (
 	ID INT,
 	Name VARCHAR(255),
 	Price DECIMAL(6,2),
+	SupplierID INT,
 	
-	PRIMARY KEY (ID)
+	PRIMARY KEY (ID),
+	FOREIGN KEY (SupplierID) REFERENCES Supplier(ID)
 );
 CREATE TABLE `Client`(
 	ID INT,
@@ -35,6 +46,12 @@ CREATE TABLE `OrderProduct`(
 	FOREIGN KEY (OrderID) REFERENCES `Order`(ID),
 	FOREIGN KEY (ProductID) REFERENCES Product(ID)
 );
+INSERT INTO `Supplier` (ID, Name, Address, PhoneNumber) VALUES 
+(1, 'Enchanted Wares Ltd.', '123 Wizard Way, Mystical Valley', '+14085551234'),
+(2, 'Potions & Brews Co.', '456 Alchemy Ave, Enchanted Forest', '+12125559876'),
+(3, 'Mystic Crystals Emporium', '789 Crystal Caverns, Magic Mountain', '+15035551234'),
+(4, 'Arcane Artifacts Inc.', '101 Spellbound St, Sorcerer City', '+14125551212'),
+(5, 'Elixir Essentials', '202 Elixir Lane, Potion Town', '+16175551234');
 INSERT INTO `Client` VALUES
 (1, 'John', 'Mandrake', '2021-11-23'),
 (2, 'Kathleen', 'Jones', '2020-04-01'),
@@ -74,34 +91,34 @@ INSERT INTO `Client` VALUES
 (36, 'Leah', 'Lopez', '2022-01-07'),
 (37, 'Savannah', 'Hill', '2022-01-01');
 INSERT INTO `Product` VALUES
-(1, 'Healing Potion', 79.99),
-(2, 'Training Wand', 150.00),
-(3, 'Staff of Power', 9999.99),
-(4, 'Scroll of Fire', 199.99),
-(5, 'Elixir of Immortality', 8550.00),
-(6, 'Snail', 1.50),
-(7, 'Broom Stick', 499.99),
-(8, 'Charm of Luck', 99.50),
-(9, 'Petrified Gorgon Eye', 499.50),
-(10, 'Golden Apple', 199.99),
-(11, 'Demon\'s Bane', 449.50),
-(12, 'Sorcerer\'s Stone', 999.99),
-(13, 'Ring of Invisibility', 749.99),
-(14, 'Amulet of Protection', 199.00),
-(15, 'Cloak of Shadows', 199.50),
-(16, 'Boots of Speed', 459.99),
-(17, 'Gauntlets of Strength', 199.50),
-(18, 'Helm of Courage', 1099.00),
-(19, 'Shield of Defense', 479.50),
-(20, 'Bow of Accuracy', 299.99),
-(21, 'Arrow of Fire', 9.99),
-(22, 'Dagger of Poison', 89.50),
-(23, 'Sword of Truth', 829.50),
-(24, 'Hammer of Justice', 449.50),
-(25, 'Axe of Fury', 359.00),
-(26, 'Spear of War', 239.50),
-(27, 'Mace of Dominion', 1109.00),
-(28, 'Flail of Destruction', 149.50);
+(1, 'Healing Potion', 79.99, 1),
+(2, 'Training Wand', 150.00, 2),
+(3, 'Staff of Power', 9999.99, 3),
+(4, 'Scroll of Fire', 199.99, 4),
+(5, 'Elixir of Immortality', 8550.00, 5),
+(6, 'Snail', 1.50, 1),
+(7, 'Broom Stick', 499.99, 2),
+(8, 'Charm of Luck', 99.50, 3),
+(9, 'Petrified Gorgon Eye', 499.50, 4),
+(10, 'Golden Apple', 199.99, 5),
+(11, 'Demon\'s Bane', 449.50, 1),
+(12, 'Sorcerer\'s Stone', 999.99, 2),
+(13, 'Ring of Invisibility', 749.99, 3),
+(14, 'Amulet of Protection', 199.00, 4),
+(15, 'Cloak of Shadows', 199.50, 5),
+(16, 'Boots of Speed', 459.99, 1),
+(17, 'Gauntlets of Strength', 199.50, 2),
+(18, 'Helm of Courage', 1099.00, 3),
+(19, 'Shield of Defense', 479.50, 4),
+(20, 'Bow of Accuracy', 299.99, 5),
+(21, 'Arrow of Fire', 9.99, 1),
+(22, 'Dagger of Poison', 89.50, 2),
+(23, 'Sword of Truth', 829.50, 3),
+(24, 'Hammer of Justice', 449.50, 4),
+(25, 'Axe of Fury', 359.00, 5),
+(26, 'Spear of War', 239.50, 1),
+(27, 'Mace of Dominion', 1109.00, 2),
+(28, 'Flail of Destruction', 149.50, 3);
 INSERT INTO `Order` VALUES
 (1, '2021-12-01', 1),
 (2, '2022-08-20', 1),

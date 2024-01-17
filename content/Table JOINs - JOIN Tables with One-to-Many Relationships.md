@@ -1,9 +1,9 @@
 
-# Table JOINs - JOIN Tables with One to Many Relationships
+# Table JOINs - JOIN Tables with One-to-Many Relationships
 
 Video Embedding
 
-## Understanding JOINs in One to Many Relationships
+## Understanding JOINs in One-to-Many Relationships
 
 Given our bookstore database example from the previous lesson:
 ### Authors Table:
@@ -42,15 +42,19 @@ To understand exactly how the SQL JOIN command works in our Authors and Books ex
 - **Purpose**: This part of the query specifies what data we want to retrieve. Here, we are asking for the `Title` from the `Books` table and the `AuthorName` from the `Authors` table.
 - **Action**: It tells the database to look at these two columns and prepare to output data from them.
 #### 2. `FROM Books`
-- **Purpose**: This clause specifies the primary table from which to retrieve data, which in this case is the `Books` table.
+- **Purpose**: This clause specifies the table from which to retrieve data, which in this case is the `Books` table.
 - **Action**: It sets the context for the SQL query, indicating that the data will be selected from the `Books` table.
 #### 3. `JOIN Authors`
-- **Purpose**: Indicates that we want to combine rows from the `Books` table with rows from the `Authors` table.
-- **Action**: It initiates the action to merge data from the two tables based on a related column.
+- **Purpose**: Indicates that we want to combine rows from our existing table(s) (e.g., the `Books` table in this case) with rows from the `Authors` table.
+- **Action**: It initiates the action to combine data from the two tables based on a related column.
 #### 4. `ON Books.AuthorID = Authors.AuthorID`
-- **Purpose**: This is the condition on which the JOIN will be performed. To function, the JOIN needs to know what column it can use to match records between the two tables. `ON` is used to map this relationship. In this case, we are joining the tables based on the `AuthorID` column, which is common to both tables.
+- **Purpose**: This is the condition on which the JOIN will be performed. To function, the JOIN needs to know what column it should use to match records between the two tables. `ON` is used to map this relationship. In this case, we are joining the tables based on the `AuthorID` column, which is common to both tables.
 - **Action**: It matches each row in the `Books` table with the corresponding row in the `Authors` table where the `AuthorID` is the same.
 
+# Practice Questions
 
+1. **List all Orders with Client Details:** Write a query to list all orders, including the order ID, the date the order was placed, and the first and last name of the client who placed the order.
 
-Back: [[Table JOINs - One to Many Relationships]] | Next: [[Table JOINs - Many to Many Relationships]]
+2. **List All Products with Supplier Information:** Write a query to display a list of all products, including their name, price, and the name and address of their supplier.
+
+Back: [[Table JOINs - One-to-Many Relationships]] | Next: [[Table JOINs - Many-to-Many Relationships]]

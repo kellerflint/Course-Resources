@@ -6,7 +6,7 @@ Video Embed
 
 We can still utilize the clauses from previous lessons to filter and sort on joined data. 
 
-For this example we'll use the `Authors` and `Books` tables with a one to many relationship. Each author can write multiple books, but each book has only one author.
+For this example, we'll use the `Authors` and `Books` tables with a one-to-many relationship. Each author can write multiple books, but each book has only one author.
 ### Authors Table:
 |AuthorID|AuthorName|
 |---|---|
@@ -46,8 +46,12 @@ ORDER BY Books.Title;
 3. **WHERE Clause**: Filters the results to include only those books written by 'Leo Tolstoy'.
 4. **ORDER BY Clause**: Sorts the resulting list of books by their titles in ascending order.
 
-`JOIN` must come before our `WHERE` and `ORDER BY` clauses because we need to have the `AuthorName` and `Title` in order to filter and sort them.
+`JOIN` must come before our `WHERE` and `ORDER BY` clauses because we need to have access to both the `AuthorName` and `Title` in order to filter and sort them.
 
+# Practice Questions
 
+4. **Display All Products from a Specific Supplier:** Create a query to list all products supplied by 'Enchanted Wares Ltd.' including the supplier name along with the product names and prices. Sort the results by product name (Z to A).
 
-Back: [[Table JOINs - JOIN Tables with Many to Many Relationships]] | Next: [[Table JOINs - Table Aliasing]]
+5. **Display Products Ordered in December 2023:** Show all products ordered in December 2023, including the product name, the order date and the order ID. Sort the results by product name (A to Z).
+
+Back: [[Table JOINs - JOIN Tables with Many-to-Many Relationships]] | Next: [[Table JOINs - Table Aliasing]]
