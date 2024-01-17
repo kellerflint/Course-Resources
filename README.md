@@ -1,3 +1,7 @@
+# SQL Intro Class
+
+Hosted at: https://kellerflint.github.io/Class-Intro-SQL/Select-and-Filter-Data-Introduction/
+
 # Quartz
 
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
