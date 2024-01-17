@@ -35,6 +35,7 @@ JOIN Authors ON Books.AuthorID = Authors.AuthorID;
 | Animal Farm | George Orwell |
 | War and Peace | Leo Tolstoy |
 | Anna Karenina | Leo Tolstoy |
+
 This query effectively combines data from the `Books` and `Authors` tables by linking books to their respective authors by the AuthorID. The `JOIN` operation, facilitated by the `ON` clause, ensures that each book is matched with its author. The selected columns `Books.Title` and `Authors.AuthorName` are displayed in the resulting output.
 
 To understand exactly how the SQL JOIN command works in our Authors and Books example, let's break down the query piece by piece.
