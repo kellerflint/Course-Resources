@@ -3,7 +3,7 @@
 
 Video Embedding - need to tell them how to drop old stuff first.
 
-Run the following script on your database once dropped - link it here.
+Run the following script on your database once dropped - <a href="https://github.com/kellerflint/Class-Intro-SQL/blob/hugo/content/Files/MagicStoreScript.sql" target="_blank">MagicStoreScript.sql (github.com)</a>.
 
 
 
