@@ -54,4 +54,6 @@ ORDER BY Books.Title;
 
 5. **Display Products Ordered in December 2023:** Show all products ordered in December 2023, including the product name, the order date and the order ID. Sort the results by product name (A to Z).
 
+
+
 Back: [[Table JOINs - JOIN Tables with Many-to-Many Relationships]] | Next: [[Table JOINs - Table Aliasing]]

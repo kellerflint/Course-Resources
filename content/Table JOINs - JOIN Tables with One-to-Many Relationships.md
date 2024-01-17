@@ -1,7 +1,7 @@
 
 # Table JOINs - JOIN Tables with One-to-Many Relationships
 
-Video Embedding
+Video Embed
 
 ## Understanding JOINs in One-to-Many Relationships
 
@@ -56,5 +56,7 @@ To understand exactly how the SQL JOIN command works in our Authors and Books ex
 1. **List all Orders with Client Details:** Write a query to list all orders, including the order ID, the date the order was placed, and the first and last name of the client who placed the order.
 
 2. **List All Products with Supplier Information:** Write a query to display a list of all products, including their name, price, and the name and address of their supplier.
+
+
 
 Back: [[Table JOINs - One-to-Many Relationships]] | Next: [[Table JOINs - Many-to-Many Relationships]]

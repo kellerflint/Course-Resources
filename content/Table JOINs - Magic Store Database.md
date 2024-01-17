@@ -1,7 +1,7 @@
 
 # Table JOINs - Magic Store Database
 
-Video Embedding - need to tell them how to drop old stuff first. Then add new tables.
+Video Embed
 
 ## Add the Magic Store Database
 

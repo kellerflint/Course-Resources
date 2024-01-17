@@ -1,6 +1,6 @@
 # Table JOINs - JOIN Tables with Many-to-Many Relationships
 
-Embed Video. Need to include example of using dates with your operators!
+Video Embed
 
 ## Understanding JOINs in Many-to-Many Relationships
 
@@ -58,5 +58,7 @@ JOIN Authors ON BooksAuthors.AuthorID = Authors.AuthorID;
 # Practice Questions
 
 3. **Display Order Details with Product Names:** Write a query to display details of each order, including the order ID, the date it was placed, and the names of the products in the order.
+
+
 
 Back: [[Table JOINs - Many-to-Many Relationships]] | Next: [[Table JOINs - Filter and Sort with JOINs]]

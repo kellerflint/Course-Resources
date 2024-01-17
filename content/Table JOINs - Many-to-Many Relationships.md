@@ -1,6 +1,6 @@
 # Table JOINs - Many-to-Many Relationships
 
-Embed Video
+Video Embed
 
 ## Introduction to Many-to-Many Relationships
 

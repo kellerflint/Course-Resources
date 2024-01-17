@@ -1,6 +1,6 @@
 # Introduction to One-to-Many Relationships
 
-Video Embedding
+Video Embed
 
 ## What is a One-to-Many Relationship?
 
@@ -30,5 +30,15 @@ It's important to understand exactly why this is a one-to-many relationship. Why
 
 - **Single Book, Single Author**: Conversely, each book in the `Books` table is associated with only one author. For each row in the `Books` table, there is only a place for one AuthorID. For example, "1984" can only be associated with one author, George Orwell.
 
+### Terminology: Primary Keys and Foreign Keys
+
+#### Primary Key
+- A primary key is a unique identifier assigned to each record in a table. It ensures that each record can be distinctly identified, meaning no two records can have the same primary key value. This key is essential for maintaining the uniqueness and integrity of the data within the table.
+- In the `Authors` table, `AuthorID` serves as the primary key. Each author has a unique `AuthorID` that distinguishes it from others.
+- In the `Books` table, the `BookID` serves as the primary key. Each book has a unique `BookID` that distinguishes it from others.
+#### Foreign Key
+- A foreign key is a field (or collection of fields) in one table that uniquely identifies a row of another table. Put simply, a foreign key is a reference to the primary key of another table. It establishes a link between tables, showing how records in one table relate to records in another.
+- In the `Books` table, `AuthorID` serves as a foreign key. It references the `AuthorID` from the `Authors` table.
+- This foreign key creates the link between each book and its author, establishing the one-to-many relationship.
 
 Back: [[Table JOINs - Magic Store Database]] | Next: [[Table JOINs - JOIN Tables with One-to-Many Relationships]]

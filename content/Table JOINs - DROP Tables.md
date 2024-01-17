@@ -1,7 +1,7 @@
 
 # Table JOINs - DROP Tables
 
-Video Embedding - need to tell them how to drop old stuff first.
+Video Embed
 
 ## DROP Tables
 
@@ -17,5 +17,7 @@ A few important things to keep in mind when using `DROP`:
 - **Irreversible**: The `DROP` command is irreversible, meaning once you execute it, you can't undo the operation or recover the dropped data unless you have a backup.
 - **Use with Caution**: Given its permanent nature, it should be used with caution. Always ensure you have a backup or are absolutely certain you no longer need the data you're removing.
 - **Permissions**: You need appropriate permissions to execute a `DROP` command on database objects. You have these permission on your databases but in the real world you may not.
+
+
 
 Back: [[Table JOINs - Introduction]] | Next: [[Table JOINs - Magic Store Database]]

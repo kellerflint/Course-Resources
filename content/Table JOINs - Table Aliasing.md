@@ -42,7 +42,8 @@ JOIN Authors a ON b.AuthorID = a.AuthorID;
 
 # Practice Questions
 
-6. **Rewrite Display Products Ordered in December 2023 Using Aliasing:** Copy your answer from #5. Rewrite it to show all products ordered in December 2023, including the product name, the order date and the order ID. Sort the results by product name (A to Z). Use table aliases wherever possible to make your code concise.
+6. **Rewrite Display Products Ordered in December 2023 Using Aliasing:** Copy your answer from #5. Rewrite it to show the same information but using table aliases wherever possible to make your code more concise.
+
 
 
 Back: [[Table JOINs - Filter and Sort with JOINs]] | Next: [[Table JOINs - Practice Assignment]]
