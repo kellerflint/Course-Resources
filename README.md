@@ -1,6 +1,6 @@
 # SQL Intro Class
 
-Hosted at: https://kellerflint.github.io/Class-Intro-SQL/Test-Page/
+Hosted at: https://kellerflint.github.io/Class-Intro-SQL/SQL-For-Data-Analytics-Lesson-Index/
 
 # Quartz
 
