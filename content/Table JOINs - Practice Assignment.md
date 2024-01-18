@@ -7,7 +7,7 @@ In addition to the practice problems from the lesson pages, write queries to do 
 
 9. **Show Orders Placed After a Specific Date:** Write a query to display orders placed after '2023-01-01', including order ID, product names, and order date. Sort the results by product name.
 
-10. **Question: List All Orders for 'Elixir of Immortality':** Display all orders that include the 'Elixir of Immortality', showing the order ID and the date the order was placed. Show the most recent orders first.
+10. **List All Orders for 'Elixir of Immortality':** Display all orders that include the 'Elixir of Immortality', showing the order ID and the date the order was placed. Show the most recent orders first.
 ### Submission Instructions
 
 Please put all SQL queries for the practice questions into a single SQL file. Use comments to label each query with its respective question number. Submit this .sql file for your assignment on Canvas.
