@@ -54,6 +54,7 @@ ORDER BY Books.Title;
 4. **Display All Products from a Specific Supplier:** Create a query to list all products supplied by 'Enchanted Wares Ltd.' including the supplier name along with the product names and prices. Sort the results by product name (Z to A).
 
 5. **Display Products Ordered in December 2023:** Show all products ordered in December 2023, including the product name, the order date and the order ID. Sort the results by product name (A to Z).
+	*Hint: You can compare dates strings like numbers! For example `WHERE Date > '2020-12-01'` would return only rows where the `Date` was more recent than December 1st, 2020.*
 
 
 
