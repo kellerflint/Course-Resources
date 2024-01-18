@@ -1,6 +1,7 @@
 # Table JOINs - JOIN Tables with Many-to-Many Relationships
 
-Video Embed
+
+<iframe src="https://egator.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=c59e6ff3-602a-4508-9a6f-b0fb000ebc41&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 
 ## Understanding JOINs in Many-to-Many Relationships
 

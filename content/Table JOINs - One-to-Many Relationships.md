@@ -1,6 +1,9 @@
 # Introduction to One-to-Many Relationships
 
-Video Embed
+
+<iframe src="https://egator.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=b1546239-e7ce-4a5d-9068-b0fb000eabca&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
+
+<iframe src="https://egator.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=b8901214-6404-4e52-9e50-b0fb000ee542&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 
 ## What is a One-to-Many Relationship?
 

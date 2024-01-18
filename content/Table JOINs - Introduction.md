@@ -1,6 +1,6 @@
 # Table JOINs - Introduction
 
-Video Embed
+<iframe src="https://egator.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=de230526-3b5f-4f66-b8b5-b0fb000eac18&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 
 In this section, we will:
 - Interact with databases that have multiple related tables.

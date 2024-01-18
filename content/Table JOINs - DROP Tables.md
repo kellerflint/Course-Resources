@@ -1,7 +1,8 @@
 
 # Table JOINs - DROP Tables
 
-Video Embed
+
+<iframe src="https://egator.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=d3ae98bb-32d4-4e55-b179-b0fb000eabf2&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 
 ## DROP Tables
 
