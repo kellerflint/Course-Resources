@@ -29,7 +29,9 @@ Given our bookstore database example from the previous lesson:
 |103|1|
 |104|3|
 |105|3|
+
 To retrieve data that spans across these three tables, we use the SQL JOIN operation twice. Let's see how we can use the JOIN command to fetch the list of books along with their authors' names now that we're representing the data with a many-to-many relationship.
+
 ### Understanding the Many to Many Relationship
 
 ```sql
