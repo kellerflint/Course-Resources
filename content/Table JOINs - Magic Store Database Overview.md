@@ -1,13 +1,13 @@
 
-# Table JOINs - Magic Store Database
+# Table JOINs - Magic Store Database Overview
 
 
 <iframe src="https://egator.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=ff2760b3-299f-459d-853e-b0fb000eac4a&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 
-## Add the Magic Store Database
+## Initialize the Magic Store Database
 
-- DROP the tables from your previous assignment(s)
-- Run the following script to populate your database <a href="https://github.com/kellerflint/Class-Intro-SQL/blob/hugo/content/Files/MagicStoreScript.sql" target="_blank">MagicStoreScript (github.com)</a>
+- DROP the tables from your previous assignment(s), if necessary
+- Run the following script to populate your database -> <a href="https://github.com/kellerflint/Class-Intro-SQL/blob/hugo/content/Files/MagicStoreScript.sql" target="_blank">MagicStoreScript (github.com)</a>
 
 ## Magic Store Database Overview
 

@@ -38,9 +38,8 @@ Every questions should be answered with exactly one query. You will need exactly
 **Question 14**: Why is Steven King's manager ID null? Write a one or two sentence explanation. Provide a single query to prove your answer.
 
 **Question 15**: Which cities seem to pay the highest salaries? Provide the query you wrote to explore this relationship. Write a few sentences explaining how you came to this conclusion based on your query results.
-*It might be useful to order by two columns! Think about which two would make the most sense.*
-
+*It might be useful to order by two columns! Think about which two would make the most sense. See [[Select and Filter Data - ORDER BY]] for a refresher on ordering by multiple columns.*
 
 **IMPORTANT**: Make sure you copy your **ENTIRE SCRIPT** into PHPMyAdmin and run it against the database before you submit. Confirm that everything works as expected. **If you submit a script that does not run it will receive a ZERO!** Start early so you have time to get help and make corrections if needed!
 
-Back: [[Querying and Analysis for HR Database Project - Introduction]]
+Back: [[Querying and Analysis for HR Database Project - HR Database Overview]]

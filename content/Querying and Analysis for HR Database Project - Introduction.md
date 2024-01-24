@@ -23,4 +23,4 @@ This final section of this assignment moves beyond the syntax of SQL and require
 - Analyze query results to identify patterns.
 - Compare and contrast data to draw conclusions using your best judgement.
 
-Next: [[Querying and Analysis for HR Database Project - Assignment]]
+Next: [[Querying and Analysis for HR Database Project - HR Database Overview]]

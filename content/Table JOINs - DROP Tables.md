@@ -21,4 +21,4 @@ A few important things to keep in mind when using `DROP`:
 
 
 
-Back: [[Table JOINs - Introduction]] | Next: [[Table JOINs - Magic Store Database]]
+Back: [[Table JOINs - Introduction]] | Next: [[Table JOINs - Magic Store Database Overview]]
