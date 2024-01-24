@@ -1,4 +1,8 @@
 
+# Querying and Analysis for HR Database Project - Assignment
+
+<iframe src="https://egator.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=15d9c2bc-ef2e-4654-bf9f-b101005557e5&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
+
 Every questions should be answered with exactly one query. You will need exactly one SELECT statement per question. Be sure to provide complete and correct answers to each questions.
 # Section 1: Understand the Data Structure
 
@@ -32,12 +36,14 @@ Every questions should be answered with exactly one query. You will need exactly
 
 ***Use a multi-line comment to write explanations in the same .sql file as your queries.***
 
+WARNING: **DO NOT USE COMMAND THAT HAVE NOT BEEN COVERED IN CLASS!** Aggregation functions, GROUP BY and sub-querying could be helpful, but are far beyond the scope of this project. The point is to draw what conclusions you can using the tools we have so far.
+
 **Question 13**: In what months are most employees hired? Provide a single query to justify your answer.
 *You can use `MONTH(some_date_column)` to extract just the month from a date.*
 
-**Question 14**: Why is Steven King's manager ID null? Write a one or two sentence explanation. Provide a single query to prove your answer.
+**Question 14**: Why is Steven King's manager ID null? Is it a case of missing data or was it intentionally left blank? Write a one to three sentence explanation. Provide a single query to prove your answer.
 
-**Question 15**: Which cities seem to pay the highest salaries? Provide the query you wrote to explore this relationship. Write a few sentences explaining how you came to this conclusion based on your query results.
+**Question 15**: Which cities seem to pay the highest salaries? Provide the query you wrote to explore the relationship between location and salary. Write a few sentences explaining how you came to this conclusion based on your query results.
 *It might be useful to order by two columns! Think about which two would make the most sense. See [[Select and Filter Data - ORDER BY]] for a refresher on ordering by multiple columns.*
 
 **IMPORTANT**: Make sure you copy your **ENTIRE SCRIPT** into PHPMyAdmin and run it against the database before you submit. Confirm that everything works as expected. **If you submit a script that does not run it will receive a ZERO!** Start early so you have time to get help and make corrections if needed!

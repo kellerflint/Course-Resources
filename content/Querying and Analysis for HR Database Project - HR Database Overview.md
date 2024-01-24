@@ -1,5 +1,8 @@
 
-To answer the questions in this project you will need to run this script on your Database. Make sure to `DROP` any existing tables before adding these to avoid confusion!
+
+# Querying and Analysis for HR Database Project - HR Database Overview
+
+<iframe src="https://egator.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=1bda4f91-4cd6-4dad-b0e3-b10100555862&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 
 ## Initialize the HR Database
 
@@ -64,9 +67,6 @@ The HR Database is designed to mirror a typical business's human resources data 
 - `city`: City where the location is based.
 - `state_province`: State or province of the location.
 - `country_id`: Identifier for the country of the location, referencing `countries` (Foreign Key).
-
-
-This HR Database is designed to model the internal structure of an organization, providing a comprehensive picture of employees, their roles, departments, and locations within the company. As you explore this database, you'll gain insights into how data is structured and managed in a professional business setting.
 
 
 

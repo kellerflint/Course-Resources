@@ -1,4 +1,8 @@
 
+# Querying and Analysis for HR Database Project - Introduction
+
+<iframe src="https://egator.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=531fbeb7-cdae-4733-a89c-b1010055588d&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
+
 This assignment is divided into three sections, each aimed at developing a different aspect of your querying and analytical skills.
 
 It is **ESSENTIAL** that you start project assignments early so you have time to get help!
