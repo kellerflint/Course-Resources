@@ -5,7 +5,7 @@ To answer the questions in this project you will need to run this script on your
 
 - DROP the tables from your previous assignment(s), if necessary
 	- See [[Table JOINs - DROP Tables]] for a refresher on dropping tables.
-- Run the following script to populate your database -> <a href="https://github.com/kellerflint/Class-Intro-SQL/blob/hugo/content/Files/HRScript.sql)">HRScript.sql (github.com)</a>
+- Run the following script to populate your database -> <a href="https://github.com/kellerflint/Class-Intro-SQL/blob/hugo/content/Files/HRScript.sql">HRScript.sql (github.com)</a>
 	- See [[Select and Filter Data - Running Scripts]] for a refresher on running DB scripts.
 ## HR Database Overview
 

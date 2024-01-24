@@ -4,7 +4,7 @@ Module One:
 - Introduction to Databases and Relational Tables
 - [[Select and Filter Data - Introduction]]
 - [[Table JOINs - Introduction]]
-- Data Analytics and Module One Project
+- [[Querying and Analysis for HR Database Project - Introduction]]
 
 Module Two:
 
