@@ -6,13 +6,14 @@ Entity Relationship Diagrams (ERDs) not only show us the entities and their attr
 
 ### HR Entity Relationship Diagram
 <img src="https://raw.githubusercontent.com/kellerflint/Class-Intro-SQL/hugo/content/Images/hr_db_erd.png">
+
 *Source:* https://www.sqltutorial.org/sql-sample-database/
 ## Interpreting Relationships
 
 The lines between the tables indicate how the entities relate to each other. You will notice different endings on these lines, such as a single straight line or a forked line. These symbols tell us about the type and direction of the relationship.
 ### One-to-Many Relationship
 
-Consider the relationship between the `employees` and `jobs` tables in the [[#HR Entity Relationship Diagram]]:
+Consider the relationship between the `employees` and `jobs` tables in the HR Entity Relationship Diagram:
 - **Single Line**: This represents the "one" side of the relationship.
 - **Forked Line**: This symbolizes the "many" side of the relationship.
 
@@ -26,7 +27,7 @@ This visualization helps us understand that each employee is associated with one
 
 ### Employees-Dependents Example
 
-Now, let's look at the relationship between `employees` and `dependents`. Based on the [[#HR Entity Relationship Diagram]], what is the relationship between these two table? Try to find out for yourself before continuing.
+Now, let's look at the relationship between `employees` and `dependents`. Based on the HR Entity Relationship Diagram, what is the relationship between these two table? Try to find out for yourself before continuing.
 
 To understand the relationship, do the following:
 1. Look at the `employees` table. The line connecting it to `dependents` ends with a pronged line at the `dependents` table. This indicates that an employee can have many dependents.

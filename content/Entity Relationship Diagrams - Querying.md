@@ -6,12 +6,11 @@
 
 ### College Courses Diagram
 <img src="https://raw.githubusercontent.com/kellerflint/Class-Intro-SQL/hugo/content/Images/college_courses_erd.png">
-# Practice Questions
 
 7. Write a SQL query to retrieve the start date of all classes taught by the instructor named "Tina".
 8. Write a SQL query to retrieve the email addresses of all students who are taking classes that contain "Software" in the `title`.
 
-*You won't be able to run these since I haven't given you a database for this diagram. Write the queries based on what's in the [[#College Courses Diagram]].*
+*You won't be able to run these since I haven't given you a database for this diagram. Write the queries based on what's in the College Courses Diagram.*
 # Lessons
 - [[Entity Relationship Diagrams - Introduction]]
 - [[Entity Relationship Diagrams - Basic Structure]]
