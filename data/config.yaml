@@ -8,10 +8,10 @@ enableCodeBlockCopy: true
 enableCallouts: true
 enableSPA: true
 enableFooter: true
-enableContextualBacklinks: true
+enableContextualBacklinks: false
 enableRecentNotes: false
-enableGitHubEdit: true
-enableMermaid: true
+enableGitHubEdit: false
+enableMermaid: false
 GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
 search:
   enableSemanticSearch: false
