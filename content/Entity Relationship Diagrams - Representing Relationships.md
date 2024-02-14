@@ -5,7 +5,7 @@
 Entity Relationship Diagrams (ERDs) not only show us the entities and their attributes but also how these entities interact with each other. The lines connecting the tables represent these relationships and are necessary to understand the database's structure. Let's break down how to read these relationships using the HR database ERD from our previous lessons.
 
 ### HR Entity Relationship Diagram
-![[hr_db_erd.png]]
+<img src="https://raw.githubusercontent.com/kellerflint/Class-Intro-SQL/hugo/content/Images/hr_db_erd.png">
 *Source:* https://www.sqltutorial.org/sql-sample-database/
 ## Interpreting Relationships
 

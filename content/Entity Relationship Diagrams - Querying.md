@@ -5,7 +5,7 @@
 # Practice questions
 
 ### College Courses Diagram
-![[college_courses_erd.png]]
+<img src="https://raw.githubusercontent.com/kellerflint/Class-Intro-SQL/hugo/content/Images/college_courses_erd.png">
 # Practice Questions
 
 7. Write a SQL query to retrieve the start date of all classes taught by the instructor named "Tina".

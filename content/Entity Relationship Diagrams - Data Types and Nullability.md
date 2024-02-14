@@ -5,7 +5,7 @@
 In addition to showing basic structure of tables and their relationships, Entity Relationship Diagrams (ERDs) can also give us more insight into the columns. This can include data types for each column and whether a column can have null values. Let's explore these concepts with an example diagram.
 
 ### College Courses Diagram
-![[college_courses_erd.png]]
+<img src="https://raw.githubusercontent.com/kellerflint/Class-Intro-SQL/hugo/content/Images/college_courses_erd.png">
 
 
 ## Data Types

@@ -5,7 +5,7 @@ In addition to the practice problems from the lesson pages, write queries to do 
 12. *(Optional Challenge - 0pts)* See if you can identify all 7 of the problems in the diagram.
 
 ### Digital Movie Rentals Diagram
-![[movie_rentals_problems_erd.png]]
+<img src="https://raw.githubusercontent.com/kellerflint/Class-Intro-SQL/hugo/content/Images/movie_rentals_problems_erd.png">
 
 # Submission Instructions
 

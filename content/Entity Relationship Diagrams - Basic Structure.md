@@ -5,7 +5,7 @@
 Entity Relationship Diagrams come in various formats, but they share common elements that help us understand the architecture of a database. As we progress through this course, we will explore different ways to represent ERDs. For now, let's focus on a simple example using an HR database.
 
 ### HR Entity Relationship Diagram
-![[hr_db_erd.png]]
+<img src="https://raw.githubusercontent.com/kellerflint/Class-Intro-SQL/hugo/content/Images/hr_db_erd.png">
 *Source:* https://www.sqltutorial.org/sql-sample-database/
 
 The data here should look familiar, it's the diagram we used for the HR database in the Querying and Analysis assignment.
