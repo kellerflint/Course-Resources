@@ -7,6 +7,6 @@ Module One:
 - [[Querying and Analysis for HR Database Project - Introduction]]
 
 Module Two:
-
+- [[Entity Relationship Diagrams - Introduction]]
 
 Module Three:
