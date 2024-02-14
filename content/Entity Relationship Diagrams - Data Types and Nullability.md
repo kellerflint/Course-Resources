@@ -26,11 +26,11 @@ In addition to data types, ERDs can indicate whether a column can have a null va
 - **Nullable Fields**: These are optional and are marked with a question mark (`?`) after the data type in this diagram.
 - **Non-Nullable Fields**: These are required and have no question mark.
 
-Taking a look at the [[#College Courses Diagram]] above, you'll notice that each column in the tables has a defined data type. Some fields, like `phone_number` in the `student` table, are marked as nullable (indicated by `varchar(11)?`), meaning it is not mandatory for a record to have this information.
+Taking a look at the College Courses Diagram above, you'll notice that each column in the tables has a defined data type. Some fields, like `phone_number` in the `student` table, are marked as nullable (indicated by `varchar(11)?`), meaning it is not mandatory for a record to have this information.
 
 # Practice Questions
 
-5. Suppose we need to record the `office_location` for each `instructor` in the [[#College Courses Diagram]]. What data type should this column be and should it be allowed to be null? Why?
+5. Suppose we need to record the `office_location` for each `instructor` in the College Courses Diagram. What data type should this column be and should it be allowed to be null? Why?
 6. Imagine we want a `last_accessed` column  in the `enrollment` table that tracks when a student last signed into their class on Canvas. What data type should this column be and should it be allowed to be null? Why?
 # Lessons
 - [[Entity Relationship Diagrams - Introduction]]

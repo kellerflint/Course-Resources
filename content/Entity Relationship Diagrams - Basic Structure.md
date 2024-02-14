@@ -6,6 +6,7 @@ Entity Relationship Diagrams come in various formats, but they share common elem
 
 ### HR Entity Relationship Diagram
 <img src="https://raw.githubusercontent.com/kellerflint/Class-Intro-SQL/hugo/content/Images/hr_db_erd.png">
+
 *Source:* https://www.sqltutorial.org/sql-sample-database/
 
 The data here should look familiar, it's the diagram we used for the HR database in the Querying and Analysis assignment.
