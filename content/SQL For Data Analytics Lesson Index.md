@@ -8,5 +8,6 @@ Module One:
 
 Module Two:
 - [[Entity Relationship Diagrams - Introduction]]
+- [[Creating Entity Relationship Diagrams - Introduction]]
 
 Module Three:
