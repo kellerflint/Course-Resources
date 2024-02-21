@@ -10,7 +10,7 @@ In addition to the practice problems from the lesson pages, write queries to do 
 
 # Submission Instructions
 
-Please label each question with it's number and write all answers in a single file using your text editor of choice. Copy your answers over to the submission area for the assignment on Canvas.
+Please label each question with its number and write all answers in a single file using your text editor of choice. Copy your answers over to the submission area for the assignment on Canvas.
 # Lessons
 - [[Entity Relationship Diagrams - Introduction]]
 - [[Entity Relationship Diagrams - Basic Structure]]
