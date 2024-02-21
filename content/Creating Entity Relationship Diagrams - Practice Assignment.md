@@ -1,3 +1,4 @@
+# Creating Entity Relationship Diagrams - Practice Assignment
 
 In addition to the practice problems from the lesson pages, create an entity relationship diagram for the following business scenario using [drawSQL](https://drawsql.app/). *Please check with your instructor and get permission before using any other tool.*
 

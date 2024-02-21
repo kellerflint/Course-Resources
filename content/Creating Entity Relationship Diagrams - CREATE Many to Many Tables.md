@@ -7,6 +7,7 @@
 2. *(3pts)* Write the CREATE statements for the `pets`, `owners` and `pets_owners` tables in the diagram below. 
 
 <img src="https://raw.githubusercontent.com/kellerflint/Class-Intro-SQL/hugo/content/Images/pets_owners_erd.png">
+
 # Lessons
 - [[Creating Entity Relationship Diagrams - Introduction]]
 - [[Creating Entity Relationship Diagrams - CREATE One to Many Tables]]
