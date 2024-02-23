@@ -6,4 +6,4 @@ title: Landing Page
 
 [[NET Example]]
 
-[[Temp]]
+[[AI Class Plan Spring]]
