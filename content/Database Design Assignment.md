@@ -30,7 +30,7 @@ SELECT * FROM Owners;
 
 # Submission Instructions
 
-For part 1 of this assignment (and for the [[Database Design Assignment - Challenge (5 pts Extra Credit)|challenge]], should you chose to attempt it), take a screenshot of your completed entity relationship diagram(s) from drawSQL.
+For part 1 of this assignment (and for the [[Database Design Assignment - Challenge (5 pts Extra Credit)|challenge]], should you choose to attempt it), take a screenshot of your completed entity relationship diagram(s) from drawSQL.
 
 For part 2 of this assignment, please put your `CREATE`, `INSERT` and `SELECT` SQL queries into a single SQL file.
 
