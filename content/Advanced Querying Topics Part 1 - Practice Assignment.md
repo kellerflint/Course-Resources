@@ -12,6 +12,10 @@
 10. Write a query to display the prices of the most and least expensive products ordered in January through March of 2021. Name the columns "Cheapest" and "Most Expensive". Expected result:
 <img src="https://raw.githubusercontent.com/kellerflint/Class-Intro-SQL/hugo/content/Images/AQR10.png">
 
+### Submission Instructions
+
+Please put all SQL queries for the practice questions into a single SQL file. Use comments to label each query with its respective question number. Submit this .sql file for your assignment on Canvas.
+
 # Lessons
 - [[Advanced Querying Topics Part 1 - Introduction]]
 - [[Advanced Querying Topics Part 1 - JOIN Refresher]]
