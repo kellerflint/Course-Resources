@@ -4,9 +4,14 @@
 
 # Practice Questions
 5. Write a query to display the client's full name (first name and last name combined) as "Client Name" and the date their account was created as "Sign up Date" for clients with the IDs 5, 10, 20 and 25.
-	<img src="https://raw.githubusercontent.com/kellerflint/Class-Intro-SQL/hugo/content/Images/AQR6.png">
+
+Expected Results:
+<img src="https://raw.githubusercontent.com/kellerflint/Class-Intro-SQL/hugo/content/Images/AQR6.png">
+
 6. Write a query to show all products that cost more than 1 and less than 100. Display the product name, the product's supplier name and the product's price. Rename the price column as "Price (USD)", product name column as "Product Name" and the supplier name column as "Supplier Name".
-	<img src="https://raw.githubusercontent.com/kellerflint/Class-Intro-SQL/hugo/content/Images/AQR7.png">
+
+Expected Results:
+<img src="https://raw.githubusercontent.com/kellerflint/Class-Intro-SQL/hugo/content/Images/AQR7.png">
 
 # Lessons
 - [[Advanced Querying Topics Part 1 - Introduction]]

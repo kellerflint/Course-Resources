@@ -4,10 +4,16 @@
 
 # Practice Questions
 
-3. Write a query to find the total number of orders placed in 2021. Expected result:
-	<img src="https://raw.githubusercontent.com/kellerflint/Class-Intro-SQL/hugo/content/Images/AQR4.png">
-4. Write a query to calculate the minimum, average and maximum price of all products supplied by "Elixir Essentials". Expected result: 
-	<img src="https://raw.githubusercontent.com/kellerflint/Class-Intro-SQL/hugo/content/Images/AQR5.png">
+3. Write a query to find the total number of orders placed in 2021.
+
+Expected result:
+<img src="https://raw.githubusercontent.com/kellerflint/Class-Intro-SQL/hugo/content/Images/AQR4.png">
+
+4. Write a query to calculate the minimum, average and maximum price of all products supplied by "Elixir Essentials". 
+
+Expected result: 
+<img src="https://raw.githubusercontent.com/kellerflint/Class-Intro-SQL/hugo/content/Images/AQR5.png">
+
 # Lessons
 - [[Advanced Querying Topics Part 1 - Introduction]]
 - [[Advanced Querying Topics Part 1 - JOIN Refresher]]
