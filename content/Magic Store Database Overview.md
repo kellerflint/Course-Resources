@@ -1,5 +1,5 @@
 
-# Table JOINs - Magic Store Database Overview
+# Magic Store Database Overview
 
 
 <iframe src="https://egator.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=ff2760b3-299f-459d-853e-b0fb000eac4a&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>

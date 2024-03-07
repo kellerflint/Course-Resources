@@ -44,4 +44,4 @@ It's important to understand exactly why this is a one-to-many relationship. Why
 - In the `Books` table, `AuthorID` serves as a foreign key. It references the `AuthorID` from the `Authors` table.
 - This foreign key creates the link between each book and its author, establishing the one-to-many relationship.
 
-Back: [[Table JOINs - Magic Store Database Overview]] | Next: [[Table JOINs - JOIN Tables with One-to-Many Relationships]]
+Back: [[Magic Store Database Overview]] | Next: [[Table JOINs - JOIN Tables with One-to-Many Relationships]]

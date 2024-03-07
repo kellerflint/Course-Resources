@@ -13,6 +13,7 @@ Things I missed and stuff that needs to be fixed on the next pass:
 	- `IS NULL`: Returns true if a value is NULL.
 	- `IS NOT NULL`: Returns true if a value is not NULL.
 - We've covered DROP but not DROP IF EXISITS. Make sure to do that when we start creating our own databases.
+- LIMIT should have been covered in week 1. Can move it there next time.
 
 
 

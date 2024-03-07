@@ -33,5 +33,5 @@ npm install --save-dev nodemon
 
 Start node
 ```bash
-nodemon index.js
+npx nodemon index.js
 ```

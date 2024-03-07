@@ -12,3 +12,16 @@ Module Two:
 - [[ERD & DB Design Assignment - Introduction]]
 
 Module Three:
+- [[Advanced Querying Topics Part 1 - Introduction]]
+
+Topics 2:
+- GROUP BY
+- HAVING
+- More data analytics topics
+
+Topic 3:
+- Sub querying
+- More data analytics topics
+
+Topic 4:
+- Lessons
