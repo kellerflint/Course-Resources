@@ -1,14 +1,8 @@
-# Title
+# Advanced Querying Topics Part 1 - Introduction
 
-Intro, mention we're back to the magic store.
 
-Topics:
-- Join refresher
-- Aggregation functions
-- Aliasing columns
-- Calculating values for columns
 
-DROP existing tables and add the Magic Store Database -> [[Magic Store Database Overview]]
+DROP any existing tables in your database and run the script to create the magic store database -> [[Magic Store Database Overview]]
 # Lessons
 - Advanced Querying Topics Part 1 - Introduction
 - Next: [[Advanced Querying Topics Part 1 - JOIN Refresher]]
