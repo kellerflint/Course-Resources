@@ -13,7 +13,7 @@ Module Two:
 
 Module Three:
 - [[Advanced Querying Topics Part 1 - Introduction]]
-
+- [[Grouping and Data Analytics - Introduction]]
 Topics 2:
 - GROUP BY
 - HAVING
