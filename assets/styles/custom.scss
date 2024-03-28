@@ -1,5 +1,27 @@
 // Add your own CSS here!
 
+// removes the "backlinks" section at the bottom of the page
+.backlinks-container {
+  display: none;
+}
+
+// removes the "graph" section at the bottom of the page
+.graph-container {
+  display: none;
+}
+
+// removes the "meta" section at the top of the page (with last updated)
+.meta {
+  display: none;
+}
+
+// removes the # in front of every header
+span.hanchor {
+  display: none;
+}
+
+// default
+
 :root {
   --light: #faf8f8;
   --dark: #141021;
@@ -26,6 +48,3 @@
   --outlinegray: #343434 !important;
   --highlighted: #574010;
 }
-
-
-

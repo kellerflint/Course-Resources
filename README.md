@@ -1,4 +1,4 @@
-# SQL Intro Class
+# Course Resources
 
 Hosted at: https://kellerflint.github.io/Course-Resources
 
