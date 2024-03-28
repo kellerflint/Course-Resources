@@ -1,12 +1,7 @@
 // Add your own CSS here!
 
-// removes the "backlinks" section at the bottom of the page
-.backlinks-container {
-  display: none;
-}
-
-// removes the "graph" section at the bottom of the page
-#graph-container {
+// remove footer back links and interactive graph
+#footer {
   display: none;
 }
 
