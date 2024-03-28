@@ -1,6 +1,6 @@
 # SQL Intro Class
 
-Hosted at: https://kellerflint.github.io/Course-Lessons
+Hosted at: https://kellerflint.github.io/Course-Resources
 
 # Quartz
 
