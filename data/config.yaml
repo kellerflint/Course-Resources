@@ -12,7 +12,7 @@ enableContextualBacklinks: false
 enableRecentNotes: false
 enableGitHubEdit: false
 enableMermaid: true
-GitHubLink: https://github.com/kellerflint/Class-Intro-SQL/tree/hugo/content
+GitHubLink: https://github.com/kellerflint/Course-Resources/tree/hugo/content
 search:
   enableSemanticSearch: false
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
@@ -21,7 +21,7 @@ description:
   Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
   Wikilink support, backlinks, local graph, tags, and link previews.
 page_title:
-  "SQL for Data Analytics"
+  "Course Resources"
 links:
   - link_name: GitHub
     link: https://github.com/kellerflint

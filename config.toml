@@ -1,4 +1,4 @@
-baseURL = "https://kellerflint.github.io/Class-Intro-SQL/"
+baseURL = "https://kellerflint.github.io/Course-Resources/"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
