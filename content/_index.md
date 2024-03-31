@@ -1,15 +1,17 @@
 ---
 title: Landing Page
 ---
-Hi there! This is a hosted obsidian notebook with lessons and resources for the courses I teach.
+Hi there! This is a hosted obsidian notebook with lessons and resources for all of the courses I teach.
 
 # Courses
-### [[SQL For Data Analytics Lesson Index]]
+### [[SQL _ Lesson Index]]
+
+### [[AI _ Lesson Index]]
 
 # Temp or Shared Resources
 
-[[AI Class Plan Spring]]
+[[MISC - AI Class Plan Spring]]
 
-[[Node Lessons]]
+[[MISC - Node Lessons]]
 
-[[Node Demo]]
+[[MISC - Node Demo]]
