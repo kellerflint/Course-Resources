@@ -9,6 +9,6 @@
 - [Eliza, a chatbot therapist (njit.edu)](https://web.njit.edu/~ronkowit/eliza.html)
 
 # Lessons
-- [[AI - W1 Course Introduction]]
+- [[AI - W1 Introduction]]
 - AI - W1 A Brief History of AI
 - Next: [[AI - W1 AI Tasks and Types of Machine Learning]]
