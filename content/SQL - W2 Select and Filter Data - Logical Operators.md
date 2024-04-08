@@ -102,4 +102,14 @@ The `%` symbol after the 'J' is a wildcard that represents zero, one, or multipl
 
 6. Write a query to select all customers whose contact ages are between 25 and 35 and whose contact name starts with an 'Al'.
 
-Back: [[SQL - Select and Filter Data - WHERE Clause and Comparison Operators]] | Next: [[SQL - Select and Filter Data - ORDER BY]]
+# Lessons
+- [[SQL - W2 Select and Filter Data - Introduction]]
+- [[SQL - W2 Select and Filter Data - Creating a Database]]
+- [[SQL - W2 Select and Filter Data - Running Scripts]]
+- [[SQL - W2 Select and Filter Data - SELECT Statement]]
+- [[SQL - W2 Select and Filter Data - WHERE Clause and Comparison Operators]]
+- SQL - W2 Select and Filter Data - Logical Operators
+- Next: [[SQL - W2 Select and Filter Data - ORDER BY]]
+- [[SQL - W2 Select and Filter Data - SQL Comments]]
+- [[SQL - W2 Select and Filter Data - Note on Semicolons]]
+- [[SQL - W2 Select and Filter Data - Practice Assignment]]

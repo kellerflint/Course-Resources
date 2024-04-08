@@ -63,4 +63,14 @@ In this ordered list, employees are sorted by their departments ('Finance', 'HR'
 
 8. Write a query to select all customers and order them by their Ids from highest to lowest.
 
-Back: [[SQL - Select and Filter Data - Logical Operators]] | Next: [[SQL - Select and Filter Data - SQL Comments]]
+# Lessons
+- [[SQL - W2 Select and Filter Data - Introduction]]
+- [[SQL - W2 Select and Filter Data - Creating a Database]]
+- [[SQL - W2 Select and Filter Data - Running Scripts]]
+- [[SQL - W2 Select and Filter Data - SELECT Statement]]
+- [[SQL - W2 Select and Filter Data - WHERE Clause and Comparison Operators]]
+- [[SQL - W2 Select and Filter Data - Logical Operators]]
+- SQL - W2 Select and Filter Data - ORDER BY
+- Next: [[SQL - W2 Select and Filter Data - SQL Comments]]
+- [[SQL - W2 Select and Filter Data - Note on Semicolons]]
+- [[SQL - W2 Select and Filter Data - Practice Assignment]]

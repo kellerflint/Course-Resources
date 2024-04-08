@@ -2,7 +2,7 @@
 
 Module One:
 - Introduction to Databases and Relational Tables
-- [[SQL - Select and Filter Data - Introduction]]
+- [[SQL - W2 Select and Filter Data - Introduction]]
 - [[SQL - Table JOINs - Introduction]]
 - [[SQL - Querying and Analysis for HR Database Project - Introduction]]
 

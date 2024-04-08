@@ -9,7 +9,7 @@
 - DROP the tables from your previous assignment(s), if necessary
 	- See [[SQL - Table JOINs - DROP Tables]] for a refresher on dropping tables.
 - Run the following script to populate your database -> <a href="https://github.com/kellerflint/Class-Intro-SQL/blob/hugo/content/Files/HRScript.sql">HRScript.sql (github.com)</a>
-	- See [[SQL - Select and Filter Data - Running Scripts]] for a refresher on running DB scripts.
+	- See [[SQL - W2 Select and Filter Data - Running Scripts]] for a refresher on running DB scripts.
 ## HR Database Overview
 
 The HR Database is designed to mirror a typical business's human resources data management system. It's structured to handle employee data, departmental divisions, and job details. Here's a brief description of each table:

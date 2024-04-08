@@ -18,4 +18,14 @@ To get started with hands-on practice, you'll need data to populate your databas
 5. **Verify the Data**:
     - After running the script, check to ensure that tables are created and data is inserted. You can do this by running a simple SELECT query, like `SELECT * FROM tablename;.
 
-Back: [[SQL - Select and Filter Data - Creating a Database]] | Next: [[SQL - Select and Filter Data - SELECT Statement]] 
+# Lessons
+- [[SQL - W2 Select and Filter Data - Introduction]]
+- [[SQL - W2 Select and Filter Data - Creating a Database]]
+- SQL - W2 Select and Filter Data - Running Scripts
+- Next: [[SQL - W2 Select and Filter Data - SELECT Statement]]
+- [[SQL - W2 Select and Filter Data - WHERE Clause and Comparison Operators]]
+- [[SQL - W2 Select and Filter Data - Logical Operators]]
+- [[SQL - W2 Select and Filter Data - ORDER BY]]
+- [[SQL - W2 Select and Filter Data - SQL Comments]]
+- [[SQL - W2 Select and Filter Data - Note on Semicolons]]
+- [[SQL - W2 Select and Filter Data - Practice Assignment]]

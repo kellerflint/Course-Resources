@@ -44,7 +44,7 @@ WARNING: **DO NOT USE COMMAND THAT HAVE NOT BEEN COVERED IN CLASS!** Aggregation
 **Question 14**: Why is Steven King's manager ID null? Is it a case of missing data or was it intentionally left blank? Write a one to three sentence explanation. Provide a single query to prove your answer.
 
 **Question 15**: Which cities seem to pay the highest salaries? Provide the query you wrote to explore the relationship between location and salary. Write a few sentences explaining how you came to this conclusion based on your query results.
-*It might be useful to order by two columns! Think about which two would make the most sense. See [[SQL - Select and Filter Data - ORDER BY]] for a refresher on ordering by multiple columns.*
+*It might be useful to order by two columns! Think about which two would make the most sense. See [[SQL - W2 Select and Filter Data - ORDER BY]] for a refresher on ordering by multiple columns.*
 
 **IMPORTANT**: Make sure you copy your **ENTIRE SCRIPT** into PHPMyAdmin and run it against the database before you submit. Confirm that everything works as expected. **If you submit a script that does not run it will receive a ZERO!** Start early so you have time to get help and make corrections if needed!
 

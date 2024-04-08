@@ -12,4 +12,14 @@ In addition to the practice problems from the lesson pages, write queries to do 
 
 Please put all SQL queries for the practice questions into a single SQL file. Use comments to label each query with its respective question number. Submit this .sql file for your assignment on Canvas.
 
-Back: [[SQL - Select and Filter Data - Note on Semicolons]]
+# Lessons
+- [[SQL - W2 Select and Filter Data - Introduction]]
+- [[SQL - W2 Select and Filter Data - Creating a Database]]
+- [[SQL - W2 Select and Filter Data - Running Scripts]]
+- [[SQL - W2 Select and Filter Data - SELECT Statement]]
+- [[SQL - W2 Select and Filter Data - WHERE Clause and Comparison Operators]]
+- [[SQL - W2 Select and Filter Data - Logical Operators]]
+- [[SQL - W2 Select and Filter Data - ORDER BY]]
+- [[SQL - W2 Select and Filter Data - SQL Comments]]
+- [[SQL - W2 Select and Filter Data - Note on Semicolons]]
+- SQL - W2 Select and Filter Data - Practice Assignment
