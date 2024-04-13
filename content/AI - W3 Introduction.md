@@ -1,4 +1,4 @@
-# Week 2 Learning Objectives
+# Week 3 Learning Objectives
 *These topics are what will be covered in this week's knowledge check and entry ticket quiz.*
 - Understand traditional machine learning models and the differences between linear regression, decision trees and random forests.
 - Understand the importance of model validation and testing the model's performance on unseen data.
