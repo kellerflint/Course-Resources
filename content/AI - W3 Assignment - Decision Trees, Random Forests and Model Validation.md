@@ -6,8 +6,8 @@
 Kaggle Lessons: [Learn Intro to Machine Learning | Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning)
 
 I **highly recommend** watching both of these videos to help give a more visual and intuitive understanding of how decision trees and random forests function:
-Recommended: [Visual Guide to Decision Trees (youtube.com)](https://www.youtube.com/watch?v=zs6yHVtxyv8&list=PLRZZr7RFUUmXfON6dvwtkaaqf9oV_C1LF&index=6&ab_channel=Econoscent) (6 minutes)
-**REQUIRED**: [Visual Guide to Random Forests (youtube.com)](https://www.youtube.com/watch?v=cIbj0WuK41w&list=PLRZZr7RFUUmXfON6dvwtkaaqf9oV_C1LF&index=6&ab_channel=Econoscent) (5 minutes)
+- Recommended: [Visual Guide to Decision Trees (youtube.com)](https://www.youtube.com/watch?v=zs6yHVtxyv8&list=PLRZZr7RFUUmXfON6dvwtkaaqf9oV_C1LF&index=6&ab_channel=Econoscent) (6 minutes)
+- **REQUIRED**: [Visual Guide to Random Forests (youtube.com)](https://www.youtube.com/watch?v=cIbj0WuK41w&list=PLRZZr7RFUUmXfON6dvwtkaaqf9oV_C1LF&index=6&ab_channel=Econoscent) (5 minutes)
 
 # Lessons
 - [[AI - W3 Introduction]]
