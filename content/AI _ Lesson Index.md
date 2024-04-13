@@ -2,3 +2,4 @@
 
 - [[AI - W1 Introduction]]
 - [[AI - W2 Introduction]]
+- [[AI - W3 Introduction]]
