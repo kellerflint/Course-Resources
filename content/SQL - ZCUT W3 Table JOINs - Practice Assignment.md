@@ -14,4 +14,4 @@ Please put all SQL queries for the practice questions into a single SQL file. Us
 
 
 
-Back: [[SQL - Table JOINs - Table Aliasing]]
+Back: [[SQL - ZCUT W3 Table JOINs - Table Aliasing]]

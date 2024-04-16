@@ -1,6 +1,6 @@
 # Advanced Querying Topics Part 1 - JOIN Refresher
 
-Need a refresher on JOINs? See our lessons on [[SQL - Table JOINs - One-to-Many Relationships]].
+Need a refresher on JOINs? See our lessons on [[SQL - W3 Table JOINs - One-to-Many Relationships]].
 # Practice Questions
 
 1. Write a query to retrieve all orders placed in August 2022. Include the ID of the order, the client's last name, and the date of the order. Expected result:

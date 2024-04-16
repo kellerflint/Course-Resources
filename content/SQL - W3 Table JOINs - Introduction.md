@@ -8,5 +8,11 @@ In this section, we will:
 - Explore the commands used to combine information from different tables, filter it based on specific criteria, and order it to get the results we want.
 
 
-
-Next: [[SQL - Table JOINs - DROP Tables]]
+# Lessons
+- SQL - W3 Table JOINs - Introduction
+- Next: [[SQL - W3 Table JOINs - DROP Tables]]
+- [[SQL - Magic Store Database Overview]]
+- [[SQL - W3 Table JOINs - One-to-Many Relationships]]
+- [[SQL - W3 Table JOINs - JOIN Tables with One-to-Many Relationships]]
+- [[SQL - W3 Table JOINs - Filter and Sort with JOINs]]
+- [[SQL - W3 One-to-Many JOINs - Practice Assignment]]

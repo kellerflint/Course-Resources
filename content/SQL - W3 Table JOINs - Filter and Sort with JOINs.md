@@ -1,4 +1,4 @@
-# Table JOINs - Filter and Sort with JOINs
+# Filter and Sort with JOINs
 
 <iframe src="https://egator.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=68a81ea3-08b4-42c1-8467-b0fb000ebe38&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 
@@ -32,7 +32,6 @@ SELECT Books.Title, Authors.AuthorName FROM Books
 JOIN Authors ON Books.AuthorID = Authors.AuthorID
 WHERE Authors.AuthorName = 'George Orwell'
 ORDER BY Books.Title;
-
 ```
 ##### Expected Output:
 |Title|AuthorName|
@@ -50,11 +49,15 @@ ORDER BY Books.Title;
 
 # Practice Questions
 
-4. **Display All Products from a Specific Supplier:** Create a query to list all products supplied by 'Enchanted Wares Ltd.' including the supplier name along with the product names and prices. Sort the results by product name (Z to A).
+3. Write a query to list all products supplied by 'Enchanted Wares Ltd.' including the supplier name along with the product names and prices. Sort the results by product name (Z to A).
 
-5. **Display Products Ordered in December 2021:** Show all products ordered in December 2021, including the product name, the order date and the order ID. Sort the results by product name (A to Z).
-	*Hint: You can compare dates strings like numbers! For example `WHERE Date > '2021-12-01'` would return only rows where the `Date` was more recent than December 1st, 2021.*
+4. Write a query to list all suppliers and their products, sorted by the supplier's name and product price.
 
-
-
-Back: [[SQL - Table JOINs - JOIN Tables with Many-to-Many Relationships]] | Next: [[SQL - Table JOINs - Table Aliasing]]
+# Lessons
+- [[SQL - W3 Table JOINs - Introduction]]
+- [[SQL - W3 Table JOINs - DROP Tables]]
+- [[SQL - Magic Store Database Overview]]
+- [[SQL - W3 Table JOINs - One-to-Many Relationships]]
+- [[SQL - W3 Table JOINs - JOIN Tables with One-to-Many Relationships]]
+- SQL - W3 Table JOINs - Filter and Sort with JOINs
+- Next: [[SQL - W3 One-to-Many JOINs - Practice Assignment]]

@@ -64,4 +64,4 @@ JOIN Authors ON BooksAuthors.AuthorID = Authors.AuthorID;
 
 
 
-Back: [[SQL - Table JOINs - Many-to-Many Relationships]] | Next: [[SQL - Table JOINs - Filter and Sort with JOINs]]
+Back: [[SQL - ZCUT W3 Table JOINs - Many-to-Many Relationships]] | Next: [[SQL - W3 Table JOINs - Filter and Sort with JOINs]]

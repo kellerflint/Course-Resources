@@ -47,4 +47,4 @@ JOIN Authors a ON b.AuthorID = a.AuthorID;
 
 
 
-Back: [[SQL - Table JOINs - Filter and Sort with JOINs]] | Next: [[SQL - Table JOINs - Practice Assignment]]
+Back: [[SQL - W3 Table JOINs - Filter and Sort with JOINs]] | Next: [[SQL - ZCUT W3 Table JOINs - Practice Assignment]]

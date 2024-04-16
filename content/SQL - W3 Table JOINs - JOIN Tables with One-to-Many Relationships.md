@@ -1,5 +1,5 @@
 
-# Table JOINs - JOIN Tables with One-to-Many Relationships
+# JOIN Tables with One-to-Many Relationships
 
 
 <iframe src="https://egator.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=851a0a62-1d48-4d30-9bff-b0fb000eb927&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
@@ -55,10 +55,17 @@ To understand exactly how the SQL JOIN command works in our Authors and Books ex
 
 # Practice Questions
 
-1. **List all Orders with Client Details:** Write a query to list all orders, including the order ID, the date the order was placed, and the first and last name of the client who placed the order.
+1. Write a query to list all orders, including the order ID, the date the order was placed, and the first and last name of the client who placed the order.
 
-2. **List All Products with Supplier Information:** Write a query to display a list of all products, including their name, price, and the name and address of their supplier.
+2. Write a query to display a list of all products, including their name, price, and the name and address of their supplier.
 
 
 
-Back: [[SQL - Table JOINs - One-to-Many Relationships]] | Next: [[SQL - Table JOINs - Many-to-Many Relationships]]
+# Lessons
+- [[SQL - W3 Table JOINs - Introduction]]
+- [[SQL - W3 Table JOINs - DROP Tables]]
+- [[SQL - Magic Store Database Overview]]
+- [[SQL - W3 Table JOINs - One-to-Many Relationships]]
+- SQL - W3 Table JOINs - JOIN Tables with One-to-Many Relationships
+- Next: [[SQL - W3 Table JOINs - Filter and Sort with JOINs]]
+- [[SQL - W3 One-to-Many JOINs - Practice Assignment]]

@@ -7,7 +7,7 @@
 ## Initialize the Magic Store Database
 
 - DROP the tables from your previous assignment(s), if necessary
-- Run the following script to populate your database -> <a href="https://github.com/kellerflint/Class-Intro-SQL/blob/hugo/content/Files/MagicStoreScript.sql" target="_blank">MagicStoreScript (github.com)</a>
+- Run the following script to populate your database -> <a href="https://github.com/kellerflint/Course-Resources/blob/hugo/content/SQL-Files/MagicStoreScript.sql" target="_blank">MagicStoreScript (github.com)</a>
 
 ## Magic Store Database Overview
 
@@ -41,4 +41,11 @@ The Magic Store Database contains the records of a store that sells potions, ing
 
 
 
-Back: [[SQL - Table JOINs - DROP Tables]] | Next: [[SQL - Table JOINs - One-to-Many Relationships]]
+# Lessons
+- [[SQL - W3 Table JOINs - Introduction]]
+- [[SQL - W3 Table JOINs - DROP Tables]]
+- SQL - Magic Store Database Overview
+- Next: [[SQL - W3 Table JOINs - One-to-Many Relationships]]
+- [[SQL - W3 Table JOINs - JOIN Tables with One-to-Many Relationships]]
+- [[SQL - W3 Table JOINs - Filter and Sort with JOINs]]
+- [[SQL - W3 One-to-Many JOINs - Practice Assignment]]

@@ -1,5 +1,5 @@
 
-# Table JOINs - DROP Tables
+# DROP Tables
 
 
 <iframe src="https://egator.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=d3ae98bb-32d4-4e55-b179-b0fb000eabf2&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
@@ -21,4 +21,11 @@ A few important things to keep in mind when using `DROP`:
 
 
 
-Back: [[SQL - Table JOINs - Introduction]] | Next: [[SQL - Magic Store Database Overview]]
+# Lessons
+- [[SQL - W3 Table JOINs - Introduction]]
+- SQL - W3 Table JOINs - DROP Tables
+- Next: [[SQL - Magic Store Database Overview]]
+- [[SQL - W3 Table JOINs - One-to-Many Relationships]]
+- [[SQL - W3 Table JOINs - JOIN Tables with One-to-Many Relationships]]
+- [[SQL - W3 Table JOINs - Filter and Sort with JOINs]]
+- [[SQL - W3 One-to-Many JOINs - Practice Assignment]]

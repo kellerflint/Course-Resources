@@ -45,4 +45,4 @@ In the `BooksAuthors` table, both `BookID` and `AuthorID` are used together to c
 
 
 
-Back: [[SQL - Table JOINs - JOIN Tables with One-to-Many Relationships]] | Next: [[SQL - Table JOINs - JOIN Tables with Many-to-Many Relationships]]
+Back: [[SQL - W3 Table JOINs - JOIN Tables with One-to-Many Relationships]] | Next: [[SQL - ZCUT W3 Table JOINs - JOIN Tables with Many-to-Many Relationships]]
