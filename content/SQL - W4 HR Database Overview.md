@@ -7,7 +7,7 @@
 
 - DROP the tables from your previous assignment(s), if necessary
 	- See [[SQL - W3 Table JOINs - DROP Tables]] for a refresher on dropping tables.
-- Run the following script to populate your database -> <a href="https://github.com/kellerflint/Class-Intro-SQL/blob/hugo/content/Files/HRScript.sql">HRScript.sql (github.com)</a>
+- Run the following script to populate your database -> <a href="https://github.com/kellerflint/Course-Resources/blob/hugo/content/SQL-Files/HRScript.sql">HRScript.sql (github.com)</a>
 	- See [[SQL - W2 Select and Filter Data - Running Scripts]] for a refresher on running DB scripts.
 ## HR Database Overview
 
