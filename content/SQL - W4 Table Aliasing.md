@@ -1,5 +1,5 @@
-# Table JOINs - Table Aliasing
 
+# Table Aliasing
 
 <iframe src="https://egator.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=81bef28a-deff-41c0-9675-b0fb000ec500&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 
@@ -45,6 +45,8 @@ JOIN Authors a ON b.AuthorID = a.AuthorID;
 
 6. **Rewrite Display Products Ordered in December 2023 Using Aliasing:** Copy your answer from #5. Rewrite it to show the same information but using table aliases wherever possible to make your code more concise.
 
-
-
-Back: [[SQL - W3 Table JOINs - Filter and Sort with JOINs]] | Next: [[SQL - ZCUT W3 Table JOINs - Practice Assignment]]
+# Lessons
+- [[SQL - W4 Querying and Analysis for HR Database Assignment Introduction]]
+- SQL - W4 Table Aliasing
+- Next: [[SQL - W4 HR Database Overview]]
+- [[SQL - W4 Querying and Analysis for HR Database Assignment]]

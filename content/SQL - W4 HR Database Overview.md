@@ -1,6 +1,5 @@
 
-
-# Querying and Analysis for HR Database Project - HR Database Overview
+# HR Database Overview
 
 <iframe src="https://egator.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=1bda4f91-4cd6-4dad-b0e3-b10100555862&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 
@@ -70,4 +69,8 @@ The HR Database is designed to mirror a typical business's human resources data 
 
 
 
-Back: [[SQL - Querying and Analysis for HR Database Project - Introduction]] | Next: [[SQL - Querying and Analysis for HR Database Project - Assignment]]
+# Lessons
+- [[SQL - W4 Querying and Analysis for HR Database Assignment Introduction]]
+- [[SQL - W4 Table Aliasing]]
+- SQL - W4 HR Database Overview
+- Next: [[SQL - W4 Querying and Analysis for HR Database Assignment]]
