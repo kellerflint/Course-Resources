@@ -41,10 +41,6 @@ JOIN Authors a ON b.AuthorID = a.AuthorID;
 
 4. **`b.AuthorID = a.AuthorID`**: The JOIN condition uses the aliases as a stand in for the full table names as well.
 
-# Practice Questions
-
-6. **Rewrite Display Products Ordered in December 2023 Using Aliasing:** Copy your answer from #5. Rewrite it to show the same information but using table aliases wherever possible to make your code more concise.
-
 # Lessons
 - [[SQL - W4 Querying and Analysis for HR Database Assignment Introduction]]
 - SQL - W4 Table Aliasing
