@@ -50,6 +50,7 @@ Every questions should be answered with exactly one query. You will need exactly
 
 # Lessons
 - [[SQL - W4 Querying and Analysis for HR Database Assignment Introduction]]
+- [[SQL - W4 JOINing Multiple Tables]]
 - [[SQL - W4 Table Aliasing]]
 - [[SQL - W4 HR Database Overview]]
 - SQL - W4 Querying and Analysis for HR Database Assignment

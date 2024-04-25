@@ -43,6 +43,7 @@ JOIN Authors a ON b.AuthorID = a.AuthorID;
 
 # Lessons
 - [[SQL - W4 Querying and Analysis for HR Database Assignment Introduction]]
+- [[SQL - W4 JOINing Multiple Tables]]
 - SQL - W4 Table Aliasing
 - Next: [[SQL - W4 HR Database Overview]]
 - [[SQL - W4 Querying and Analysis for HR Database Assignment]]

@@ -71,6 +71,7 @@ The HR Database is designed to mirror a typical business's human resources data 
 
 # Lessons
 - [[SQL - W4 Querying and Analysis for HR Database Assignment Introduction]]
+- [[SQL - W4 JOINing Multiple Tables]]
 - [[SQL - W4 Table Aliasing]]
 - SQL - W4 HR Database Overview
 - Next: [[SQL - W4 Querying and Analysis for HR Database Assignment]]

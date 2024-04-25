@@ -55,7 +55,7 @@ To understand exactly how the SQL JOIN command works in our Authors and Books ex
 
 # Practice Questions
 
-1. Write a query to list all orders, including the order ID, the date the order was placed, and the first and last name of the client who placed the order.
+1. Write a query to list all orders, including the order ID, the date the order was placed, and the first and last name of the client who placed the order./
 
 2. Write a query to display a list of all products, including their name, price, and the name and address of their supplier.
 

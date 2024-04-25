@@ -30,6 +30,7 @@ This final section of this assignment moves beyond the syntax of SQL and require
 
 # Lessons
 - SQL - W4 Querying and Analysis for HR Database Assignment Introduction
-- Next: [[SQL - W4 Table Aliasing]]
+- Next: [[SQL - W4 JOINing Multiple Tables]]
+- [[SQL - W4 Table Aliasing]]
 - [[SQL - W4 HR Database Overview]]
 - [[SQL - W4 Querying and Analysis for HR Database Assignment]]
