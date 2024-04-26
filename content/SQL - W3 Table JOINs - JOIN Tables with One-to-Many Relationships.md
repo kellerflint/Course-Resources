@@ -29,13 +29,13 @@ SELECT Books.Title, Authors.AuthorName FROM Books
 JOIN Authors ON Books.AuthorID = Authors.AuthorID; 
 ```
 ##### Expected Output:
-| Title | AuthorName |
-| ---- | ---- |
-| Harry Potter | J.K. Rowling |
-| 1984 | George Orwell |
-| Animal Farm | George Orwell |
-| War and Peace | Leo Tolstoy |
-| Anna Karenina | Leo Tolstoy |
+| Title         | AuthorName    |
+| ------------- | ------------- |
+| Harry Potter  | J.K. Rowling  |
+| 1984          | George Orwell |
+| Animal Farm   | George Orwell |
+| War and Peace | Leo Tolstoy   |
+| Anna Karenina | Leo Tolstoy   |
 
 This query effectively combines data from the `Books` and `Authors` tables by linking books to their respective authors by the AuthorID. The `JOIN` operation, facilitated by the `ON` clause, ensures that each book is matched with its author. The selected columns `Books.Title` and `Authors.AuthorName` are displayed in the resulting output.
 

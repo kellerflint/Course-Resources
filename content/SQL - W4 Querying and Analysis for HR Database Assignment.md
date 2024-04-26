@@ -30,13 +30,13 @@ Every questions should be answered with exactly one query. You will need exactly
 
 **Question 11**: List the first names, last names, job titles and salaries a of all employees who have 'Manager' in their job title.
 
-**Question 12**: Display the names and job titles of employees who work in a city than 'Seattle'. Display the name of the city they work in as well.
+**Question 12**: Display the names and job titles of employees who work in any city other than 'Seattle'. Display the name of the city they work in as well.
 
 # Section 3: Perform Data Analysis
 
 ***Use a multi-line comment to write explanations in the same .sql file as your queries.***
 
-**NOTE: Please do not sure commands that have not been covered in class!** Aggregation functions, GROUP BY and sub-querying could be helpful, but are beyond the scope of this assignment. Draw conclusions using the tools we have discussed so far.
+**NOTE: Please do not use commands that have not been covered in class!** Aggregation functions, GROUP BY and sub-querying could be helpful, but are beyond the scope of this assignment. Draw conclusions using the tools we have discussed so far.
 
 **Question 13**: In what months are most employees hired? Provide a single query to justify your answer.
 *You can use `MONTH(some_date_column)` to extract just the month from a date.*
