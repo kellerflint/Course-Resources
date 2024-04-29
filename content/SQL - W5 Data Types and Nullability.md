@@ -1,11 +1,11 @@
-# Entity Relationship Diagrams - Data Types and Nullability
+# Data Types and Nullability
 
 <iframe src="https://egator.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=adeeea60-d527-4575-b612-b1160003d874&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 
 In addition to showing basic structure of tables and their relationships, Entity Relationship Diagrams (ERDs) can also give us more insight into the columns. This can include data types for each column and whether a column can have null values. Let's explore these concepts with an example diagram.
 
 ### College Courses Diagram
-<img src="https://raw.githubusercontent.com/kellerflint/Class-Intro-SQL/hugo/content/Images/college_courses_erd.png">
+<img src="https://raw.githubusercontent.com/kellerflint/Class-Intro-SQL/hugo/content/SQL-Files/Images/college_courses_erd.png">
 
 
 ## Data Types
@@ -33,10 +33,10 @@ Taking a look at the College Courses Diagram above, you'll notice that each colu
 5. Suppose we need to record the `office_location` for each `instructor` in the College Courses Diagram. What data type should this column be and should it be allowed to be null? Why?
 6. Imagine we want a `last_accessed` column  in the `enrollment` table that tracks when a student last signed into their class on Canvas. What data type should this column be and should it be allowed to be null? Why?
 # Lessons
-- [[SQL - Entity Relationship Diagrams - Introduction]]
-- [[SQL - Entity Relationship Diagrams - Basic Structure]]
-- [[SQL - Entity Relationship Diagrams - Representing Relationships]]
-- Entity Relationship Diagrams - Data Types and Nullability
-- **Next**: [[SQL - Entity Relationship Diagrams - Querying]]
-- [[SQL - Entity Relationship Diagrams - Creating Tables]]
-- [[SQL - Entity Relationship Diagrams - Practice Assignment]]
+- [[SQL - W5 Introduction to Entity Relationship Diagrams]]
+- [[SQL - W5 Entity Relationship Diagram Structure]]
+- [[SQL W5 Representing Relationships]]
+- SQL - W5 Data Types and Nullability
+- **Next**: [[SQL - W5 Querying from ERDs]]
+- [[SQL - W5 Creating Tables in ERDs]]
+- [[SQL - W5 Entity Relationship Diagrams Practice Assignment]]

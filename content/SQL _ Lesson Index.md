@@ -7,7 +7,7 @@ Module One:
 - [[SQL - W4 Querying and Analysis for HR Database Assignment Introduction]]
 
 Module Two:
-- [[SQL - Entity Relationship Diagrams - Introduction]]
+- [[SQL - W5 Introduction to Entity Relationship Diagrams]]
 - [[SQL - Creating Entity Relationship Diagrams - Introduction]]
 - [[SQL - ERD & DB Design Assignment - Introduction]]
 

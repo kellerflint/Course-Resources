@@ -1,11 +1,12 @@
-# Entity Relationship Diagrams - Basic Structure
+# Entity Relationship Diagram Structure
 
 <iframe src="https://egator.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=e3fcaaa2-10b5-48b3-8e8e-b1160003d8d1&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 
 Entity Relationship Diagrams come in various formats, but they share common elements that help us understand the architecture of a database. As we progress through this course, we will explore different ways to represent ERDs. For now, let's focus on a simple example using an HR database.
 
 ### HR Entity Relationship Diagram
-<img src="https://raw.githubusercontent.com/kellerflint/Class-Intro-SQL/hugo/content/Images/hr_db_erd.png">
+<img src="https://raw.githubusercontent.com/kellerflint/Class-Intro-SQL/hugo/content/SQL-Files/
+	Images/hr_db_erd.png">
 
 *Source:* https://www.sqltutorial.org/sql-sample-database/
 
@@ -27,10 +28,10 @@ Take the `countries` table for example. It is represented as a box in the HR Ent
 1. According to the HR Entity Relationship Diagram, what will the columns be for the `countries` table?
 2. Which column is the primary key for the `countries` table? How is the primary key shown in this diagram?
 # Lessons
-- [[SQL - Entity Relationship Diagrams - Introduction]]
-- Entity Relationship Diagrams - Basic Structure
-- **Next**: [[SQL - Entity Relationship Diagrams - Representing Relationships]]
-- [[SQL - Entity Relationship Diagrams - Data Types and Nullability]]
-- [[SQL - Entity Relationship Diagrams - Querying]]
-- [[SQL - Entity Relationship Diagrams - Creating Tables]]
-- [[SQL - Entity Relationship Diagrams - Practice Assignment]]
+- [[SQL - W5 Introduction to Entity Relationship Diagrams]]
+- SQL - W5 Entity Relationship Diagram Structure
+- **Next**: [[SQL W5 Representing Relationships]]
+- [[SQL - W5 Data Types and Nullability]]
+- [[SQL - W5 Querying from ERDs]]
+- [[SQL - W5 Creating Tables in ERDs]]
+- [[SQL - W5 Entity Relationship Diagrams Practice Assignment]]

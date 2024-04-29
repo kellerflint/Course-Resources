@@ -1,11 +1,11 @@
-# Entity Relationship Diagrams - Representing Relationships
+# Representing Relationships
 
 <iframe src="https://egator.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=b9a748d1-1060-4e42-85a0-b1160003d89b&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 
 Entity Relationship Diagrams (ERDs) not only show us the entities and their attributes but also how these entities interact with each other. The lines connecting the tables represent these relationships and are necessary to understand the database's structure. Let's break down how to read these relationships using the HR database ERD from our previous lessons.
 
 ### HR Entity Relationship Diagram
-<img src="https://raw.githubusercontent.com/kellerflint/Class-Intro-SQL/hugo/content/Images/hr_db_erd.png">
+<img src="https://raw.githubusercontent.com/kellerflint/Class-Intro-SQL/hugo/content/SQL-Files/Images/hr_db_erd.png">
 
 *Source:* https://www.sqltutorial.org/sql-sample-database/
 ## Interpreting Relationships
@@ -40,11 +40,11 @@ This relationships is also suggested by the structure of the table itself. We ca
 3. What is the relationship between `regions` and `countries`? What steps did you take to determine this from the diagram?
 4. What is the relationship between `departments` and `employees`? What steps did you take to determine this from the diagram?
 # Lessons
-- [[SQL - Entity Relationship Diagrams - Introduction]]
-- [[SQL - Entity Relationship Diagrams - Basic Structure]]
-- Entity Relationship Diagrams - Representing Relationships
-- **Next**: [[SQL - Entity Relationship Diagrams - Data Types and Nullability]]
-- [[SQL - Entity Relationship Diagrams - Querying]]
-- [[SQL - Entity Relationship Diagrams - Creating Tables]]
-- [[SQL - Entity Relationship Diagrams - Practice Assignment]]
+- [[SQL - W5 Introduction to Entity Relationship Diagrams]]
+- [[SQL - W5 Entity Relationship Diagram Structure]]
+- SQL W5 Representing Relationships
+- **Next**: [[SQL - W5 Data Types and Nullability]]
+- [[SQL - W5 Querying from ERDs]]
+- [[SQL - W5 Creating Tables in ERDs]]
+- [[SQL - W5 Entity Relationship Diagrams Practice Assignment]]
 
