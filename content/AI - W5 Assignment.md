@@ -6,5 +6,5 @@ Complete all section of the [Learn Computer Vision](https://www.kaggle.com/learn
 
 # Lessons
 - [[AI - W5 Introduction]]
-- [[AI - W5 Types of Neural Networks]]
+- [[AI - W5 Types of Neural Network]]
 - AI - W5 Assignment
