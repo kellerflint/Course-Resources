@@ -45,6 +45,5 @@ This relationships is also suggested by the structure of the table itself. We ca
 - SQL W5 Representing Relationships
 - **Next**: [[SQL - W5 Data Types and Nullability]]
 - [[SQL - W5 Querying from ERDs]]
-- [[SQL - W5 Creating Tables in ERDs]]
 - [[SQL - W5 Entity Relationship Diagrams Practice Assignment]]
 

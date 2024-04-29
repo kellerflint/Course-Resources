@@ -11,10 +11,3 @@
 10. INSERT two rows of data into each table.
 	*Dates are put in quotes like strings/varchars. They are formatted with the Year-Month-Day. For example February 26th, 2024 would be `'2024-02-26'`.*
 # Lessons
-- [[SQL - W5 Introduction to Entity Relationship Diagrams]]
-- [[SQL - W5 Entity Relationship Diagram Structure]]
-- [[SQL W5 Representing Relationships]]
-- [[SQL - W5 Data Types and Nullability]]
-- [[SQL - W5 Querying from ERDs]]
-- SQL - W5 Creating Tables in ERDs
-- **Next**: [[SQL - W5 Entity Relationship Diagrams Practice Assignment]]

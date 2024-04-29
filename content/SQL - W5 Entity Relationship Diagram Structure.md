@@ -33,5 +33,4 @@ Take the `countries` table for example. It is represented as a box in the HR Ent
 - **Next**: [[SQL W5 Representing Relationships]]
 - [[SQL - W5 Data Types and Nullability]]
 - [[SQL - W5 Querying from ERDs]]
-- [[SQL - W5 Creating Tables in ERDs]]
 - [[SQL - W5 Entity Relationship Diagrams Practice Assignment]]

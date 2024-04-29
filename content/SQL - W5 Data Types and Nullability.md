@@ -38,5 +38,4 @@ Taking a look at the College Courses Diagram above, you'll notice that each colu
 - [[SQL W5 Representing Relationships]]
 - SQL - W5 Data Types and Nullability
 - **Next**: [[SQL - W5 Querying from ERDs]]
-- [[SQL - W5 Creating Tables in ERDs]]
 - [[SQL - W5 Entity Relationship Diagrams Practice Assignment]]
