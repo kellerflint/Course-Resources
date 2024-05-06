@@ -10,8 +10,6 @@ Hi there! This is a hosted obsidian notebook with lessons and resources for all 
 
 # Temp or Shared Resources
 
-[[MISC - AI Class Plan Spring]]
-
 [[MISC - Node Lessons]]
 
 [[MISC - Node Demo]]
