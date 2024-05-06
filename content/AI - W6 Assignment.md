@@ -9,7 +9,7 @@ CartPole Documentation: [Cart Pole - Gymnasium Documentation (farama.org)](https
 # Assignment
 
 1. Download and install VS Code and Python (links above)
-2. Download the <a href="https://github.com/kellerflint/Course-Resources/blob/hugo/content/AI-Files/CartPoleAssignment">CartPoleAssignment.ipynb (github.com)</a> and open it in VS Code
+2. Download the <a href="https://github.com/kellerflint/Course-Resources/blob/hugo/content/AI-Files/CartPoleAssignment.ipynb">CartPoleAssignment.ipynb (github.com)</a> and open it in VS Code
 3. Install the Jupyter extension (see video)
 4. Read the text and understand each code cell as you run them
 5. Fill in and successfully execute and code cells that require your input
