@@ -8,7 +8,7 @@
 
 # Lessons
 - AI - W6 Introduction
-- Next: [[AI - Basics of RL]]
-- [[AI - Types of RL]]
-- [[AI - Applications and Challenges of RL]]
+- Next: [[AI - W6 Basics of RL]]
+- [[AI - W6 Types of RL]]
+- [[AI - W6 Applications and Challenges of RL]]
 - [[AI - W6 Assignment]]

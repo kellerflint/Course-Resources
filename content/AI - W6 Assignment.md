@@ -15,9 +15,11 @@ CartPole Documentation: [Cart Pole - Gymnasium Documentation (farama.org)](https
 5. Fill in and successfully execute and code cells that require your input
 6. Upload your completed CartPoleAssignment.ipynb file to the assignment submission on Canvas.
 
+### Optional Resources
+- If you're interested in learning more about how to implement RL -> [Reinforcement Learning in 3 Hours | Full Course using Python (youtube.com)](https://www.youtube.com/watch?v=Mut_u40Sqz4&t=2674s&ab_channel=NicholasRenotte)
 # Lessons
 - [[AI - W6 Introduction]]
-- [[AI - Basics of RL]]
-- [[AI - Types of RL]]
-- [[AI - Applications and Challenges of RL]]
+- [[AI - W6 Basics of RL]]
+- [[AI - W6 Types of RL]]
+- [[AI - W6 Applications and Challenges of RL]]
 - AI - W6 Assignment
