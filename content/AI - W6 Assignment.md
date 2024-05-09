@@ -4,6 +4,8 @@
 
 Visual Studio Code: [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/)
 Python: [Python Release Python 3.11.9 | Python.org](https://www.python.org/downloads/release/python-3119/)
+Check "Add Python to PATH" when installing
+<img src="https://raw.githubusercontent.com/kellerflint/Class-Intro-SQL/hugo/content/AI-Files/Images/AddPythonToPath.png">
 CartPole Documentation: [Cart Pole - Gymnasium Documentation (farama.org)](https://gymnasium.farama.org/environments/classic_control/cart_pole/)
 
 # Assignment
