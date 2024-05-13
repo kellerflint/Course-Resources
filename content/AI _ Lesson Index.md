@@ -6,3 +6,4 @@
 - [[AI - W4 Introduction]]
 - [[AI - W5 Introduction]]
 - [[AI - W6 Introduction]]
+- [[AI - W7 Introduction]]
