@@ -17,3 +17,5 @@ Module Three:
 - [[SQL - Advanced Querying Topics Part 1 - Introduction]]
 - [[SQL - Grouping and Data Analytics - Introduction]]
 - Final Project?
+
+[[SQL - Final Exam]]
