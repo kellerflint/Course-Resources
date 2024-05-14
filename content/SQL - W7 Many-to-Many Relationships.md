@@ -1,4 +1,4 @@
-# Table JOINs - Many-to-Many Relationships
+# Many-to-Many Relationships
 
 
 <iframe src="https://egator.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=c5b32412-9c53-4db8-a649-b0fb000ed371&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
@@ -43,6 +43,8 @@ In the `BooksAuthors` table, both `BookID` and `AuthorID` are used together to c
 
 3. **The Many-to-Many**: These two one-to-many relationships combine to form a many-to-many relationship. An author can write multiple books, and a book can be written by multiple authors. The `BooksAuthors` table serves as a bridge, linking each book to one or more authors and each author to one or more books.
 
-
-
-Back: [[SQL - W3 Table JOINs - JOIN Tables with One-to-Many Relationships]] | Next: [[SQL - ZCUT W3 Table JOINs - JOIN Tables with Many-to-Many Relationships]]
+# Lessons
+- SQL - W7 Many-to-Many Relationships
+- Next: [[SQL - W7 JOIN Tables with Many-to-Many Relationships]]
+- [[SQL - W7 Table Aliasing]]
+- [[SQL - W7 Practice Assignment]]

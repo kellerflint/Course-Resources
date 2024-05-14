@@ -7,7 +7,6 @@
 ### College Courses Diagram
 <img src="https://raw.githubusercontent.com/kellerflint/Class-Intro-SQL/hugo/content/SQL-Files/Images/college_courses_erd.png">
 
-9. Write CREATE statements for the `student` and `instructor` tables. 
-10. INSERT two rows of data into each table.
+2. Write CREATE statements for the `student` and `instructor` tables. 
+3. INSERT two rows of data into each table.
 	*Dates are put in quotes like strings/varchars. They are formatted with the Year-Month-Day. For example February 26th, 2024 would be `'2024-02-26'`.*
-# Lessons

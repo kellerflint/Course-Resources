@@ -1,4 +1,4 @@
-# Table JOINs - JOIN Tables with Many-to-Many Relationships
+# JOIN Tables with Many-to-Many Relationships
 
 
 <iframe src="https://egator.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=c59e6ff3-602a-4508-9a6f-b0fb000ebc41&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
@@ -60,8 +60,12 @@ JOIN Authors ON BooksAuthors.AuthorID = Authors.AuthorID;
 
 # Practice Questions
 
-3. **Display Order Details with Product Names:** Write a query to display details of each order, including the order ID, the date it was placed, and the names of the products in the order.
+**Use the Magic Store Database ([[SQL - Magic Store Database Overview]]) to complete the practice questions for week.**
 
+1. **Display Order Details with Product Names:** Write a query to display details of each order, including the order ID, the date it was placed, and the names of the products in the order.
 
-
-Back: [[SQL - ZCUT W3 Table JOINs - Many-to-Many Relationships]] | Next: [[SQL - W3 Table JOINs - Filter and Sort with JOINs]]
+# Lessons
+- [[SQL - W7 Many-to-Many Relationships]]
+- SQL - W7 JOIN Tables with Many-to-Many Relationships
+- Next: [[SQL - W7 Table Aliasing]]
+- [[SQL - W7 Practice Assignment]]

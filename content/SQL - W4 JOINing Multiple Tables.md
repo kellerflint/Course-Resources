@@ -8,6 +8,6 @@
 # Lessons
 - [[SQL - W4 Querying and Analysis for HR Database Assignment Introduction]]
 - SQL - W4 JOINing Multiple Tables
-- Next: [[SQL - W4 Table Aliasing]]
+- Next: [[SQL - W7 Table Aliasing]]
 - [[SQL - W4 HR Database Overview]]
 - [[SQL - W4 Querying and Analysis for HR Database Assignment]]

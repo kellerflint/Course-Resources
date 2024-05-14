@@ -34,16 +34,12 @@ JOIN Authors a ON b.AuthorID = a.AuthorID;
 ### Explanation:
 
 1. **`Books b`**: Here, `Books` is aliased as `b`. This means that in the rest of the query, we can refer to the `Books` table as `b`.
-
 2. **`Authors a`**: Similarly, `Authors` is aliased as `a`. Any reference to the `Authors` table can now be made using `a`.
-
 3. **`b.Title, a.AuthorName`**: Instead of writing `Books.Title` and `Authors.AuthorName`, we use the aliases, making the query more concise.
-
 4. **`b.AuthorID = a.AuthorID`**: The JOIN condition uses the aliases as a stand in for the full table names as well.
 
 # Lessons
-- [[SQL - W4 Querying and Analysis for HR Database Assignment Introduction]]
-- [[SQL - W4 JOINing Multiple Tables]]
-- SQL - W4 Table Aliasing
-- Next: [[SQL - W4 HR Database Overview]]
-- [[SQL - W4 Querying and Analysis for HR Database Assignment]]
+- [[SQL - W7 Many-to-Many Relationships]]
+- [[SQL - W7 JOIN Tables with Many-to-Many Relationships]]
+- SQL - W7 Table Aliasing
+- Next: [[SQL - W7 Practice Assignment]]
