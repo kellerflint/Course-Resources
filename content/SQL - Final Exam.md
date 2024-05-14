@@ -1,14 +1,14 @@
 # Final Exam Info
 
-There is a required in-person final exam for this course on **Monday June 17th from 12:00-2:00pm** PST at the Auburn Center in room AC 310.
+There is a **required in-person final exam** for this course on **Monday June 17th from 12:00-2:00pm** PST at the Auburn Center in room AC 310 (1221 D St NE, Auburn, WA 98002).
 
-If you cannot attend the final exam at that time you MUST get in contact with me ahead of time to make other arrangements. Please email me at kflint-blanchard@greenriver.edu.
+If you cannot attend the final exam at that time you **MUST** get in contact with me as soon as possible to make other arrangements. Please email me at kflint-blanchard@greenriver.edu.
 
 # Topics
 
 The following topics may appear on the final exam:
 
-##### Database Concepts:
+### Database Concepts:
 - Tables and their structure
 - Primary and foreign keys
 - Relationships between tables (one-to-many, many-to-many)
@@ -19,7 +19,7 @@ The following topics may appear on the final exam:
 	- VARCHAR
 	- DECIMAL
 
-##### SQL Querying:
+### SQL Querying:
 - SELECT statements
 - WHERE clauses
 - LIKE operator
@@ -28,12 +28,12 @@ The following topics may appear on the final exam:
 - GROUP BY clause
 - JOINs (if included in the exam)
 
-##### Entity Relationship Diagrams (ERDs):
+### Entity Relationship Diagrams (ERDs):
 - Understanding and creating ERDs given the SQL CREATE statements or a set of tables
 - Identifying entities, attributes, datatypes, and relationships
 - Crow's foot notation for representing relationships
 
-##### Applying SQL Queries for Data Analytics:
+### Applying SQL Queries for Data Analytics:
 - Applying SQL concepts to solve real-world scenarios
 - Calculating aggregated metrics (e.g., total sales, average price, etc.)
 - Combining data from multiple tables using JOINs
@@ -78,9 +78,7 @@ ORDER BY Column1, Column2,... ASC
 ### GROUP BY and Aggregation
 ```sql
 -- GROUP BY Command
-...
 GROUP BY ColumnName
-...
 HAVING condition
 
 /* GROUP BY Example: Selects the COUNT of rows for each unique value in Column1, but only includes groups with a COUNT greater than 10. */
