@@ -7,7 +7,7 @@ In addition to the practice problems from the lesson pages, write queries to do 
    
 3. **List All Products with Their Suppliers, Sorted by Supplier Name and Product Price:** Display a list of all products along with their supplier names. Sort the list first by the supplier's name in ascending order, and then by the product's price in descending order.
 
-4. **Show Orders Placed After a Specific Date:** Write a query to display orders placed after '2023-01-01', including order ID, product names, and order date. Sort the results by product name.
+4. **Show Orders Placed After a Specific Date:** Write a query to display orders placed after '2022-01-01', including order ID, product names, and order date. Sort the results by product name.
 
 5. **List All Orders for 'Elixir of Immortality':** Display all orders that include the 'Elixir of Immortality', showing the order ID and the date the order was placed. Show the most recent orders first.
 
