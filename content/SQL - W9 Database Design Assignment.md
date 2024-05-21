@@ -30,13 +30,13 @@ SELECT * FROM Owners;
 
 # Submission Instructions
 
-For part 1 of this assignment (and for the [[SQL - Database Design Assignment - Challenge (5 pts Extra Credit)|challenge]], should you choose to attempt it), take a screenshot of your completed entity relationship diagram(s) from drawSQL.
+For part 1 of this assignment (and for the [[SQL - W9 Database Design Assignment - Challenge (5 pts Extra Credit)|challenge]], should you choose to attempt it), take a screenshot of your completed entity relationship diagram(s) from drawSQL.
 
 For part 2 of this assignment, please put your `CREATE`, `INSERT` and `SELECT` SQL queries into a single SQL file.
 
 Upload the .sql file and each ERD image to the assignment submission on Canvas.
 # Lessons
-- [[SQL - ERD & DB Design Assignment - Introduction]]
-- [[SQL - Database Design Assignment - Database Design Example]]
+- [[SQL - W9 ERD & DB Design Assignment - Introduction]]
+- [[SQL - W9 Database Design Assignment - Database Design Example]]
 - Database Design Assignment
-- Next: [[SQL - Database Design Assignment - Challenge (5 pts Extra Credit)]]
+- Next: [[SQL - W9 Database Design Assignment - Challenge (5 pts Extra Credit)]]

@@ -39,10 +39,10 @@ Keep in mind that fewer tables isn't necessarily better if it comes at the cost 
 
 # Submission Instructions
 
-*See the Submission Instructions in [[SQL - Database Design Assignment]].*
+*See the Submission Instructions in [[SQL - W9 Database Design Assignment]].*
 
 # Lessons
-- [[SQL - ERD & DB Design Assignment - Introduction]]
-- [[SQL - Database Design Assignment - Database Design Example]]
-- [[SQL - Database Design Assignment]]
+- [[SQL - W9 ERD & DB Design Assignment - Introduction]]
+- [[SQL - W9 Database Design Assignment - Database Design Example]]
+- [[SQL - W9 Database Design Assignment]]
 - Database Design Assignment - Challenge (5 pts Extra Credit)

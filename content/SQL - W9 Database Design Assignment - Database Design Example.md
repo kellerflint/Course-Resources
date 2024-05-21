@@ -5,7 +5,7 @@
 *Note: I'm using a different diagraming tool in this video but for your assignment use drawSQL (https://drawsql.app) like in previous weeks.*
 
 # Lessons
-- [[SQL - ERD & DB Design Assignment - Introduction]]
+- [[SQL - W9 ERD & DB Design Assignment - Introduction]]
 - Database Design Assignment - Database Design Example
-- Next: [[SQL - Database Design Assignment]]
-- [[SQL - Database Design Assignment - Challenge (5 pts Extra Credit)]]
+- Next: [[SQL - W9 Database Design Assignment]]
+- [[SQL - W9 Database Design Assignment - Challenge (5 pts Extra Credit)]]

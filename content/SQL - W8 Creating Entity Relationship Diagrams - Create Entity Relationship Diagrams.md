@@ -8,12 +8,12 @@
 
 3. *(4pts)* Create an entity relationship diagram to represent the SQL script below. *Please check with your instructor and get permission before using any tool other than [drawSQL](https://drawsql.app/)*
 
-<img src="https://raw.githubusercontent.com/kellerflint/Class-Intro-SQL/hugo/content/Images/book_store_script_img.png">
+<img src="https://raw.githubusercontent.com/kellerflint/Class-Intro-SQL/hugo/content/SQL-Files/Images/book_store_script_img.png">
 
 # Lessons
-- [[SQL - Creating Entity Relationship Diagrams - Introduction]]
-- [[SQL - Creating Entity Relationship Diagrams - CREATE One to Many Tables]]
-- [[SQL - Creating Entity Relationship Diagrams - CREATE Many to Many Tables]]
-- [[SQL - Creating Entity Relationship Diagrams - Using Composite Primary Keys]]
-- Creating Entity Relationship Diagrams - Create Entity Relationship Diagrams
-- **Next:** [[SQL - Creating Entity Relationship Diagrams - Practice Assignment]]
+- [[SQL - W8 Creating Entity Relationship Diagrams - Introduction]]
+- [[SQL - W8 Creating Entity Relationship Diagrams - CREATE One to Many Tables]]
+- [[SQL - W8 Creating Entity Relationship Diagrams - CREATE Many to Many Tables]]
+- [[SQL - W8 Creating Entity Relationship Diagrams - Using Composite Primary Keys]]
+- SQL - W8 Creating Entity Relationship Diagrams - Create Entity Relationship Diagrams
+- **Next:** [[SQL - W8 Creating Entity Relationship Diagrams - Practice Assignment]]

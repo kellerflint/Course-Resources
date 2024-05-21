@@ -4,8 +4,8 @@
 
 # Lessons
 - Creating Entity Relationship Diagrams - Introduction
-- **Next**: [[SQL - Creating Entity Relationship Diagrams - CREATE One to Many Tables]]
-- [[SQL - Creating Entity Relationship Diagrams - CREATE Many to Many Tables]]
-- [[SQL - Creating Entity Relationship Diagrams - Using Composite Primary Keys]]
-- [[SQL - Creating Entity Relationship Diagrams - Create Entity Relationship Diagrams]]
-- [[SQL - Creating Entity Relationship Diagrams - Practice Assignment]]
+- **Next**: [[SQL - W8 Creating Entity Relationship Diagrams - CREATE One to Many Tables]]
+- [[SQL - W8 Creating Entity Relationship Diagrams - CREATE Many to Many Tables]]
+- [[SQL - W8 Creating Entity Relationship Diagrams - Using Composite Primary Keys]]
+- [[SQL - W8 Creating Entity Relationship Diagrams - Create Entity Relationship Diagrams]]
+- [[SQL - W8 Creating Entity Relationship Diagrams - Practice Assignment]]

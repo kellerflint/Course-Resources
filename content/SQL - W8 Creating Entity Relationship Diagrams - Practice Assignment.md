@@ -22,9 +22,9 @@ For questions #3 and #4, take screenshots of your completed entity relationship 
 Upload the .sql file and each image to the assignment submission on Canvas. *You should be uploading/submitting a total of 3 files for this assignment (the .sql file and the two ERD images).*
 
 # Lessons
-- [[SQL - Creating Entity Relationship Diagrams - Introduction]]
-- [[SQL - Creating Entity Relationship Diagrams - CREATE One to Many Tables]]
-- [[SQL - Creating Entity Relationship Diagrams - CREATE Many to Many Tables]]
-- [[SQL - Creating Entity Relationship Diagrams - Using Composite Primary Keys]]
-- [[SQL - Creating Entity Relationship Diagrams - Create Entity Relationship Diagrams]]
+- [[SQL - W8 Creating Entity Relationship Diagrams - Introduction]]
+- [[SQL - W8 Creating Entity Relationship Diagrams - CREATE One to Many Tables]]
+- [[SQL - W8 Creating Entity Relationship Diagrams - CREATE Many to Many Tables]]
+- [[SQL - W8 Creating Entity Relationship Diagrams - Using Composite Primary Keys]]
+- [[SQL - W8 Creating Entity Relationship Diagrams - Create Entity Relationship Diagrams]]
 - Creating Entity Relationship Diagrams - Practice Assignment
