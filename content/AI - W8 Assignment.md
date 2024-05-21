@@ -8,6 +8,8 @@
 
 To ensure that your final project is on the right track and aligns with the course requirements, you will submit a project proposal. This proposal will outline your chosen project topic, the approach you plan to take, and the expected deliverables. To assist you in creating a comprehensive proposal, you will collaborate with an AI model (GPT-4o or Claude Sonnet) to refine and validate your plan.
 
+Keep the scope of work fairly small and focused. There are only a few weeks left of class so start with an MVP and if you have time, you can expand on it from there.
+
 Proposal Requirements:
 1. Project Topic:
     - Clearly state the topic or problem you plan to address in your final project.
@@ -16,7 +18,7 @@ Proposal Requirements:
     - If you choose an open-ended project, provide a detailed description of your project idea and how it aligns with the course objectives.
 3. Approach and Methodology:
     - Describe the approach you plan to take to tackle your chosen project at a high level.
-    - Outline the key steps or milestones involved in your project.
+    - Outline the key steps involved in your project.
     - Mention a few specific techniques, algorithms, or tools you might use.
     - If applicable, mention any datasets or resources you will utilize.
 
@@ -30,6 +32,7 @@ I'd suggest using this prompt before submitting.
 Please review my project proposal and provide feedback. Check how well my proposal aligns with the following requirements. Check for clarity, concision and completeness in my writing. Give specific areas for improvement, if any.
 
 Proposal Requirements:
+*Keep the scope of work fairly small and focused. There are only a few weeks left of class so start with an MVP and if you have time, you can expand on it from there.*
 1. Project Topic:
     - Clearly state the topic or problem you plan to address in your final project.
 2. Project Category:
@@ -37,7 +40,7 @@ Proposal Requirements:
     - If you choose an open-ended project, provide a detailed description of your project idea and how it aligns with the course objectives.
 3. Approach and Methodology:
     - Describe the approach you plan to take to tackle your chosen project at a high level.
-    - Outline the key steps or milestones involved in your project.
+    - Outline the key steps involved in your project.
     - Mention a few specific techniques, algorithms, or tools you might use.
     - If applicable, mention any datasets or resources you will utilize.
 
