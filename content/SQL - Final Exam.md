@@ -7,7 +7,7 @@ If you cannot attend the final exam at that time you **MUST** get in contact wit
 # Topics
 
 The following topics may appear on the final exam:
-
+*NOTE: Some of these may not have been covered yet if you're viewing this before week 10. All of these concepts will be covered before the final exam.*
 ### Database Concepts:
 - Tables and their structure
 - Primary and foreign keys
