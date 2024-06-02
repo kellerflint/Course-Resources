@@ -1,5 +1,5 @@
 
-**Use the Magic Store Database ([[SQL - Magic Store Database Overview]]) to complete the practice questions for week.**
+**Use the Magic Store Database ([[SQL - W3 Magic Store Database Overview]]) to complete the practice questions for week.**
 
 In addition to the practice problems from the lesson pages, write queries to do the following:
 

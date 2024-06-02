@@ -60,7 +60,7 @@ JOIN Authors ON BooksAuthors.AuthorID = Authors.AuthorID;
 
 # Practice Questions
 
-**Use the Magic Store Database ([[SQL - Magic Store Database Overview]]) to complete the practice questions for week.**
+**Use the Magic Store Database ([[SQL - W3 Magic Store Database Overview]]) to complete the practice questions for week.**
 
 1. **Display Order Details with Product Names:** Write a query to display details of each order, including the order ID, the date it was placed, and the names of the products in the order.
 

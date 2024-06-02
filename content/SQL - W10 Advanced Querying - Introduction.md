@@ -6,7 +6,7 @@
 
 - DROP the tables from your previous assignment(s), if necessary
 - Run the following script to populate your database -> <a href="https://github.com/kellerflint/Class-Intro-SQL/blob/hugo/content/SQL-Files/MagicStoreScript.sql" target="_blank">MagicStoreScript (github.com)</a>
-- [[SQL - Magic Store Database Overview]]
+- Magic Store Database Overview: [[SQL - W3 Magic Store Database Overview]]
 # Lessons
 - SQL - W10 Advanced Querying - Introduction
 - Next: [[SQL - W10 Advanced Querying - Aggregate Functions]]

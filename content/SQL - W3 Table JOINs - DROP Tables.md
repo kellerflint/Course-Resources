@@ -24,7 +24,7 @@ A few important things to keep in mind when using `DROP`:
 # Lessons
 - [[SQL - W3 Table JOINs - Introduction]]
 - SQL - W3 Table JOINs - DROP Tables
-- Next: [[SQL - Magic Store Database Overview]]
+- Next: [[SQL - W3 Magic Store Database Overview]]
 - [[SQL - W3 Table JOINs - One-to-Many Relationships]]
 - [[SQL - W3 Table JOINs - JOIN Tables with One-to-Many Relationships]]
 - [[SQL - W3 Table JOINs - Filter and Sort with JOINs]]

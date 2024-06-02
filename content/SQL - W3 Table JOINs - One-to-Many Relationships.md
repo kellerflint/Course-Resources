@@ -47,7 +47,7 @@ It's important to understand exactly why this is a one-to-many relationship. Why
 # Lessons
 - [[SQL - W3 Table JOINs - Introduction]]
 - [[SQL - W3 Table JOINs - DROP Tables]]
-- [[SQL - Magic Store Database Overview]]
+- [[SQL - W3 Magic Store Database Overview]]
 - SQL - W3 Table JOINs - One-to-Many Relationships
 - Next: [[SQL - W3 Table JOINs - JOIN Tables with One-to-Many Relationships]]
 - [[SQL - W3 Table JOINs - Filter and Sort with JOINs]]
