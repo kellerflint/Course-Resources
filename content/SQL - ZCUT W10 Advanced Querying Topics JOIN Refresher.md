@@ -10,9 +10,9 @@ Need a refresher on JOINs? See our lessons on [[SQL - W3 Table JOINs - One-to-Ma
 <img src="https://raw.githubusercontent.com/kellerflint/Class-Intro-SQL/hugo/content/Images/AQR1.png">
 
 # Lessons
-- [[SQL - Advanced Querying Topics Part 1 - Introduction]]
+- [[SQL - W10 Advanced Querying - Introduction]]
 - Advanced Querying Topics Part 1 - JOIN Refresher
 - Next: [[SQL - Advanced Querying Topics Part 1 - Aggregate Functions]]
-- [[SQL - Advanced Querying Topics Part 1 - Column Aliasing]]
-- [[SQL - Advanced Querying Topics Part 1 - Calculating Values]]
-- [[SQL - Advanced Querying Topics Part 1 - Practice Assignment]]
+- [[SQL - W10 Advanced Querying - Column Aliasing]]
+- [[SQL - W10 Advanced Querying - Calculating Values]]
+- [[SQL - W10 Advanced Querying Topics - Practice Assignment]]

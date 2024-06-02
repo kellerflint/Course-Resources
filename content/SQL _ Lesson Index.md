@@ -14,8 +14,8 @@ Module Two:
 - [[SQL - W9 ERD & DB Design Assignment - Introduction]]
 
 Module Three:
-- [[SQL - Advanced Querying Topics Part 1 - Introduction]]
-- [[SQL - Grouping and Data Analytics - Introduction]]
+- [[SQL - W10 Advanced Querying - Introduction]]
+- [[SQL - W10 Advanced Querying - Northwind Database]]
 - Final Project?
 
 [[SQL - Final Exam]]
