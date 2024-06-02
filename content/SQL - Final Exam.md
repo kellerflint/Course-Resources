@@ -4,6 +4,7 @@ There is a **required in-person final exam** for this course on **Monday June 1
 
 If you cannot attend the final exam at that time you **MUST** get in contact with me as soon as possible to make other arrangements. Please email me at kflint-blanchard@greenriver.edu.
 
+# Practice Final Exam -> [[SQL - Practice Final]]
 # Topics
 
 The following topics may appear on the final exam:

@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5a9178493144cd4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/SQL - W10 Advanced Querying and Data Analytics Assignment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/SQL - W10 Advanced Querying - Introduction.md",
+                "file": "content/SQL - W10 Advanced Querying and Data Analytics Assignment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/SQL - W10 Advanced Querying - Introduction.md",
+                "file": "content/SQL - W10 Advanced Querying and Data Analytics Assignment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/SQL - W10 Advanced Querying - Introduction.md"
+                "file": "content/SQL - W10 Advanced Querying and Data Analytics Assignment.md"
               }
             }
           }
@@ -146,12 +159,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71ebc842d79aad46",
+  "active": "5a9178493144cd4f",
   "lastOpenFiles": [
+    "content/SQL - W10 Advanced Querying - Data Analytics with GROUP BY.md",
+    "content/SQL - W10 Advanced Querying - GROUP BY.md",
+    "content/SQL - W10 Advanced Querying - Northwind Database.md",
+    "content/SQL - W10 Advanced Querying - Calculating Values.md",
+    "content/SQL - W10 Advanced Querying - Column Aliasing.md",
+    "content/SQL - W10 Advanced Querying - Aggregate Functions.md",
+    "content/SQL - W10 Advanced Querying - Introduction.md",
+    "content/SQL - W10 Advanced Querying and Data Analytics Assignment.md",
+    "content/SQL - Final Exam.md",
+    "content/SQL - Practice Final.md",
     "content/SQL - W3 Magic Store Database Overview.md",
     "content/SQL - W3 Table JOINs - DROP Tables.md",
-    "content/SQL - W10 Advanced Querying - Introduction.md",
-    "content/SQL - W10 Advanced Querying - Aggregate Functions.md",
     "content/SQL - W9 ERD & DB Design Assignment - Introduction.md"
   ]
 }

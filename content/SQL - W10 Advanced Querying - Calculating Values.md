@@ -6,10 +6,16 @@
 
 *Use the magic store database for the following queries.*
 
-4. Write a query to display the client's full name (first name and last name combined) as "Client Name" and the date their account was created as "Sign up Date" for clients with the IDs 5, 10, 15, 20 and 25. Expected results:
+4. Write a query to display the client's full name (first name and last name combined) as "Client Name" and the date their account was created as "Sign up Date" for clients with the IDs 5, 10, 15, 20 and 25. 
+
+Expected results:
+
 <img src="https://raw.githubusercontent.com/kellerflint/Class-Intro-SQL/hugo/content/SQL-Files/Images/AQR6.png">
 
-5. Write a query to display all products that cost over 1000 with their sales tax included. Your query should return columns for the "Product Name", "Price" and "Price with Tax". For the last columns you will need to multiply the product's price by 1.1 to include a 10% sales tax. Expected result:
+5. Write a query to display all products that cost over 1000 with their sales tax included. Your query should return columns for the "Product Name", "Price" and "Price with Tax". For the last columns you will need to multiply the product's price by 1.1 to include a 10% sales tax. 
+
+Expected result:
+
 <img src="https://raw.githubusercontent.com/kellerflint/Class-Intro-SQL/hugo/content/SQL-Files/Images/AQR3.png">
 
 # Lessons

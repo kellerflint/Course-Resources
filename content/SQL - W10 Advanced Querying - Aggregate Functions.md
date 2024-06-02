@@ -6,10 +6,16 @@
 
 *Use the magic store database for the following queries.*
 
-1. Write a query to find the total number of orders placed in 2021. Expected result:
+1. Write a query to find the total number of orders placed in 2021. 
+
+Expected result:
+
 <img src="https://raw.githubusercontent.com/kellerflint/Class-Intro-SQL/hugo/content/SQL-Files/Images/AQR4.png">
 
-2. Write a query to calculate the minimum, average and maximum price of all products supplied by "Elixir Essentials". Expected result: 
+2. Write a query to calculate the minimum, average and maximum price of all products supplied by "Elixir Essentials". 
+
+Expected result: 
+
 <img src="https://raw.githubusercontent.com/kellerflint/Class-Intro-SQL/hugo/content/SQL-Files/Images/AQR5.png">
 
 # Lessons

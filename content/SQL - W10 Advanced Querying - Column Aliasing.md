@@ -6,7 +6,10 @@
 
 *Use the magic store database for the following queries.*
 
-3. Write a query to show all products that cost more than 1 and less than 100. Display the product name, the product's supplier name and the product's price. Rename the price column as "Price (USD)", product name column as "Product Name" and the supplier name column as "Supplier Name". Expected results:
+3. Write a query to show all products that cost more than 1 and less than 100. Display the product name, the product's supplier name and the product's price. Rename the price column as "Price (USD)", product name column as "Product Name" and the supplier name column as "Supplier Name". 
+
+Expected results:
+
 <img src="https://raw.githubusercontent.com/kellerflint/Class-Intro-SQL/hugo/content/SQL-Files/Images/AQR7.png">
 
 # Lessons
