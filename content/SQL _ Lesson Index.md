@@ -15,7 +15,5 @@ Module Two:
 
 Module Three:
 - [[SQL - W10 Advanced Querying - Introduction]]
-- [[SQL - W10 Advanced Querying - Northwind Database]]
-- Final Project?
 
 [[SQL - Final Exam]]

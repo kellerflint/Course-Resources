@@ -24,9 +24,9 @@ The following topics may appear on the final exam:
 - WHERE clauses
 - LIKE operator
 - ORDER BY clause
+- JOINs
 - Aggregate functions (e.g., AVG, SUM, COUNT)
 - GROUP BY clause
-- JOINs (if included in the exam)
 
 ### Entity Relationship Diagrams (ERDs):
 - Understanding and creating ERDs given the SQL CREATE statements or a set of tables
@@ -42,7 +42,7 @@ The following topics may appear on the final exam:
 
 # Cheat Sheet
 
-I **do not** allow you to bring your own notes for the final exam. I will provide the following cheat sheet on the exam day that will show the basic syntax of all the commands you will need.
+I **DO NOT** allow you to bring your own notes for the final exam. I will provide the following cheat sheet on the exam day that will show the basic syntax of all the commands you will need.
 
 ### SELECTs, Operators and Clauses
 ```sql
@@ -78,13 +78,8 @@ ORDER BY Column1, Column2,... ASC
 ### GROUP BY and Aggregation
 ```sql
 -- GROUP BY Command
-GROUP BY ColumnName
-HAVING condition
-
-/* GROUP BY Example: Selects the COUNT of rows for each unique value in Column1, but only includes groups with a COUNT greater than 10. */
-SELECT Column1, COUNT(*) FROM TableName 
-GROUP BY Column1 
-HAVING COUNT(*) > 10; 
+SELECT Column1, AggregateFunction(Column2), ... FROM TableName 
+GROUP BY Column1;
 
 -- Aggregate Functions
 COUNT(*)
