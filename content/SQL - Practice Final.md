@@ -49,7 +49,7 @@ Given the following tables, write SQL queries to retrieve the requested informat
 | 7            | 5          | 4         | 55          |
 | 8            | 6          | 3         | 40          |
 
-1. Write a query to retrieve the ID, first name, last name of all employees.
+1. Write a query to retrieve the ID, first name, and last name of all employees.
 
 <details>
 <summary>Show Answer</summary>
@@ -89,17 +89,17 @@ ORDER BY Salary DESC;
 <p>Samir | 75,000 | Finance</p>
 </details>
 
-4. Write a query to retrieve all project assignments. Include the name of the project, the first and last name of the employee and hours worked on the project. Order the results from most to least hours worked.
+4. Write a query to retrieve all project assignments. Include the name of the project and the first and last name of the employee. Order the results alphabetically by the project name.
 
 <details>
 <summary>Show Answer</summary>
-<p>SELECT Name AS ProjectName, FirstName, LastName, HoursWorked FROM ProjectAssignment</p>
+<p>SELECT Name AS ProjectName, FirstName, LastName FROM ProjectAssignment</p>
 <p>JOIN Project ON ProjectAssignment.ProjectID = Project.ProjectID</p>
 <p>JOIN Employee ON ProjectAssignment.EmployeeID = Employee.EmployeeID</p>
-<p>ORDER BY HoursWorked DESC;</p>
+<p>ORDER BY Project.Name ASC;</p>
 </details>
 
-5. Write a query to retrieve the employee ID, employee last name and the total hours worked on all projects for each employee. Order the results by the total hours worked (lowest to highest).
+5. Write a query to retrieve the employee ID, employee last name and the total hours worked on all projects for each employee. Order the results by the total hours worked (highest to lowest).
 
 <details>
 <summary>Show Answer</summary>
@@ -107,16 +107,16 @@ ORDER BY Salary DESC;
 <p>JOIN Employee ON ProjectAssignment.EmployeeID = Employee.EmployeeID</p>
 <p>JOIN Project ON ProjectAssignment.ProjectID = Project.ProjectID</p>
 <p>GROUP BY Employee.EmployeeID</p>
-<p>ORDER BY TotalHours ASC;</p>
+<p>ORDER BY TotalHours DESC;</p>
 </details>
 
 ### Part 2: Entity Relationship Diagrams and Creating Tables
 
-6. Draw an Entity Relationship Diagram for the Employee, Project, Department, and ProjectAssignment tables given above. Make sure to include all columns, the data type you think each column should have and any relationships between the tables. Represent relationships between tables with Crow's Foot Notation.
+6. Draw the Entity Relationship Diagram for the Employee, Project, Department, and ProjectAssignment tables given above. Make sure to include all columns, the data type you think each column should have and any relationships between the tables. Represent relationships between tables with Crow's Foot Notation.
 
 <details>
 <summary>Show Answer</summary>
-<img src="https://raw.githubusercontent.com/kellerflint/Class-Intro-SQL/hugo/content/SQL-Files/PracticeExamDiagramKey.png">
+<img src="https://raw.githubusercontent.com/kellerflint/Class-Intro-SQL/hugo/content/SQL-Files/Images/PracticeExamDiagramKey.png">
 </details>
 
 7. Write the CREATE statement for only the Project table. Make sure to include all columns, the data type of each column, and any primary or foreign key constraints.
@@ -156,7 +156,7 @@ Using the Northwind Traders diagram above, construct a query that gives meaningf
 
 Part 3 Answer:
 
-*I have no specific answer I have in mind for data analytics questions. I'm looking for functional queries that meet the requirements given in the question and help give meaningful insight into the data. I'm also looking for good reasoning about the kind of conclusions your query can provide and what considerations or assumptions went in to designing your query. Below a possible solution.*
+*I have no specific answer I have in mind for data analytics questions. I'm looking for functional queries that meet the requirements given in the question and help give meaningful insight into the data. I'm also looking for good reasoning about the kind of conclusions your query can provide and what considerations or assumptions went in to designing your query. Below is one possible solution.*
 
 ```sql
 SELECT c.Country, COUNT(*) AS TotalOrders, SUM(od.Quantity * p.Price) AS TotalRevenue FROM Customers c
@@ -167,6 +167,6 @@ GROUP BY c.Country
 ORDER BY TotalRevenue DESC;
 ```
 
-This query provides an overview of the total orders and revenue generated from each region that Northwind Traders can use this data to identify their top performing regions. Looking at both total orders and revenue by region is important because it provides a more comprehensive view of market performance and potential.
+This query provides an overview of the total orders and revenue generated from each country that Northwind Traders can use to identify their top performing locations. Looking at both total orders and revenue by region is important because it provides a more comprehensive view of market performance and potential.
 
-Total orders indicate the size of the customer base in each region, while revenue reflects the monetary value of those orders. A region with many orders but low revenue may have a large but low-spending customer base, while a region with few orders but high revenue may have a smaller but high-value customer base.
+Total orders can indicate the size of size customer base in each region, while revenue reflects the monetary value of those orders. A region with many orders but low revenue may have a large but low-spending customer base, while a region with few orders but high revenue may have a smaller but high-value customer base.
