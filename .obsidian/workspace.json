@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/SQL - W10 Advanced Querying - Introduction.md",
+                "file": "content/SQL - Practice Final.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/SQL - W10 Advanced Querying and Data Analytics Assignment.md",
+                "file": "content/SQL - Practice Final.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/SQL - W10 Advanced Querying and Data Analytics Assignment.md",
+                "file": "content/SQL - Practice Final.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/SQL - W10 Advanced Querying and Data Analytics Assignment.md"
+                "file": "content/SQL - Practice Final.md"
               }
             }
           }
@@ -159,10 +158,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a9178493144cd4f",
+  "active": "71ebc842d79aad46",
   "lastOpenFiles": [
-    "content/SQL - W10 Advanced Querying - Data Analytics with GROUP BY.md",
+    "content/SQL - Final Exam.md",
+    "content/SQL-Files/Images/users_posts_erd.png",
+    "content/SQL-Files/Images/pets_owners_erd.png",
+    "content/SQL-Files/Images/movie_rentals_problems_erd.png",
+    "content/SQL-Files/Images/book_store_script_img.png",
+    "content/SQL-Files/Images/college_courses_erd.png",
+    "content/SQL - W10 Advanced Querying - Introduction.md",
     "content/SQL - W10 Advanced Querying and Data Analytics Assignment.md",
+    "content/SQL - W10 Advanced Querying - Data Analytics with GROUP BY.md",
     "content/SQL-Files/Images/GB3.png",
     "content/SQL-Files/Images/GB3.png.~tmp",
     "content/SQL - W10 Advanced Querying - GROUP BY.md",
@@ -170,8 +176,6 @@
     "content/SQL - W10 Advanced Querying - Calculating Values.md",
     "content/SQL - W10 Advanced Querying - Column Aliasing.md",
     "content/SQL - W10 Advanced Querying - Aggregate Functions.md",
-    "content/SQL - W10 Advanced Querying - Introduction.md",
-    "content/SQL - Final Exam.md",
     "content/SQL - Practice Final.md",
     "content/SQL - W3 Magic Store Database Overview.md",
     "content/SQL - W3 Table JOINs - DROP Tables.md",
