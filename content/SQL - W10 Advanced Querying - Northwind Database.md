@@ -5,7 +5,7 @@
 ### Initialize the Northwind Database
 
 - DROP the tables from your previous assignment(s), if necessary
-- Run the following script to populate your database -> <a href="https://github.com/kellerflint/Class-Intro-SQL/blob/hugo/content/Files/NorthwindScript.sql" target="_blank">NorthwindScript (github.com)</a>
+- Run the following script to populate your database -> <a href="https://github.com/kellerflint/Class-Intro-SQL/blob/hugo/content/SQL-Files/NorthwindScript.sql" target="_blank">NorthwindScript (github.com)</a>
 
 ### Northwind Database Entity Relationship Diagram
 
