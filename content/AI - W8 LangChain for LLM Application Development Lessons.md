@@ -1,6 +1,6 @@
 # LangChain Lessons
 
-Watch and follow along (either locally or on Google Colab) with the following sections of DeepLearning.AI's mini-course on [LangChain for LLM Application Development (deeplearning.ai)](https://learn.deeplearning.ai/courses/langchain/lesson/1/introduction)
+Watch and follow along (either locally or on Google Colab) with the following sections of [LangChain for LLM Application Development (deeplearning.ai)](https://learn.deeplearning.ai/courses/langchain/lesson/1/introduction)
 - Introduction
 - Models, prompts and parsers
 - Memory

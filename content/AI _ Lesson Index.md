@@ -8,4 +8,5 @@
 - [[AI - W6 Introduction]]
 - [[AI - W7 Introduction]]
 - [[AI - W8 Introduction]]
+- [[AI - W10 Introduction]]
 - [[AI - Final Project Assignment]]
