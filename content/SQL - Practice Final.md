@@ -154,7 +154,7 @@ Using the Northwind Traders diagram above, construct a query that gives meaningf
 
 ---
 
-Part 3 Answer:
+### Part 3 Answer:
 
 *I have no specific answer I have in mind for data analytics questions. I'm looking for functional queries that meet the requirements given in the question and help give meaningful insight into the data. I'm also looking for good reasoning about the kind of conclusions your query can provide and what considerations or assumptions went in to designing your query. Below is one possible solution.*
 
