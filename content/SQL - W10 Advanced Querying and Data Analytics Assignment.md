@@ -1,7 +1,7 @@
 
 # Advanced Querying and Data Analytics Assignment
 
-*Use the Northwind database for the following queries. Each query is worth 5 points.*
+**Use the Magic Store database for the following queries. Each query is worth 5 points.**
 
 6. Write a query to display the total quantity of products ordered by the client with the last name "Martinez". Display the client's full name as "Client Name" and the total quantity of products as "Total Products Ordered". 
 
@@ -23,6 +23,8 @@ Expected result:
 Expected result:
 
 <img src="https://raw.githubusercontent.com/kellerflint/Class-Intro-SQL/hugo/content/SQL-Files/Images/AQR10.png">
+
+**Use the Northwind database for the following queries. Each query is worth 5 points.**
 
 9. The procurement team wants to know the number of suppliers from each country. They need a report showing the country and the corresponding supplier count. 
 
