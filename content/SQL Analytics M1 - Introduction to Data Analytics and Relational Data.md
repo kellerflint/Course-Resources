@@ -1,7 +1,5 @@
 
-# Lessons and Practice
-
-### [[SQL Analytics M1 - Course Introduction|Course Introduction]] 
+# Lessons and Practice - Introduction to Data Analytics and Relational Data
 
 ### [[SQL Analytics M1 - Learning to Learn|Learning to Learn]]
 
