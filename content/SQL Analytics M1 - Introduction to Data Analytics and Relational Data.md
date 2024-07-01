@@ -1,9 +1,4 @@
 
-# Module Introduction
-
-
-VIDEO HERE
-
 # Lessons and Practice
 
 ### [[SQL Analytics M1 - Course Introduction|Course Introduction]] 
