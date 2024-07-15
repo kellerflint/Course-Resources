@@ -6,15 +6,16 @@
 - [MySQL :: Download MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
 - [Download MariaDB Server - MariaDB.org](https://mariadb.org/download/?t=mariadb&p=mariadb&r=11.4.2&os=windows&cpu=x86_64&pkg=msi&mirror=xtom_fre)
 
+
+### Mac Only Links
+- [Homebrew — The Missing Package Manager for macOS (or Linux)](https://brew.sh/)
+- [Installing MariaDB Server on macOS Using Homebrew - MariaDB Knowledge Base](https://mariadb.com/kb/en/installing-mariadb-on-macos-using-homebrew/)
+
 ### Widows Only Links
 [Latest supported Visual C++ Redistributable downloads | Microsoft Learn](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 
 <img src="https://raw.githubusercontent.com/kellerflint/Class-Intro-SQL/hugo/content/SQL-Files/Images/VS2015-2022-Redistrib.png">
 
 *This may be necessary if it is not already installed on your system. Click download and check the x64 box. Run the installation. You may also need to restart your machine afterwards.*
-
-### Mac Only Links
-- [Homebrew — The Missing Package Manager for macOS (or Linux)](https://brew.sh/)
-- [Installing MariaDB Server on macOS Using Homebrew - MariaDB Knowledge Base](https://mariadb.com/kb/en/installing-mariadb-on-macos-using-homebrew/)
 
 ### Back: [[SQL Analytics M2 - Basic Querying]]
