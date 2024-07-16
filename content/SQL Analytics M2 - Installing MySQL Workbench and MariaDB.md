@@ -4,6 +4,7 @@
 
 ### Links
 - [MySQL :: Download MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
+	- *macOS (ARM, 64-bit)
 - [Download MariaDB Server - MariaDB.org](https://mariadb.org/download/?t=mariadb&p=mariadb&r=11.4.2&os=windows&cpu=x86_64&pkg=msi&mirror=xtom_fre)
 
 

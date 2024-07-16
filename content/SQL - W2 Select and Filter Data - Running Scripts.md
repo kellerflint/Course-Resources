@@ -5,7 +5,7 @@
 To get started with hands-on practice, you'll need data to populate your database. We'll do this by running a SQL script. Follow these steps to execute the script on your database:
 
 1. **Open the SQL File**:
-    - Open the script file <a href="https://github.com/kellerflint/Course-Resources/blob/hugo/content/SQL-Files/CustomerScript.sql" target="_blank">CustomerScript.sql (github.com)</a>. It contains the commands to create tables and insert data into them.
+    - Open the script file -> [NorthwindScript (github.com)](https://github.com/kellerflint/Class-Intro-SQL/blob/hugo/content/SQL-Files/NorthwindScript.sql). It contains the commands to create tables and insert data into them.
 2. **Access phpMyAdmin**:
     - From the WebHostingForStudents Client Area, find your website and click the "Log in to cPanel" button.
     - Once in cPanel, click "phpMyAdmin" under the "Databases" section.
@@ -19,13 +19,6 @@ To get started with hands-on practice, you'll need data to populate your databas
     - After running the script, check to ensure that tables are created and data is inserted. You can do this by running a simple SELECT query, like `SELECT * FROM tablename;.
 
 # Lessons
-- [[SQL - W2 Select and Filter Data - Introduction]]
+
 - [[SQL - W2 Select and Filter Data - Creating a Database]]
 - SQL - W2 Select and Filter Data - Running Scripts
-- Next: [[SQL - W2 Select and Filter Data - SELECT Statement]]
-- [[SQL - W2 Select and Filter Data - WHERE Clause and Comparison Operators]]
-- [[SQL - W2 Select and Filter Data - Logical Operators]]
-- [[SQL - W2 Select and Filter Data - ORDER BY]]
-- [[SQL - W2 Select and Filter Data - SQL Comments]]
-- [[SQL - W2 Select and Filter Data - Note on Semicolons]]
-- [[SQL - W2 Select and Filter Data - Practice Assignment]]

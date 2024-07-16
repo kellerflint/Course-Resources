@@ -16,7 +16,7 @@ After successfully setting up MySQL Workbench and MariaDB, take a screenshot of 
 ### [[SQL Analytics M2 - SELECT Statements|SELECT Statements]] (8 min)
 
 1. Create a query to display the first name and last name of all employees from the `employees` table.
-2. Write a query to display all information in the `shippers table.
+2. Write a query to display all information in the `shippers` table.
 3. The sales team needs a list of all our products with only the details most relevant to making the sale. Write a query to accomplish this. Include a comment above the query that briefly explains why you believe the columns you chose were most relevant.
 
 ### [[SQL Analytics M2 - Math on Columns|Math on Columns]] (4 min)
