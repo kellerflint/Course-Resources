@@ -5,5 +5,5 @@
 
 ### [[SQL Analytics M2 - Basic Querying]]
 
-### [[SQL Analytics M3 - GROUP BY and Aggregation]]
+### [[SQL Analytics M3 - Grouping and Aggregation]]
 
