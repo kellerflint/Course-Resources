@@ -14,7 +14,7 @@ Please label each question with its number and write all answers in a single fil
 # Lessons
 - [[SQL - W5 Introduction to Entity Relationship Diagrams]]
 - [[SQL - W5 Entity Relationship Diagram Structure]]
-- [[SQL W5 Representing Relationships]]
+- [[SQL - W5 Representing Relationships]]
 - [[SQL - W5 Data Types and Nullability]]
 - [[SQL - W5 Querying from ERDs]]
 - SQL - W5 Entity Relationship Diagrams Practice Assignment
