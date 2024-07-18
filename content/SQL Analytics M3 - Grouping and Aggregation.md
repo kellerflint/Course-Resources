@@ -1,4 +1,4 @@
-# Lessons and Practice - Basic Querying 
+# Lessons and Practice - Grouping and Aggregation
 
 
 *Use the Northwind database for all questions.*
