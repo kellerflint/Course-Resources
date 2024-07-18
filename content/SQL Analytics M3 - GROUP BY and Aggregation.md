@@ -18,7 +18,7 @@
 ### [[SQL Analytics M3 - HAVING|HAVING]]
 
 7. Write a single query to display the average price of the products in each category. Show only categories that have an average price of at least $25. Order the results from highest to lowest average price.
-8. Write a single query to display the number of times each product has been ordered (using orderdetails). Show only products that have been ordered at least 100 times.
+8. Write a single query to display the total quantity of each product that has been ordered (using the `orderdetails` table). Show only products that have been ordered at least 100 times.
 ### [[SQL Analytics M3 - Understanding Query Order|Understanding Query Order]]
 
 9. Answer the following in a comment in your SQL script. A junior data analysist at Northwind comes to you and asks why one of their queries works while the other doesn't. Identify which query will succeed and which will fail. Then explain in simple and clear terms (that a new data analyst could understand) your reasoning for this.
