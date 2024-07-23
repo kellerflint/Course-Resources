@@ -27,8 +27,8 @@ After successfully setting up MySQL Workbench and MariaDB, take a screenshot of 
 ### [[SQL Analytics M2 - Column Aliasing|Column Aliasing]] (3 min)
 
 6. Re-write your query for question #5 using clear column names. Include the following additional columns as well:
-	- `Flat Increase Amount` with a fixed value of "12%"
 	- `Markdown Amount` with a fixed value of "$2"
+	- `Flat Increase Amount` with a fixed value of "12%"
 
 ### [[SQL Analytics M2 - WHERE Clause|WHERE Clause]] (30 min)
 
