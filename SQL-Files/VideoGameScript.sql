@@ -1,3 +1,5 @@
+/* Source: https://www.kaggle.com/datasets/gregorut/videogamesales. Converted from CSV to SQL INSERTs with necessary data preparation steps. */
+
 CREATE TABLE games (
     Rank INT,
     Name VARCHAR(255),
