@@ -1,6 +1,11 @@
 
 # SQL Data Analysis Assignment
 
+
+### Introduction:
+
+<iframe src="https://share.descript.com/embed/xFMMD1KUyXp" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
 ### Objective: 
 
 Analyze video game sales data using SQL queries. Answer three main questions and interpret the results.
