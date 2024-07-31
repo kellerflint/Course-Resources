@@ -25,8 +25,8 @@ Analyze video game sales data using SQL queries. Answer three main questions and
 1. Which genre is most popular?
 	- *I changes this question because I think it is more difficult than I intended. You are welcome to still answer the old question if you like but you do not need to.*
 	- *Original Questions: Which game has sold the most in each genre?*
-3. What platforms sell the most copies?
-4. Which publishers are most relevant in each region?
+2. What platforms sell the most copies?
+3. Which publishers are most relevant in each region?
 
 ### Format: 
 
