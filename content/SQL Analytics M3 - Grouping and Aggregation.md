@@ -27,7 +27,7 @@
 /* Query #1 */
 SELECT
     Category,
-    SUM(Quantity) AS TotalQuantity,
+    SUM(Quantity) AS TotalQuantity
 FROM Sales
 WHERE TotalQuantity > 10;
 ```
@@ -36,7 +36,7 @@ WHERE TotalQuantity > 10;
 /* Query #2 */
 SELECT
     Category,
-    SUM(Quantity) AS TotalQuantity,
+    SUM(Quantity) AS TotalQuantity
 FROM Sales
 ORDER BY TotalQuantity DESC;
 ```
