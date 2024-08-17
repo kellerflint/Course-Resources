@@ -14,7 +14,7 @@
 
 ## Practice Questions
 
-### Question #1 (6 pts)
+### Part 1 (6 pts)
 
 Write the CREATE and INSERT statements for the tables below. Use your best judgement to assign appropriate data types and constraints to your columns. After each CREATE statement, write a brief comment to give your reasoning for using (or not using) constraints on each of the columns.
 
@@ -42,7 +42,7 @@ Write the CREATE and INSERT statements for the tables below. Use your best judge
 | 1  | Bob's Gourmet Macaroni |
 | 2  | Cheese Louise Dinner   |
 
-### Question #2 (6 pts)
+### Part 2 (6 pts)
 
 Create a new database and run the following script:
 
@@ -53,20 +53,24 @@ DROP TABLE IF EXISTS cars;
 DROP TABLE IF EXISTS customers;
 
 CREATE TABLE customers (
-    CustomerId INT PRIMARY KEY,
-    FirstName VARCHAR(50),
-    LastName VARCHAR(50),
-    Email VARCHAR(100),
-    Phone VARCHAR(20)
+    CustomerId INT,
+    FirstName VARCHAR(50) NOT NULL,
+    LastName VARCHAR(50) NOT NULL,
+    Email VARCHAR(100) UNIQUE,
+    Phone VARCHAR(20) UNIQUE,
+    
+	PRIMARY KEY (CustomerId)
 );
 
 CREATE TABLE cars (
-    CarId INT PRIMARY KEY,
-    Make VARCHAR(50),
-    Model VARCHAR(50),
+    CarId INT,
+    Make VARCHAR(50) NOT NULL,
+    Model VARCHAR(50) NOT NULL,
     Year INT,
     Price DECIMAL(10, 2),
     PurchaserId INT,
+    
+	PRIMARY KEY (CarId)
     FOREIGN KEY (PurchaserId) REFERENCES customers(CustomerId)
 );
 
@@ -83,16 +87,15 @@ INSERT INTO cars (CarId, Make, Model, Year, Price, PurchaserId) VALUES
     (3, 'Ford', 'Mustang', 2023, 35000.00, NULL),
     (4, 'Chevrolet', 'Malibu', 2022, 27000.00, 3),
     (5, 'Tesla', 'Model 3', 2023, 45000.00, 3);
-
 ```
 
-**Without** using CREATE or INSERT, write SQL commands to handle the following senarios:
+**Without** using CREATE or INSERT, write SQL commands to handle the following scenarios for this car dealership database.
 1. The dealership has decided to start tracking the color of each car.
 2. There was a mistake when processing a recent order. The Honda Civic was actually sold to John Smith.
-3. Sarah Johnson has decided to return her Tesla Model 3. The dealership has agreed to take it back.
+3. Mei Chen has decided to return her Tesla Model 3. The dealership has agreed to take it back.
 4. Aisha Patel has changed her email address. Her new email is aishap@gmail.com.
 5. Due to a special promotion, the dealership has decided to reduce the price of the Ford Mustang by $2000.
-6. The Ford Mustang was damaged beyond repair in a lot accident and needs to be removed from inventory.
+6. Kwame has decided to close their account. Data privacy laws require the company to permanently remove their information.
 
 ## How to Submit
 
