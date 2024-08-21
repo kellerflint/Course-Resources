@@ -70,7 +70,7 @@ CREATE TABLE cars (
     Price DECIMAL(10, 2),
     PurchaserId INT,
     
-	PRIMARY KEY (CarId)
+	PRIMARY KEY (CarId),
     FOREIGN KEY (PurchaserId) REFERENCES customers(CustomerId)
 );
 
