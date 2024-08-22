@@ -58,8 +58,8 @@ CREATE TABLE customers (
     LastName VARCHAR(50) NOT NULL,
     Email VARCHAR(100) UNIQUE,
     Phone VARCHAR(20) UNIQUE,
-    
-	PRIMARY KEY (CustomerId)
+
+    PRIMARY KEY (CustomerId)
 );
 
 CREATE TABLE cars (
@@ -70,7 +70,7 @@ CREATE TABLE cars (
     Price DECIMAL(10, 2),
     PurchaserId INT,
     
-	PRIMARY KEY (CarId)
+    PRIMARY KEY (CarId),
     FOREIGN KEY (PurchaserId) REFERENCES customers(CustomerId)
 );
 
