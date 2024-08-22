@@ -10,7 +10,7 @@ Module Two:
 - [[SQL - W5 Introduction to Entity Relationship Diagrams]]
 - Create and Populate Tables (still in canvas)
 - [[SQL - W7 Many-to-Many Relationships]]
-- [[SQL - W8 Creating Entity Relationship Diagrams - Introduction]]
+- [[SQL Analytics M8 - Entity Relationship Diagrams]]
 - [[SQL - W9 ERD & DB Design Assignment - Introduction]]
 
 Module Three:

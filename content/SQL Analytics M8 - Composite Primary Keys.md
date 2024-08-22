@@ -1,4 +1,5 @@
-# Creating Entity Relationship Diagrams - Using Composite Primary Keys
+### Back: [[SQL Analytics M8 - Many-to-Many Relationships and Entity Relationship Diagrams]]
+# Composite Primary Keys
 
 <iframe src="https://egator.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=2cde06fb-34b8-4dcc-83f6-b11c015d2fc9&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 
@@ -39,10 +40,4 @@ CREATE TABLE Payments(
 );
 ```
 
-# Lessons
-- [[SQL - W8 Creating Entity Relationship Diagrams - Introduction]]
-- [[SQL - W8 Creating Entity Relationship Diagrams - CREATE One to Many Tables]]
-- [[SQL - W8 Creating Entity Relationship Diagrams - CREATE Many to Many Tables]]
-- Creating Entity Relationship Diagrams - Using Composite Primary Keys
-- **Next:** [[SQL - W8 Creating Entity Relationship Diagrams - Create Entity Relationship Diagrams]]
-- [[SQL - W8 Creating Entity Relationship Diagrams - Practice Assignment]]
+### Back: [[SQL Analytics M8 - Many-to-Many Relationships and Entity Relationship Diagrams]]
