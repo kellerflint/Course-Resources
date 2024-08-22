@@ -23,7 +23,7 @@
 
 <iframe src="https://egator.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=99ed404e-6872-496d-95da-b11c015d3030&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 
-### Link to the diagraming tool -> <a href="https://drawsql.app" target="_blank">drawSQL</a>
+### Link to the diagraming tool -> <a href="https://drawsql.app" target="_blank">drawSQL</a> (https://drawsql.app)
 
 
 ## Practice Questions
