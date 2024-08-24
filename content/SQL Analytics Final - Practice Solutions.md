@@ -38,7 +38,7 @@ SELECT
 	COUNT(products.ProductID) AS NumberOfProducts 
 FROM suppliers
 JOIN products ON suppliers.SupplierID = products.SupplierID
-GROUP BY suppliers.SupplierID, suppliers.SupplierName
+GROUP BY suppliers.SupplierID
 HAVING COUNT(products.ProductID) > 3
 ORDER BY COUNT(products.ProductID) DESC;
 ```
@@ -52,7 +52,7 @@ SELECT
 FROM categories
 JOIN products ON categories.CategoryID = products.CategoryID
 JOIN orderdetails ON products.ProductID = orderdetails.ProductID
-GROUP BY categories.CategoryID, categories.CategoryName
+GROUP BY categories.CategoryID
 HAVING SUM(orderdetails.Quantity) > 1000
 ORDER BY SUM(orderdetails.Quantity) DESC;
 ```
@@ -69,7 +69,7 @@ FROM customers
 JOIN orders ON customers.CustomerID = orders.CustomerID
 JOIN orderdetails ON orders.OrderID = orderdetails.OrderID
 JOIN products ON orderdetails.ProductID = products.ProductID
-GROUP BY customers.CustomerID, customers.CustomerName
+GROUP BY customers.CustomerID
 HAVING SUM(orderdetails.Quantity * products.Price) > 10000
 ORDER BY SUM(orderdetails.Quantity * products.Price) DESC
 LIMIT 5;
