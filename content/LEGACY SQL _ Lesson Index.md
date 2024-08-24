@@ -11,7 +11,7 @@ Module Two:
 - Create and Populate Tables (still in canvas)
 - [[SQL - W7 Many-to-Many Relationships]]
 - [[SQL Analytics M8 - Entity Relationship Diagrams]]
-- [[SQL - W9 ERD & DB Design Assignment - Introduction]]
+- [[SQL Analytics M9 - Database Design]]
 
 Module Three:
 - [[SQL - W10 Advanced Querying - Introduction]]

@@ -1,4 +1,4 @@
-# Database Design Assignment - Challenge (5 pts Extra Credit)
+# Database Design Assignment - Challenge
 
 For this challenge, you will be designing and implementing a database to solve a business problem. To give some exposure to the ways you might use your SQL knowledge in industry, this problem will be roughly based on a real-world application I was tasked with designing and implementing during my first software development internship.
 
@@ -37,12 +37,4 @@ There are many possible ways to design this database depending on the decisions 
 
 Keep in mind that fewer tables isn't necessarily better if it comes at the cost of losing data or failing to effectively represent a relationship.
 
-# Submission Instructions
-
-*See the Submission Instructions in [[SQL - W9 Database Design Assignment]].*
-
-# Lessons
-- [[SQL - W9 ERD & DB Design Assignment - Introduction]]
-- [[SQL - W9 Database Design Assignment - Database Design Example]]
-- [[SQL - W9 Database Design Assignment]]
-- Database Design Assignment - Challenge (5 pts Extra Credit)
+### Back: [[SQL Analytics M9 - Database Design]]
