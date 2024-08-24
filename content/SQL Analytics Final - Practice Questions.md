@@ -5,7 +5,7 @@ Write a query to show the order ID, order date of orders and the first and last 
 
 Write a query to display the order ID, customer name, and employee last name for all customers whose names start with 'A'. Sort the results by order ID in descending order.
 
-Write a query to list all products with a price between $20 and $50, and that belong to category ID 3 or 5. Display the product name, price, and category ID. Sort the results by price in ascending order.
+Write a query to list all products with a price between `$20` and `$50`, and that belong to category ID 3 or 5. Display the product name, price, and category ID. Sort the results by price in ascending order.
 
 Write a query to display the supplier name and the number of products they supply. Only include suppliers who supply more than 3 products. Order the results by the number of products in descending order.
 

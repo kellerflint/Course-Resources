@@ -22,7 +22,7 @@ WHERE customers.CustomerName LIKE 'A%'
 ORDER BY orders.OrderID DESC;
 ```
 
-Write a query to list all products with a price between $20 and $50, and that belong to category ID 3 or 5. Display the product name, price, and category ID. Sort the results by price in ascending order.
+Write a query to list all products with a price between `$20` and `$50`, and that belong to category ID 3 or 5. Display the product name, price, and category ID. Sort the results by price in ascending order.
 
 ```sql
 SELECT ProductName, Price, CategoryID FROM products
