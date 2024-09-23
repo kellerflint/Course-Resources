@@ -7,7 +7,7 @@ Hi there! This is a hosted obsidian notebook with all of the lessons, content, a
 
 ### [[SQL Analytics _ Lesson Index]]
 
-### [[AI _ Lesson Index]]
+### [[AI For Devs _ Lessons Index]]
 
 
 # Temp Resources

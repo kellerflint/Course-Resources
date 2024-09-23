@@ -1,4 +1,4 @@
-# M1 - Course Introduction and the AI Landscape
+# M1 - AI Overview
 
 ## Learning Objectives
 *These topics will be covered in this module's knowledge check and entry ticket.*
@@ -8,10 +8,7 @@
 - Explain (at a high level, no need to memorize specific dates) the eras of AI, what enabled neural networks and deep learning techniques in the last 15 years.
 - Explain the "black box" and "bias" problems with AI.
 - Understand how Artificial Intelligence, Machine Learning, Neural Networks, Deep Learning, and Generative AI relate to each other.
-
-## Course Intro
-
-TODO: Video
+- Learn/review the basics of programming in Python with Jupyter notebooks.
 
 ## Brief History of AI and the Current AI Landscape
 
