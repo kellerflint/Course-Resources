@@ -1,7 +1,5 @@
 
 # Lessons and Practice - Basic Querying 
-## Estimated Time to Complete: 3 ~ 10 hours
-
 
 ### [[SQL Analytics M2 - Installing MySQL Workbench and MariaDB|Installing MySQL Workbench and MariaDB]] (17 min)
 
@@ -42,5 +40,5 @@ After successfully setting up MySQL Workbench and MariaDB, take a screenshot of 
 12. Write a query to show all customers from the `customers` table, sorted first by their country in reverse alphabetical order and the customer's name in alphabetical order.
 13. Management is conducting a performance review of employees and wants to see a comprehensive breakdown of all orders. They need to see which employees handled each order *(you can use the `EmployeeID` in the `orders` table, it shows who facilitated the order)* and the corresponding order dates. They've emphasized the importance of seeing each employee's sales history chronologically, with their most recent sales appearing first. Write a query that provides this information in a format that allows management to easily review each employee's performance over time.
 
-Submit your answers for the "M2 Practice - Basic Querying" assignment on canvas.
+Submit your answers for the "M2 Lessons and Practice - Basic Querying" assignment on canvas.
 

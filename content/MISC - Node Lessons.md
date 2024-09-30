@@ -1,7 +1,4 @@
-
-# Node Lessons
-
-
+# Node Basics and Hosting
 
 ### Installing Node
 
@@ -9,10 +6,9 @@ Downloads:
 - [Node.js (nodejs.org)](https://nodejs.org/en)
 - [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/)
 
-<iframe src="https://egator.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=500a44f9-4637-4817-a79f-b12901293a5b&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
+You can test that node installed successfully by opening your terminal and typing `node -v`.
 
 ### Project Setup and Hello World App
-<iframe src="https://egator.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=41131105-dffe-4c67-8c22-b12901293a32&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 
 ##### Terminal Commands from Video
 
@@ -21,17 +17,84 @@ Create the project:
 npm init -y
 ```
 
-Install express and ejs:
+Install express:
 ```bash
-npm install express ejs
+npm i express ejs
 ```
 
-Install nodemon:
-```bash
-npm install --save-dev nodemon
+Create app.js file in the project root with the following:
+```js
+const express = require('express');
+
+const app = express();
+const PORT = 3000;
+
+app.get('/', (req, res) => {
+    res.send('Hello World');
+});
+
+app.listen(PORT, () => {
+    console.log(`Server is running on port http://localhost:${PORT}`);
+});
 ```
 
-Start node
-```bash
-npx nodemon index.js
+Run node app from root in terminal:
+```shell
+node app.js
 ```
+
+In your browser go to:
+```
+http://localhost:3000
+```
+
+---
+
+Create a "views" folder and restructure your project files:
+```
+your-project/
+├── views/
+│   └── home.ejs (formerly index.html)
+├── public/
+│   └── styles/
+│       └── home.css (formerly pizza-styles.css)
+│   └── images/
+│       └── images here...
+└── app.js
+```
+
+Update app.js:
+```js
+const express = require('express');
+
+const app = express();
+const PORT = 3000;
+
+app.use(express.urlencoded({ extended: false }));
+app.use(express.static('public'));
+
+app.set('view engine', 'ejs');
+
+app.get('/', (req, res) => {
+    res.render('home');
+});
+
+app.post('/success', (req, res) => {
+    const data = req.body;
+    res.send(data);   
+});
+
+app.listen(PORT, () => {
+    console.log(`Server is running on port http://localhost:${PORT}`);
+});
+```
+
+To see changes, you will need to stop and restart the app.
+
+Deployment Steps:
+- Zip the project file
+- Upload to your home directory in WH4S
+- Extract
+- "Setup Node.js App"
+- Set the application root to the project folder's name
+- Create it

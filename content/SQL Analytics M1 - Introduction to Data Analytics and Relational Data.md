@@ -1,6 +1,5 @@
 
 # Lessons and Practice - Introduction to Data Analytics and Relational Data
-## Estimated Time to Complete: 2.5 ~ 6 hours
 
 ### [[SQL Analytics M1 - Learning to Learn|Learning to Learn]] (25 min)
 
@@ -32,4 +31,4 @@ A local veterinary clinic wants to digitize their records and efficiently store 
 7. Explain why the current structure is inefficient. Why is this inefficiency a concern for a database?
 8. Propose a new structure using multiple relational tables without losing the ability to look up which pets belong to which owners. Be specific about what columns belong in each table and how this improves efficiency. Identify the primary key and foreign key columns in your new structure. *(It may help to use a tool like excel, google sheets, or paper to sketch out your new table design before trying to describe it).*
 
-Submit your answers for the M1 practice assignment on canvas.
+Submit your answers for the M1 lessons and practice assignment on canvas.
