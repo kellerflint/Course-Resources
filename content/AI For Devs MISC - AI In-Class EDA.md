@@ -27,7 +27,7 @@ import matplotlib.pyplot as plt
 - Check for missing values. Show how many missing values are in each column
 - There's more than one way to deal with missing values. Briefly investigate a few of these options. Which do you believe is most appropriate?
 - Apply one of the methods of missing values
-- Pick a few numerical columns and a few categorical columns. For numerical variables, create histograms. For categorical variables, create bar plots showing frequency distributions.
+- Pick a few numerical columns and a few categorical columns. For categorical variables, create bar plots showing frequency distributions. For continuous numerical variables, create histograms. For binary variables (yes/no), create pie charts.
 
 ## Questions and Discussion
 - What are the limitations of this data? What concerns might we have with it? How might these impact and AI model?
