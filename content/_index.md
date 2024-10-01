@@ -16,6 +16,7 @@ Hi there! This is a hosted obsidian notebook with all of the lessons, content, a
 
 [[MISC - Node Demo]]
 
+[[AI For Devs MISC - AI In-Class EDA]]
 
 # Legacy
 

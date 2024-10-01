@@ -50,7 +50,6 @@
 - Successful prediction of the target variable using the model
 - Clear and well-documented code
 
-
 #### Submission
 Submit your assignment by providing a link to your Colab notebook to the assignment in Canvas. If you worked locally, export your document as an HTML or PDF file and upload that file to the assignment Canvas.
 
