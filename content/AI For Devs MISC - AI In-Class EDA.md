@@ -32,3 +32,9 @@ import matplotlib.pyplot as plt
 ## Questions and Discussion
 - What are the limitations of this data? What concerns might we have with it? How might these impact and AI model?
 - What might be the down stream consequences of relying on an AI model trained with this data?
+
+## Submit
+
+At the end of class, submit your notebook (shared link if Collab, file if VS Code) to the assignment on Canvas. Your notebook should contain:
+- The technical work you completed
+- A markdown cell at the end with brief answers to the questions
