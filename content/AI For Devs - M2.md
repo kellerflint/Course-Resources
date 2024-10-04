@@ -1,4 +1,4 @@
-# M2 - Applications of AI
+# M2 - Applications of Machine Learning
 ## Learning Objectives
 *These topics will be covered in this module's knowledge check and entry ticket.*
 - Understand the types of common tasks in AI (no need to memorize the techniques, just make sure to understand the task categories and kinds of data / scenarios they deal with).
@@ -23,7 +23,6 @@
 <iframe src="https://egator.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=6f841154-530c-499c-ae9f-b145010e5e6e&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 
 ## Quick Intro to Simple Linear Regression
-
 <iframe width="720" height="405" src="https://www.youtube.com/embed/qxo8p8PtFeA?si=0ovg0oldgqj-FDK4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Traditional Models and Linear Regression
@@ -35,7 +34,6 @@
 - My Notebook: https://colab.research.google.com/drive/1h3-bCRU2JQ5VqFLbshVIK84HlITYwV6Q?usp=sharing
 
 ## Assignment: Multiple Linear Regression
-
 <iframe src="https://egator.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=1eb1e8a7-d650-4e3a-8eb8-b14a005b8b26&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Multiple Linear Regression Assignment" ></iframe>
 
 #### Instructions
