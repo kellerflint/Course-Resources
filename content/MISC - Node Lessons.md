@@ -48,6 +48,8 @@ In your browser go to:
 http://localhost:3000
 ```
 
+You can stop the node app by pressing control + c in the terminal.
+
 ---
 
 Create a "views" folder and restructure your project files:
