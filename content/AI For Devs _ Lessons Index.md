@@ -13,7 +13,7 @@
 
 
 Resources:
-- [[AI For Devs - ML Analytics Pathway]]
-- [[AI For Devs - AI App Pathway]]
+- [[AI For Devs - Pathway - ML Analytics]]
+- [[AI For Devs - Pathway AI-Driven App]]
 - [[AI For Devs - Course Project Proposal]]
 - [[AI For Devs - Course Project Rubric]]

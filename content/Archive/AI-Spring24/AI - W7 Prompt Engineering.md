@@ -3,8 +3,6 @@
 
 ### Watch all sections of [ChatGPT Prompt Engineering for Developers - deeplearning.ai](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/1/introduction) (about 1.5 hours)
 
-**NOTE: Content from the "ChatGPT Prompt Engineering for Developers" videos will not appear on the week 7 entry ticket or be required in order to complete the week 7 discussion post!**
-
 # Lessons
 - [[AI - W7 Introduction]]
 - [[AI - W7 Basics of Working with Generative AI and LLMs]]

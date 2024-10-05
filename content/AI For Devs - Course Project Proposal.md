@@ -1,6 +1,6 @@
 # Project Proposal Assignment
 
-### Introduction
+## Introduction
 
 This proposal is your roadmap for a quarter-long project that will form a significant part of your learning experience and final grade. Your project will allow you to dive deep into a specific area of AI, applying the concepts we'll cover in class to a real-world problem or application.
 
@@ -8,21 +8,21 @@ The goal of this proposal is to outline your project idea, learning objectives, 
 
 After submitting your proposal, we'll meet one-on-one to discuss it. This will be your chance to get feedback and make sure you're on the right track before jumping into the project work. Be aware that you may be asked to revise your proposal to ensure it meets the course requirements and sets you up for success.
 
-### Predefined Pathways
+## Predefined Pathways
 
  I have outlined two possible predefined pathways for your project. These are designed to align with core areas of AI we'll be covering in the course. You're welcome to choose one of these, or propose a custom pathway (more on that option later).
 
-#### Machine Learning Data Analytics
+### Machine Learning Data Analytics
 
-In this pathway, you'll work with real-world datasets to solve problems using machine learning techniques. Your project should involve:
+In this pathway, you'll work with real-world datasets to solve problems or make predictions using machine learning techniques. Your project should involve:
 - Finding and preparing a substantial dataset from a reputable source
 - Performing exploratory data analysis (EDA) to understand your data
-- Applying and comparing at least two different machine learning models (e.g., linear or logistic regression, decision trees, random forest, etc.)
+- Applying and comparing at least two different machine learning models (e.g., linear or logistic regression, decision tree, random forest, neural network, etc.)
 - Conducting model evaluation
 - Interpreting the results of your model
 - Addressing real-world considerations like data preprocessing, feature engineering, and handling imbalanced data
 
-Example project:
+Example projects that align with this pathway:
 - Use a dataset of home features (e.g., square footage, number of bedrooms, etc.) to predict house prices. Identify which features are most influential in determining home price.
 - Analyze patient data to predict the likelihood of a specific disease (e.g., diabetes or heart disease). Identify the factors that contribute most to the diagnosis.
 - Use demographic and academic data to predict student performance on standardized tests. Identify what factors most influence student success.
@@ -30,25 +30,25 @@ Example project:
 
 Suggested Timeline:
 - M5 - Complete initial Exploratory Data Analysis (EDA)
-- M7 - Data preparation and train first model
+- M7 - Complete data preparation and train first model
 - M9 - Implement second model and perform model evaluation and initial analysis
-- Final Presentation - Complete, well-formatted notebook with functional models and clear analysis
-#### Generative AI Application
+- Final Presentation - Submit a complete, well-formatted notebook with functional models and clear analysis
+### AI-Driven Application
 
-In this pathway, you'll develop a functional application that leverages generative AI as a core component. Your project should involve:
-- Conceptualizing and designing an app that solves a real problem using generative AI
+In this pathway, you'll develop a functional application that leverages AI as a core component. Your project should involve:
+- Conceptualizing and designing an app that solves a real problem using AI
 - Implementing a minimum viable product (MVP) of your app
 - Integrating at least one generative AI model via API calls
-- Implementing at least one more advanced techniques such as:
+- Implementing some advanced techniques such as:
 	- Managing conversation context over multiple interactions
 	- Implementing Retrieval-Augmented Generation (RAG)
-	- Creating a simple custom knowledge base or vector database
-	- Utilizing LLM-powered agents that can use tools and make decisions
+	- Creating a custom knowledge base or vector database
+	- Utilizing LLM-powered agents for opened-ended or multi-step requests
 	- Integrating tools or APIs that the LLM can call as needed
 - Addressing practical concerns like prompt engineering and user experience
 - Evaluating the effectiveness and limitations of your app
 
-Example project:
+Example projects that align with this pathway:
 - Create an application where users can upload documents (e.g., research papers, legal documents) and ask questions about them.
 - Develop an AI tutor that adapts to a student's learning style and knowledge level. Maintain data about the user over multiple interactions to track their progress.
 - Build a chatbot for a company that can handle customer queries about products, retrieving information about products and inventory in real-time from a database.
@@ -57,10 +57,10 @@ Example project:
 Suggested Timeline:
 - M5 - Complete initial app design and API integration
 - M7 - Implement basic functionality and user interface
-- M9 - Incorporate at least one advanced technique (e.g., RAG, context management, etc.). Have a functional MVP
+- M9 - Incorporate advanced techniques (such as RAG, context management, etc.). Have a functional MVP
 - Final Presentation - Polished MVP app with advanced features implemented and tested
 
-### Custom Pathway Option
+## Custom Pathway Option
 
 If you have a specific area of interest not covered by the predefined pathways (such as computer vision, reinforcement learning, natural language processing, AI ethics, etc.), you can propose a custom project. This option is highly flexible but requires more initiative in planning and resource gathering. You may also adapt or adjust one of the predefined pathways if you prefer. 
 
@@ -68,16 +68,16 @@ Your chosen pathway must align with the course objectives and focus on understan
 
 For a custom pathway, you'll need to clearly define your project scope, learning objectives, and the resources you'll use to guide your learning. Your proposal should demonstrate that your project is comparable in depth and complexity to the predefined pathways.
 
-### Proposal Requirements
+## Proposal Requirements
 
 Your project proposal should include the following elements:
 
 1. Project Title and Chosen Pathway
 2. Project Overview (250-300 words):
-	- Briefly describe your project idea and its objectives
+	- Briefly describe your project and clearly outline its objectives
 	- Explain why this project is interesting or important
 3. Learning Objectives (3-5 bullet points):
-	- List specific skills or knowledge you aim to gain through this project
+	- List specific skills or knowledge you aim to gain through this project. What will get out of doing this?
 4. Project Timeline and Milestones
 	- You may use the suggested timeline as a starting place but be sure to add any additional information and milestones specific to your project / plan
 5. Potential Challenges
@@ -86,8 +86,28 @@ Your project proposal should include the following elements:
 6. Questions and Clarifications
 	- List any questions or concerns you'd like to discuss with me about the project before starting
 7. GitHub Repository
-	- Create a repository for this project on GitHub and share the link here. Your repository should be either public or shared with me (add both `kellerflint` and `kellerflint-grc` as contributor to your project ONLY IF your repository is set to private)
-8. Learning Resources (*custom projects only)
+	- Create a repository for this project on GitHub and share the link here. Your repository can be either public or private. I would suggest setting it to public to help build up your portfolio. If your repository is private, it must be shared with me (add both `kellerflint` and `kellerflint-grc` as contributor to your project ONLY IF your repository is set to private)
+8. Learning Resources (*required for custom projects*)
 	- List at least 3 specific resources, tutorials, or guides you're planning to use for your self-directed learning
+	- *This is not required for the predefined pathways as I will have starting resources for you. However if you would like to indicate anything additional you plan to use, feel free to do so.*
 
 Proofread your proposal for clarity and coherence and be prepared to present your project plan to me. The proposal review meeting is not a formal presentation, but you should have some idea how you're going to communicate this information to me clearly and concisely during our meeting so I can quickly grasp the details of your project.
+
+I suggest copying the proposal requirements into Claude or GPT along with your draft. Ask for feedback on your proposal to see if there are any areas you have have missed or overlooked and to check for alignment with my requests.
+
+Suggested Prompt for AI Feedback:
+```
+Below are the requirements for a project proposal on an AI focused Project.
+
+"""
+(Copy and paste the full proposal assignment instructions here)
+"""
+
+Check the following for any areas where my proposal in incomplete, unclear, or does not align with the assignment requirements. Provide clear and specific feedback.
+
+"""
+(Copy and paste your project proposal here)
+"""
+```
+
+Not all AI suggestions are useful or relevant, but it can be helpful in identifying aspects you may have overlooked.
