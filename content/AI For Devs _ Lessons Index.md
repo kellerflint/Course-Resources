@@ -2,6 +2,7 @@
 
 ## [[AI For Devs - M1]]
 ## [[AI For Devs - M2]]
+- [[AI For Devs MISC - AI In-Class EDA]]
 ## [[AI For Devs - M3]]
 ## [[AI For Devs - M4]]
 ## AI For Devs - M5 Intro
@@ -13,7 +14,7 @@
 
 
 Resources:
-- [[AI For Devs - Pathway - ML Analytics]]
-- [[AI For Devs - Pathway AI-Driven App]]
+- [[AI For Devs - ML Pathway]]
+- [[AI For Devs - App Pathway]]
 - [[AI For Devs - Course Project Proposal]]
 - [[AI For Devs - Course Project Rubric]]

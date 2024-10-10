@@ -15,7 +15,7 @@ Total Points: 100
 	- Clear and engaging final presentation
 	- Visually appealing slides
 	- Demo (if included) is well executed, focused and supports the presentation
-		- *I do not want to see clicking through pages of an application with no clear plan or commentary. Demos should be prepared and rehearsed ahead of time and free of foreseeable technical issues. You may also prerecord a demo and incorporate short videos of it in your presentation.
+		- *I do not want to see clicking through pages of an application with no clear plan or commentary. Any demonstrations of functionality should be prepared and rehearsed ahead of time and free of foreseeable technical issues. You may also prerecord a demo and incorporate short videos of it in your presentation.
 
 For all projects:
 - GitHub repository with regular commits (at least once per week with meaningful progress made)

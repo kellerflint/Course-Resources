@@ -1,4 +1,4 @@
-This one is working with Gen AI and using it as productivity tool while we wrap up getting people settled with their projects and doing meetings with me.
+This one is using Gen AI. Now we want to talk a bit about AI tools maybe. And using it as productivity tool while we wrap up getting people settled with their projects and doing meetings with me. How we can learn with it. Stuff like that. We've done some prompt engineering, covered some basics, so now maybe we can get into specifics of coding with it or learning with it. Good opportunity too since they'll have just started their projects. How to use it to supplement that.
 
 ---
 
@@ -10,7 +10,4 @@ LLMs are also redefining our relationship with language and influencing human-ma
 
 
 
-## Prompt Engineering
-<iframe src="https://egator.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=9e54cd29-79e5-4d13-baf2-b16f01695690&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Prompt Engineering" ></iframe>
-
-### Watch all sections of [ChatGPT Prompt Engineering for Developers - deeplearning.ai](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/1/introduction) (about 1.5 hours)
+<iframe width="720" height="405" src="https://www.youtube.com/embed/cfqtFvWOfg0?si=SpADuljm83yTq91O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

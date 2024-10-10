@@ -10,6 +10,7 @@
 - Compare the performance of different LLMs based on factors such as quality, speed, and price.
 - Understand the concept of prompt engineering and its role in improving LLM performance for specific use cases.
 - Understand and apply the three fundamental elements of successful prompt engineering: clarity, context, and scope.
+- Identify ways in which various kinds of AI can be incorporated in applications.
 
 ## How Large Language Models Work
 <iframe width="720" height="410" src="https://www.youtube.com/embed/5sLYAQS9sWQ?si=fzJFdm7wOhlYohNn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -38,7 +39,6 @@
 
 # Prompt Engineering
 <iframe src="https://egator.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=9e54cd29-79e5-4d13-baf2-b16f01695690&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Prompt Engineering" ></iframe>
-
 ### Watch all sections of [ChatGPT Prompt Engineering for Developers - deeplearning.ai](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/1/introduction) (85 minutes)
 - Introduction - 6 min
 - Guidelines - 17 min
