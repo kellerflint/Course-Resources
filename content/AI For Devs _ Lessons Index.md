@@ -7,8 +7,8 @@
 - [[AI For Devs MISC - AI In-Class EDA]]
 ### [[AI For Devs - M3]]
 - [[AI For Devs - Course Project Proposal]]
-
 ### [[AI For Devs - M4]]
+- [[AI For Devs - M4 - Assignment]]
 ### AI For Devs - M5 Intro
 ### AI For Devs - M6 Intro
 ### AI For Devs - M7 Intro
