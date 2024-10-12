@@ -1,10 +1,8 @@
-My 2 cents. Maybe make this the basis of a discussion post?
-
-# Working 
+# Using Generative AI
 ### Why LLMs Hallucinate
 <iframe width="720" height="405" src="https://www.youtube.com/embed/cfqtFvWOfg0?si=SpADuljm83yTq91O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-# Learning with Generative AI
+### Learning with Generative AI
 <iframe src="https://egator.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=19f3d17e-5d81-4c2b-8b5f-b16f016956ca&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Learning with Generative AI" ></iframe>
 
 ### Coding with Generative AI
@@ -20,10 +18,6 @@ My 2 cents. Maybe make this the basis of a discussion post?
 
 ### Get Copilot for free -> [Students - GitHub Education](https://github.com/education/students)
 
+### Learning Paths and Final Project Work
 
-
-- Assignment: Try using AI to learn something new, use some process (mine or your own). Can be related to project stuff on your pathway. Then reflect on it. What worked about it? What didn't?
-
-
-
-With learning paths - I need to make a point. YOU NEED TO TAKE THE WHEEL! The resources I have will get you started and give you an overview in the right direction and make sure you know the lay of the land so you know what to choose from. They are not comprehensive and what you need for your projects will vary. So be prepared to supplement your understanding of these topics with other resources you find and self-directed learning is necessary here.
+About half of the time spent on this class each week should be put towards your chosen pathway and final project. Use the resources and topics from your pathway to get started and make sure to commit and push technical work to your GitHub each week.
