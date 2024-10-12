@@ -1,13 +1,29 @@
-This one is using Gen AI. Now we want to talk a bit about AI tools maybe. And using it as productivity tool while we wrap up getting people settled with their projects and doing meetings with me. How we can learn with it. Stuff like that. We've done some prompt engineering, covered some basics, so now maybe we can get into specifics of coding with it or learning with it. Good opportunity too since they'll have just started their projects. How to use it to supplement that.
-
----
-
 My 2 cents. Maybe make this the basis of a discussion post?
 
-While LLMs can introduce a new class of automation to various aspects of our lives, I believe that in most respects the advantages and concerns they bring largely align with those of previous technological advancements. Like earlier forms of automation, LLMs are likely to reshape some fields significantly. They make many computer and information-based tasks more accessible to a wider range of people, similar to how website builders like Wix or SquareSpace reduce the need for widespread HTML/CSS knowledge. However, this increased accessibility comes with trade-offs. Using abstracted tools often means having less fine-grained control over processes and implementations. As with previous automation, challenges will arise around oversight, safety, equity, and robustness of systems. It's worth noting though that such questions exist in any sufficiently complex system, whether those systems are composed of machines, humans, or both. It is not a new problem.
-
-LLMs are also redefining our relationship with language and influencing human-machine dynamics. They decrease the technical knowledge required to interact with computers, continuing a trend seen with higher-level programming languages like Python replacing the need for most people to learn lower-level languages like C++. I believe this shift is creating a sort of universal language shared between machines and humans, emphasizing communication over technical skills. Knowing what to ask for and how to ask for it becomes more important, and many human communication skills will likely apply as models learn language from us and how we use it. In the modern world, the effective articulation of problems, needs, and ideas becomes most relevant to productivity.
-
-
-
+# Working 
+### Why LLMs Hallucinate
 <iframe width="720" height="405" src="https://www.youtube.com/embed/cfqtFvWOfg0?si=SpADuljm83yTq91O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# Learning with Generative AI
+<iframe src="https://egator.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=19f3d17e-5d81-4c2b-8b5f-b16f016956ca&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Learning with Generative AI" ></iframe>
+
+### Coding with Generative AI
+
+<iframe width="720" height="405" src="https://www.youtube.com/embed/Z_OSq0eh2xM?si=GCGNOiJ9XVMhkP2a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="720" height="405" src="https://www.youtube.com/embed/45QmLivYv3k?si=cBs9R1Ud9TcuT46b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Using Copilot
+<iframe width="720" height="405" src="https://www.youtube.com/embed/jXp5D5ZnxGM?si=5fpb10RKiteRE7Md" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe src="https://share.descript.com/embed/7MOQdYsL9AU" width="720" height="405" frameborder="0" allowfullscreen></iframe>
+
+### Get Copilot for free -> [Students - GitHub Education](https://github.com/education/students)
+
+
+
+- Assignment: Try using AI to learn something new, use some process (mine or your own). Can be related to project stuff on your pathway. Then reflect on it. What worked about it? What didn't?
+
+
+
+With learning paths - I need to make a point. YOU NEED TO TAKE THE WHEEL! The resources I have will get you started and give you an overview in the right direction and make sure you know the lay of the land so you know what to choose from. They are not comprehensive and what you need for your projects will vary. So be prepared to supplement your understanding of these topics with other resources you find and self-directed learning is necessary here.
