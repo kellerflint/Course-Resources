@@ -1,7 +1,7 @@
 # Pathway - AI-Driven Applications
 
 ## AI-Driven Applications Introduction
-<iframe src="https://share.descript.com/embed/iRrUJSjOOnz" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://share.descript.com/embed/iRrUJSjOOnz" width="720" height="405" frameborder="0" allowfullscreen></iframe>
 
 ## [[AI For Devs - App Pathway - M4 Integrating AI in Applications|M4 Integrating AI in Applications]]
 - Overview of popular LLM APIs (Groq)

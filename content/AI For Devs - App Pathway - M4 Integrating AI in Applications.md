@@ -10,3 +10,5 @@
 <iframe src="https://share.descript.com/embed/rcDe67fWhBF" width="720" height="405" frameborder="0" allowfullscreen></iframe>
 
 If you'd like to use Azure services -> [Azure for Students – Free Account Credit | Microsoft Azure](https://azure.microsoft.com/en-us/free/students/)
+
+### Back: [[AI For Devs - AI Apps Pathway]]
