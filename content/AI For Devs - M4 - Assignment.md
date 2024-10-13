@@ -6,7 +6,7 @@ In this assignment, you'll explore how generative AI tools can assist in your le
 
 ## Tasks
 ### Identify Learning Objectives 
-List 3-5 specific concepts or skills you aim to learn (I would suggest pulling these from the pathway topics).
+List 3-5 specific concepts or skills you aim to learn (I suggest pulling these from the pathway topics).
 
 ### AI-Assisted Learning Process
 Use generative AI tools to explore these concepts (I would recommend Claude Sonnet or GPT 4o for strong reasoning / code generation but you're welcome to use others if you have access). Pay attention to your interactions, noting particularly effective or ineffective exchanges. You don't need to document every interaction, but keep a few notable examples for your reflection.

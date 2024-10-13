@@ -19,4 +19,4 @@
 ## Pathways and Final Project
 - [[AI For Devs - Course Project Rubric]]
 - [[AI For Devs - ML Pathway]]
-- [[AI For Devs - App Pathway]]
+- [[AI For Devs - AI Apps Pathway]]

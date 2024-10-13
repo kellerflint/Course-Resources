@@ -1,5 +1,8 @@
 # Pathway - Supervised ML and Analytics
 
+## ML Analytics Pathway Introduction
+<iframe src="https://share.descript.com/embed/RD3oDJD14p0" width="720" height="405" frameborder="0" allowfullscreen></iframe>
+
 ## [[AI For Devs - ML Pathway - M4 Exploratory Data Analysis (EDA)|M4 Exploratory Data Analysis (EDA)]]
 - ML workflow
 - Basic statistical measures (mean, median, mode)
@@ -19,7 +22,7 @@
 - Data transformation basics (log transformation, polynomial features)
 - Dimensionality reduction introduction basics (PCA basics)
 - Handling imbalanced dataset and why it's a problem
-    - Oversampling techniques (SMOTE, ADASYN)
+    - Oversampling techniques (SMOTE)
     - Under sampling techniques
     - Combination methods
 - Data augmentation technique basics
@@ -30,7 +33,7 @@
 - Decision Trees
 - Random Forests / Boosting vs Bagging
 - Neural Networks - Basics
-- Implement and look at accuracy
+- Implement and understand accuracy
 
 ## Module 7 - Model Training and Evaluation
 - Train / Test / Val
@@ -48,11 +51,10 @@
     - Grid search
     - Random search
     - Bayesian optimization
-- Regularization techniques (L1, L2)?
-- Error analysis and iterative improvement?
+- Error analysis and iterative improvement
 
 ## Module 9 - Model Deployment
-- Creating a simple API for model deployment (e.g., using Flask)
+- Creating a simple API for model deployment (using Flask)
 - Monitoring model performance in production
 - Ethical considerations in AI/ML
     - Bias and fairness in machine learning
