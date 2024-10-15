@@ -7,7 +7,7 @@
 
 ### [[SQL Analytics M3 - Grouping and Aggregation]]
 
-### [[SQL Analytics M4 - SQL Data Analytics Assignment]]
+### [[SQL Analytics M4 - SQL for Data Analytics]]
 
 ### [[SQL Analytics M5 - Table JOINs]]
 
