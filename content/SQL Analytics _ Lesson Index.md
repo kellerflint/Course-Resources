@@ -9,6 +9,8 @@
 
 ### [[SQL Analytics M4 - SQL for Data Analytics]]
 
+### [[SQL Analytics - Midterm Practice Questions]]
+
 ### [[SQL Analytics M5 - Table JOINs]]
 
 ### [[SQL Analytics M6 - Entity Relationship Diagrams]]
