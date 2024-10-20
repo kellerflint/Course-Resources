@@ -10,6 +10,3 @@
 ### Northwind Database Entity Relationship Diagram
 
 <img src="https://raw.githubusercontent.com/kellerflint/Class-Intro-SQL/hugo/content/SQL-Files/NorthwindERD.png">
-
-### Back:
-- ### [[SQL Analytics M2 - Basic Querying]]

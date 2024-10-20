@@ -1,7 +1,7 @@
 
 # Table JOINs
 
-*Use the [[SQL Analytics - Northwind Database|Northwind Database]] for all questions.*
+*Use the <a href="https://kellerflint.github.io/Course-Resources/SQL-Analytics-Northwind-Database" target="_blank">Northwind Database</a> for all questions.*
 
 ## Table Relationships
 
@@ -23,4 +23,4 @@
 4. Write a query to return the name of every product that costs less than $50. Include the name of the product, it's unit and it's price. Include the name of the supplier and the name of the category the product is in. Sort the results from lowest to highest price.
 5. The sales team would like to know what products are most often ordered by customers outside of north America. Write a query to accomplish this. Explain why you believe your query is effective in answering this question in a comment after the query.
 
-Submit your answers for the "M5 Practice - Table JOINs" assignment on canvas.
+Submit your answers for the "M5 Lessons and Practice - Table JOINs" assignment on canvas.

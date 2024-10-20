@@ -28,11 +28,9 @@
 - Data augmentation technique basics
 
 ## Module 6 - Machine Learning Algorithms
-- Linear Regression
-- Logistic Regression
+- Linear / Logistic Regression
 - Decision Trees
 - Random Forests / Boosting vs Bagging
-- Neural Networks - Basics
 - Implement and understand accuracy
 
 ## Module 7 - Model Training and Evaluation
