@@ -1,5 +1,7 @@
 # Midterm Practice Questions
 
+The midterm questions will be similar to these. Take some time to work through these without notes. A link to the solutions is at the bottom of the page.
+
 *Use the <a href="https://kellerflint.github.io/Course-Resources/SQL-Analytics-Northwind-Database" target="_blank">Northwind Database</a> for all questions.*
 
 #1 Display all products with a price between $10 and $20
