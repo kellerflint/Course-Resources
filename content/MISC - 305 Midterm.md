@@ -25,7 +25,8 @@ Book your midterm slot here: [Book time with Keller Flint-Blanchard: 305 Midter
 **The midterm is CLOSED NOTES!** Like a real technical interview, the use of external tools (Google, AI, Notes, etc.) is not permitted.
 
 ### Topics Covered
-You will want to know how to:
+
+##### JavaScript
 - Assign variables
 - Add, subtract, multiply, and divide variables
 - Use the modulus operator
@@ -39,9 +40,32 @@ You will want to know how to:
 - Add and remove items from an array
 - Use `if` `else if` and `else` for conditional logic
 
+##### Flexbox
+- `display`
+- `flex-direction`
+- `flex-wrap`
+- `justify-content`
+- `align-content`
+- `align-items`
+- `gap`
+
+##### Grid
+- `display` 
+- `grid-template-columns`
+- `grid-template-rows`
+- Glid sizing options - %, px, fr, repeat()
+- `justify-content`
+- `align-content`
+- `align-items`
+- `gap`
+
+##### Web Development
+- Client vs Server
+- Web Requests
+
 ### How to Prepare
 1. Try to do the midterm practice questions (TODO) without notes. Questions on the midterm will be similar to these. 
-2. Ensure you are comfortable with the topics listed above.
+2. Ensure you are comfortable with the topics listed above. For the flexbox and grid CSS topics, review / practice with [Flexbox Froggy - A game for learning CSS flexbox](https://flexboxfroggy.com/) and [Grid Garden - A game for learning CSS grid](https://cssgridgarden.com/).
 3. If you have questions or want additional practice, seek support before the midterm:
 	- Go to the Friday open labs at Auburn Center or work with our tutors (see the [Tutoring Schedule](https://egator.greenriver.edu/courses/2493988/pages/tutoring-schedule?module_item_id=85598895) for details)
 	- Attend board masters!
