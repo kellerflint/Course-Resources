@@ -15,9 +15,9 @@ Book your midterm slot here: [Book time with Keller Flint-Blanchard: 305 Midter
 	- Open the terminal and run `node midterm.js` to ensure everything is up and running. You should see the output `Hello, world!` in your terminal.
 2. Join the meeting a few minutes early in case of any connection or technical issues.
 3. Join my office hours on Zoom at the scheduled time:
-	Link: [https://us02web.zoom.us/j/6106963583?pwd=VkFBczBxRUpMN0pHcHVDNGlHWVpndz09](https://us02web.zoom.us/j/6106963583?pwd=VkFBczBxRUpMN0pHcHVDNGlHWVpndz09)
-	Meeting ID: 610 696 3583
-	Passcode: spaceship
+	- Link: [https://us02web.zoom.us/j/6106963583?pwd=VkFBczBxRUpMN0pHcHVDNGlHWVpndz09](https://us02web.zoom.us/j/6106963583?pwd=VkFBczBxRUpMN0pHcHVDNGlHWVpndz09)
+	- Meeting ID: 610 696 3583
+	- Passcode: spaceship
 
 ### Grading
 50% of your grade is awarded for showing up at your scheduled time and making a good faith effort to answer questions. The remaining 50% will be based on how far you are able to get in completing a few technical questions.
