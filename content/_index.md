@@ -10,7 +10,7 @@ Hi there! This is a hosted obsidian notebook with all of the lessons, content, a
 ### [[AI For Devs _ Lessons Index]]
 
 
-# Temp Resources
+# Miscellaneous Resources
 
 [[MISC - Node Lessons]]
 
@@ -18,6 +18,9 @@ Hi there! This is a hosted obsidian notebook with all of the lessons, content, a
 
 [[AI For Devs MISC - AI In-Class EDA]]
 
+[[MISC - 305 Midterm]]
+
+[[MISC - 305 Midterm Practice]]
 # Legacy
 
 [[LEGACY SQL _ Lesson Index]]
