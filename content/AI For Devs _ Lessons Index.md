@@ -11,6 +11,7 @@
 - [[AI For Devs - M4 Assignment]]
 - [[AI For Devs MISC - AI In-Class Copilot]]
 ### [[AI For Devs - M5]]
+- [[AI For Devs - M5 Assignment]]
 ### AI For Devs - M6 Intro
 ### AI For Devs - M7 Intro
 ### AI For Devs - M8 Intro
