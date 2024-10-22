@@ -1,7 +1,7 @@
 # Midterm: JavaScript Technical Interview
 
 ### Overview
-This midterm will consist of a 15-minute one-on-one session with your instructor via Zoom. You will be asked to share your screen of Visual Studio Code and write JavaScript to answer technical questions.
+This midterm will consist of a 15-minute one-on-one session with your instructor via Zoom. You will be asked to share your screen of Visual Studio Code to write code and answer technical questions.
 
 ### Scheduling
 Book your midterm slot here: [Book time with Keller Flint-Blanchard: 305 Midterms](https://outlook.office.com/bookwithme/user/cea5ca32f4144d5da65db8176793e9e8@greenriver.edu/meetingtype/GBE42tkH3Eq-EEHJ1u9KPQ2?anonymous&ep=mcard). Please sign in with your GRC student account when booking.
@@ -64,8 +64,8 @@ Book your midterm slot here: [Book time with Keller Flint-Blanchard: 305 Midter
 - Web Requests
 
 ### How to Prepare
-1. Try to do the midterm practice questions (TODO) without notes. Questions on the midterm will be similar to these. 
-2. Ensure you are comfortable with the topics listed above. For the flexbox and grid CSS topics, review / practice with [Flexbox Froggy - A game for learning CSS flexbox](https://flexboxfroggy.com/) and [Grid Garden - A game for learning CSS grid](https://cssgridgarden.com/).
+1. Ensure you are comfortable with the topics listed above.
+2. Try to do the JavaScript midterm practice questions (TODO) without notes. Questions on the midterm will be similar to these. For the flexbox and grid CSS topics, review / practice with [Flexbox Froggy - A game for learning CSS flexbox](https://flexboxfroggy.com/) and [Grid Garden - A game for learning CSS grid](https://cssgridgarden.com/).
 3. If you have questions or want additional practice, seek support before the midterm:
 	- Go to the Friday open labs at Auburn Center or work with our tutors (see the [Tutoring Schedule](https://egator.greenriver.edu/courses/2493988/pages/tutoring-schedule?module_item_id=85598895) for details)
 	- Attend board masters!
