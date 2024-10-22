@@ -8,7 +8,7 @@
 ### [[AI For Devs - M3]]
 - [[AI For Devs - Course Project Proposal]]
 ### [[AI For Devs - M4]]
-- [[AI For Devs - M4 - Assignment]]
+- [[AI For Devs - M4 Assignment]]
 - [[AI For Devs MISC - AI In-Class Copilot]]
 ### [[AI For Devs - M5]]
 ### AI For Devs - M6 Intro

@@ -1,4 +1,4 @@
-# Logistic Regression and Model Evaluation
+# Traditional Machine Learning and Model Evaluation
 
 ## Learning Objectives
 *These topics will be covered in this module's knowledge check and entry ticket.*
@@ -19,8 +19,3 @@
 <iframe width="720" height="405" src="https://www.youtube.com/embed/zs6yHVtxyv8?si=6PzXFkkWQ4SAUETj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ### Guide to Random Forests
 <iframe width="720" height="405" src="https://www.youtube.com/embed/cIbj0WuK41w?si=kuckfF88fvDTWesA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-## Practice Assignment - Machine Learning with Decision Trees and Random Forests
-
-<iframe src="https://egator.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=ca716ba9-b927-422e-9d5e-b151012bee7e&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="W3 Kaggle Assignment Intro" ></iframe>
-
-### Kaggle Lessons: [Learn Intro to Machine Learning | Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning)
