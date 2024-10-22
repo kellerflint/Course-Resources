@@ -66,7 +66,7 @@ Book your midterm slot here: [Book time with Keller Flint-Blanchard: 305 Midter
 
 ### How to Prepare
 1. Ensure you are comfortable with the topics listed above.
-2. Try to do the JavaScript midterm practice questions (TODO) without notes. Questions on the midterm will be similar to these. For the flexbox and grid CSS topics, review / practice with [Flexbox Froggy - A game for learning CSS flexbox](https://flexboxfroggy.com/) and [Grid Garden - A game for learning CSS grid](https://cssgridgarden.com/).
+2. Try to do the JavaScript midterm practice questions ([[MISC - 305 Midterm Practice|305 JS Midterm Practice Questions]]) without notes. Questions on the midterm will be similar to these. For the flexbox and grid CSS topics, review / practice with [Flexbox Froggy - A game for learning CSS flexbox](https://flexboxfroggy.com/) and [Grid Garden - A game for learning CSS grid](https://cssgridgarden.com/).
 3. If you have questions or want additional practice, seek support before the midterm:
 	- Go to the Friday open labs at Auburn Center or work with our tutors (see the [Tutoring Schedule](https://egator.greenriver.edu/courses/2493988/pages/tutoring-schedule?module_item_id=85598895) for details)
 	- Attend board masters!
