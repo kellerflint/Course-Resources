@@ -8,13 +8,14 @@ Book your midterm slot here: [Book time with Keller Flint-Blanchard: 305 Midter
 
 *If you cannot make one of these times work, please get in touch.*
 
-### Structure
+### Joining
 1. Before your timeslot, prepare your development environment:
 	- Launch Visual Studio Code
 	- Create a new file called `midterm.js` and add `console.log('Hello, world!');`
 	- Open the terminal and run `node midterm.js` to ensure everything is up and running. You should see the output `Hello, world!` in your terminal.
 2. Join the meeting a few minutes early in case of any connection or technical issues.
-3. Join my office hours on Zoom at the scheduled time:
+3. Turn your camera on!
+4. Join my office hours on Zoom at the scheduled time:
 	- Link: [https://us02web.zoom.us/j/6106963583?pwd=VkFBczBxRUpMN0pHcHVDNGlHWVpndz09](https://us02web.zoom.us/j/6106963583?pwd=VkFBczBxRUpMN0pHcHVDNGlHWVpndz09)
 	- Meeting ID: 610 696 3583
 	- Passcode: spaceship
