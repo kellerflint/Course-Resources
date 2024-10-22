@@ -54,7 +54,6 @@ Book your midterm slot here: [Book time with Keller Flint-Blanchard: 305 Midter
 - `display` 
 - `grid-template-columns`
 - `grid-template-rows`
-- Glid sizing options - %, px, fr, repeat()
 - `justify-content`
 - `align-content`
 - `align-items`
