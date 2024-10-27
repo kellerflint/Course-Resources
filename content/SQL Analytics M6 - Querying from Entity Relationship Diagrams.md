@@ -12,4 +12,4 @@
 
 *You won't be able to run these since I haven't given you a database for this diagram. Write the queries based on what's in the College Courses Diagram.*
 
-### Back: [[SQL Analytics M6 - Entity Relationship Diagrams]]
+### Back: [[SQL Analytics M6 - Entity Relationship Diagrams and Table Creation]]

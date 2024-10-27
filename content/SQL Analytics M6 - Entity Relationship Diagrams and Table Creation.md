@@ -1,20 +1,40 @@
-# Create Tables and Manage Data
+# Entity Relationship Diagrams and Creating Tables
 
-## CREATE, ALTER, DROP
+## Understanding Entity Relationship Diagrams 
+
+Entity Relationship Diagrams (ERDs) are a fundamental part of database design and architecture. They provide a visual representation of the data and how entities within a database relate to each other. Using ERDs can make it much easier to grasp the structure of a database without having to examine each table individually. In this section you will learn to read these diagrams, understand the relationships between tables, and apply this knowledge to create and query tables. 
+
+<iframe src="https://share.descript.com/embed/drOIZX5Yik0" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+### Part 1 Lessons and Practice Questions (8 pts)
+*Click into each of the lessons below for the practice questions*
+### [[SQL Analytics M6 - Entity Relationship Diagram Structure|Entity Relationship Diagram Structure]]
+
+### [[SQL Analytics M6 - Representing Relationships|Representing Relationships]]
+
+### [[SQL Analytics M6 - Data Types and Nullability|Data Types and Nullability]]
+
+### [[SQL Analytics M6 - Querying from Entity Relationship Diagrams|Querying from Entity Relationship Diagrams]]
+
+
+## Create Tables and Manage Data
+
+### CREATE, ALTER, DROP
 
 <iframe src="https://share.descript.com/embed/zJJWNOvV9nr" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
-## INSERT, UPDATE, DELETE
+Full List of Data Types - [SQL Data Types for MySQL, SQL Server, and MS Access](https://www.w3schools.com/sql/sql_datatypes.asp)
+
+### INSERT, UPDATE, DELETE
 
 <iframe src="https://share.descript.com/embed/3XaKOxT7zkS" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
-## Constraints
+### Constraints
 
 <iframe src="https://share.descript.com/embed/ZOpC1jZU6tB" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
-## Practice Questions
-
-### Part 1 (6 pts)
+### Part 2 Practice Questions (6 pts)
+Create a new database called `Reservations` for part 2. Make sure to `USE` it when writing queries.
 
 Write the CREATE and INSERT statements for the tables below. Use your best judgement to assign appropriate data types and constraints to your columns. After each CREATE statement, write a brief comment to give your reasoning for using (or not using) constraints on each of the columns.
 
@@ -42,9 +62,8 @@ Write the CREATE and INSERT statements for the tables below. Use your best judge
 | 1  | Bob's Gourmet Macaroni |
 | 2  | Cheese Louise Dinner   |
 
-### Part 2 (6 pts)
-
-Create a new database and run the following script:
+### Part 3 Practice Questions (6 pts)
+Create a new database called `Cars` for part 3. Make sure to `USE` it when writing queries. Create 2nd SQL file for your part 3 scripts.
 
 ```sql
 /* Create a new database first. Make sure to USE the right database! */
@@ -99,4 +118,10 @@ INSERT INTO cars (CarId, Make, Model, Year, Price, PurchaserId) VALUES
 
 ## How to Submit
 
-Submit your SQL script for the "M7 Practice - Create Tables and Manage Data" assignment on canvas.
+You will have 3 deliverables for this assignment:
+1. For part 1, paste in your answers to the text area or upload a PDF/Word document or a .txt or .sql file.
+2. For part 2, submit a SQL script with your CREATE and INSERT statements.
+3. For part 3, submit a SQL script with the table CREATEs and INSERTs provided as well as your queries for questions 1-6.
+
+Upload / submit these files for the "M6 Practice - Entity Relationship Diagrams and Table Creation" assignment.
+

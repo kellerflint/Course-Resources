@@ -29,4 +29,4 @@ Take the `countries` table for example. It is represented as a box in the HR Ent
 1. According to the HR Entity Relationship Diagram, what will the columns be for the `countries` table?
 2. Which column is the primary key for the `countries` table? How is the primary key shown in this diagram?
 
-### Back: [[SQL Analytics M6 - Entity Relationship Diagrams]]
+### Back: [[SQL Analytics M6 - Entity Relationship Diagrams and Table Creation]]

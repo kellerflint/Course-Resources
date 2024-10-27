@@ -40,4 +40,4 @@ This relationships is also suggested by the structure of the table itself. We ca
 3. What is the relationship between `regions` and `countries`? What steps did you take to determine this from the diagram?
 4. What is the relationship between `departments` and `employees`? What steps did you take to determine this from the diagram?
 
-### Back: [[SQL Analytics M6 - Entity Relationship Diagrams]]
+### Back: [[SQL Analytics M6 - Entity Relationship Diagrams and Table Creation]]

@@ -13,9 +13,9 @@
 
 ### [[SQL Analytics M5 - Table JOINs]]
 
-### [[SQL Analytics M6 - Entity Relationship Diagrams]]
+### [[SQL Analytics M6 - Entity Relationship Diagrams and Table Creation]]
 
-### [[SQL Analytics M7 - Create Tables and Manage Data]]
+
 
 ### [[SQL Analytics M8 - Many-to-Many Relationships and Entity Relationship Diagrams]]
 

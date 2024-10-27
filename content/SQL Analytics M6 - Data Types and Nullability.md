@@ -33,4 +33,4 @@ Taking a look at the College Courses Diagram above, you'll notice that each colu
 5. Suppose we need to record the `office_location` for each `instructor` in the College Courses Diagram. What data type should this column be and should it be allowed to be null? Why?
 6. Imagine we want a `last_accessed` column  in the `enrollment` table that tracks when a student last signed into their class on Canvas. What data type should this column be and should it be allowed to be null? Why?
 
-### Back: [[SQL Analytics M6 - Entity Relationship Diagrams]]
+### Back: [[SQL Analytics M6 - Entity Relationship Diagrams and Table Creation]]
