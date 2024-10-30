@@ -29,6 +29,7 @@ SELECT
     Category,
     SUM(Quantity) AS TotalQuantity
 FROM Sales
+GROUP BY Category
 WHERE TotalQuantity > 10;
 ```
 
@@ -38,6 +39,7 @@ SELECT
     Category,
     SUM(Quantity) AS TotalQuantity
 FROM Sales
+GROUP BY Category
 ORDER BY TotalQuantity DESC;
 ```
 

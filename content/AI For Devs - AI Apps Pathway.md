@@ -3,13 +3,13 @@
 ## AI-Driven Applications Introduction
 <iframe src="https://share.descript.com/embed/iRrUJSjOOnz" width="720" height="405" frameborder="0" allowfullscreen></iframe>
 
-## [[AI For Devs - App Pathway - M4 Integrating AI in Applications|M4 Integrating AI in Applications]]
+## [[AI For Devs - App Pathway - M5 Integrating AI in Applications|M5 Integrating AI in Applications]]
 - Overview of popular LLM APIs (Groq)
 - Setting up and authenticating with APIs
 - LLM API calls and response handling
 - Integrating AI services
 
-## M5 Prompt Engineering
+## [[AI For Devs - App Pathway - M6 LLMs and Prompt Engineering|M5 LLMs and Prompt Engineering]]
 - Introduction to prompt engineering
 - Understanding and managing LLM API parameters (temperature, max tokens, etc.)
 - ChatML format / system messages and user messages

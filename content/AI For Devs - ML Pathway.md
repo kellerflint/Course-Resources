@@ -3,7 +3,7 @@
 ## ML Analytics Pathway Introduction
 <iframe src="https://share.descript.com/embed/RD3oDJD14p0" width="720" height="405" frameborder="0" allowfullscreen></iframe>
 
-## [[AI For Devs - ML Pathway - M4 Exploratory Data Analysis (EDA)|M4 Exploratory Data Analysis (EDA)]]
+## [[AI For Devs - ML Pathway - M5 Exploratory Data Analysis (EDA)|M5 Exploratory Data Analysis (EDA)]]
 - ML workflow
 - Basic statistical measures (mean, median, mode)
 - Data distribution analysis (histograms, box plots)
@@ -13,20 +13,13 @@
 - Creating insightful visualizations (bar charts, heatmaps, pair plots)
 - Drawing initial insights from the data
 
-## Module 5 - Data Preparation
+## [[AI For Devs - ML Pathway - M6 Data Preparation|Module 6 - Data Preparation]]
 - Data cleaning techniques
 - Handling missing data (imputation strategies)
 - Dealing with categorical data (one-hot encoding)
 - Feature scaling and normalization
 - Handling outliers (when to remove, when to keep)
-- Data transformation basics (log transformation, polynomial features)
-- Dimensionality reduction introduction basics (PCA basics)
-- Handling imbalanced dataset and why it's a problem
-    - Oversampling techniques (SMOTE)
-    - Under sampling techniques
-    - Combination methods
-- Data augmentation technique basics
-
+- Handling class imbalance
 ## Module 6 - Machine Learning Algorithms
 - Linear / Logistic Regression
 - Decision Trees
