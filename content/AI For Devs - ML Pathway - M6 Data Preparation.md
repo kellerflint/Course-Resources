@@ -18,12 +18,12 @@
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/rsyrZnZ8J2o?si=ZG5_0w3aFfl6wBpu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Feature Scaling
+## Feature Scaling
 
 *If you did not watch the standard deviation and normal distribution videos from last week you'll want to start with those to understand the standardizations discussed in this video [[AI For Devs - ML Pathway - M5 Exploratory Data Analysis (EDA)#Optional (but highly recommended)]].
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/bqhQ2LWBheQ?si=ojBnwqWtnA1C3C3D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-### Handling Class Imbalance
+## Handling Class Imbalance
 
 *Only the first 8 minutes are required.*
 
@@ -31,3 +31,5 @@
 
 ### Watch: [SMOTE - Handle imbalanced dataset | Synthetic Minority Oversampling Technique | Machine Learning](https://www.youtube.com/watch?v=adHqzek--d0&ab_channel=DataMagic%28bySunnyKusawa%29)
 
+
+## Back: [[AI For Devs - ML Pathway]]

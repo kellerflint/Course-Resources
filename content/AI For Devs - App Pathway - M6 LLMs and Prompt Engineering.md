@@ -17,3 +17,6 @@ Review at least the following techniques from the [Prompt Engineering Guide](htt
 
 ### Read: [Chat Templates](https://huggingface.co/docs/transformers/main/chat_templating#introduction)
 - *Chat templates are extremely common most applications make use of them. **Only the introduction is required reading.***
+
+
+### Back: [[AI For Devs - AI Apps Pathway]]
