@@ -37,4 +37,4 @@ There are many possible ways to design this database depending on the decisions 
 
 Keep in mind that fewer tables isn't necessarily better if it comes at the cost of losing data or failing to effectively represent a relationship.
 
-### Back: [[SQL Analytics M9 - Database Design]]
+### Back: [[SQL Analytics M8 - Database Design]]

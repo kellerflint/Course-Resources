@@ -2,9 +2,9 @@
 
 <iframe src="https://share.descript.com/embed/4atZ5UxCvkD" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
-### [[SQL Analytics M8 - Many-to-Many Relationships|Many-to-Many Relationships]] (~10 min)
+### [[SQL Analytics M7 - Many-to-Many Relationships|Many-to-Many Relationships]] (~10 min)
 
-### [[SQL Analytics M8 - Table Aliasing|Table Aliasing]] (~3 min)
+### [[SQL Analytics M7 - Table Aliasing|Table Aliasing]] (~3 min)
 
 ## Creating Entity Relationship Diagrams
 
@@ -16,7 +16,7 @@
 
 <iframe src="https://egator.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=b488333a-81d2-4859-9854-b11c015d3061&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 
-### [[SQL Analytics M8 - Composite Primary Keys]] (~6 min)
+### [[SQL Analytics M7 - Composite Primary Keys]] (~6 min)
 
 
 # Creating Entity Relationship Diagrams

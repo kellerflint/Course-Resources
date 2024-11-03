@@ -1,4 +1,4 @@
-### Back: [[SQL Analytics M8 - Many-to-Many Relationships and Entity Relationship Diagrams]]
+### Back: [[SQL Analytics M7 - Many-to-Many Relationships and Entity Relationship Diagrams]]
 # Table Aliasing
 
 ## What is Table Aliasing?
@@ -36,4 +36,4 @@ JOIN Authors a ON b.AuthorID = a.AuthorID;
 3. **`b.Title, a.AuthorName`**: Instead of writing `Books.Title` and `Authors.AuthorName`, we use the aliases, making the query more concise.
 4. **`b.AuthorID = a.AuthorID`**: The JOIN condition uses the aliases as a stand in for the full table names as well.
 
-### Back: [[SQL Analytics M8 - Many-to-Many Relationships and Entity Relationship Diagrams]]
+### Back: [[SQL Analytics M7 - Many-to-Many Relationships and Entity Relationship Diagrams]]

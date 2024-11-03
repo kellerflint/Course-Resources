@@ -1,4 +1,4 @@
-### Back: [[SQL Analytics M8 - Many-to-Many Relationships and Entity Relationship Diagrams]]
+### Back: [[SQL Analytics M7 - Many-to-Many Relationships and Entity Relationship Diagrams]]
 
 # Many-to-Many Relationships
 
@@ -44,4 +44,4 @@ In the `BooksAuthors` table, both `BookID` and `AuthorID` are used together to c
 
 3. **The Many-to-Many**: These two one-to-many relationships combine to form a many-to-many relationship. An author can write multiple books, and a book can be written by multiple authors. The `BooksAuthors` table serves as a bridge, linking each book to one or more authors and each author to one or more books.
 
-### Back: [[SQL Analytics M8 - Many-to-Many Relationships and Entity Relationship Diagrams]]
+### Back: [[SQL Analytics M7 - Many-to-Many Relationships and Entity Relationship Diagrams]]
