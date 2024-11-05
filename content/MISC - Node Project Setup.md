@@ -15,7 +15,7 @@ From the project root, initialize a new project:
 npm init
 ```
 - Entry Point: app.js
-- Can use defaults for the rest
+- Use defaults for the rest
 
 Install express and ejs:
 ```bash

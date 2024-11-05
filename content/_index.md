@@ -12,7 +12,7 @@ Hi there! This is a hosted obsidian notebook with all of the lessons, content, a
 
 # Miscellaneous Resources
 
-[[MISC - Node Lessons]]
+[[MISC - Node Project Setup]]
 
 [[MISC - Node Demo]]
 
@@ -21,6 +21,8 @@ Hi there! This is a hosted obsidian notebook with all of the lessons, content, a
 [[MISC - 305 Midterm]]
 
 [[MISC - 305 Midterm Practice]]
+
+[[MISC - 305 Midterm Redo]]
 # Legacy
 
 [[LEGACY SQL _ Lesson Index]]

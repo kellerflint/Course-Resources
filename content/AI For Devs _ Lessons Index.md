@@ -13,7 +13,9 @@
 ### [[AI For Devs - M5]]
 - [[AI For Devs - M5 Assignment]]
 ### AI For Devs - M6 Intro
+- No class
 ### AI For Devs - M7 Intro
+- [[AI For Devs MISC - AI In-Class Life Expectancy Scenario]]
 ### AI For Devs - M8 Intro
 ### AI For Devs - M9 Intro
 ### AI For Devs - M10 Intro
