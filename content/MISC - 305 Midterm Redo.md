@@ -6,7 +6,7 @@ If you are not satisfied with your performance on the midterm technical intervie
 The second attempt at midterm will consist of a similar 15-minute one-on-one session with your instructor via Zoom. You will be asked to share your screen of Visual Studio Code to write code and answer technical questions. Information about the format and topics can be found here: [[MISC - 305 Midterm|305 Midterm]]
 
 ### Requirements
-Before scheduling your second attempt you must spend some time working with tutors practicing these questions. Tutors (which tutors? Check with Tina). Have been given instructions and example questions to help you prepare. (How do I get proof? What's the best way). You will need to give me that proof when you come in.
+Before scheduling your second attempt you must spend some time working with tutors practicing these questions. The tutors have been given instructions and example questions to help you prepare. After working with a tutor, remind them to send me a quick email me at kflint-blanchard@greenriver.edu to confirm that you attended.
 ### Scheduling
 Book your second midterm attempt in advance during my office hours: [Book time with Keller Flint-Blanchard: Office Hours](https://outlook.office.com/bookwithme/user/cea5ca32f4144d5da65db8176793e9e8@greenriver.edu/meetingtype/iI_7uAs97EmpBaRiK_wfqw2?anonymous&ep=mcard). Please sign in with your GRC student account when booking. 
 

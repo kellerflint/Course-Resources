@@ -18,6 +18,7 @@
 - [[AI For Devs MISC - AI In-Class Life Expectancy Scenario]]
 ### [[AI For Devs - M8]]
 ### AI For Devs - M9 Intro
+
 ### AI For Devs - M10 Intro
 
 ## Pathways and Final Project
