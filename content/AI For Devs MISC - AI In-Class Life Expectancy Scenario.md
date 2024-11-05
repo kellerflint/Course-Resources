@@ -4,6 +4,9 @@
 
 Imagine that you are a data scientist at a global health organization. The organization wants to understand the key factors affecting life expectancy across different countries and to develop a model that can predict life expectancy based on these factors. By doing so, the organization aims to identify areas of intervention and resource allocation to improve life expectancy in countries with lower health indicators.
 
+### Dataset
+[Life Expectancy WHO](https://www.kaggle.com/datasets/vikramamin/life-expectancy-who)
+
 ### Objectives
 1. **Data Exploration**: Analyze the dataset to gain insights into the features affecting life expectancy.
 2. **Data Cleaning and Preprocessing**: Handle missing values, outliers, and other data quality issues.
