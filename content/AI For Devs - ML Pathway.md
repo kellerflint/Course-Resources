@@ -20,20 +20,19 @@
 - Feature scaling and normalization
 - Handling outliers (when to remove, when to keep)
 - Handling class imbalance
-## Module 6 - Machine Learning Algorithms
+## [[AI For Devs - ML Pathway - M8 Machine Learning Algorithms|Module 8 - Machine Learning Algorithms]]
+- Train / Test / Val
 - Linear / Logistic Regression
 - Decision Trees
 - Random Forests / Boosting vs Bagging
-- Implement and understand accuracy
+- Understanding Accuracy and the Confusion Matrix
 
-## Module 7 - Model Training and Evaluation
-- Train / Test / Val
-- Metrics beyond accuracy
+## Module 9 - Model Training and Evaluation
 - Cross-validation
 - Overfitting and handling it
 - Learning and validation curves
 
-## Module 8 - Model Improvements
+## Module 10 - Model Improvements
 - Ensemble methods
     - Voting classifiers
     - Stacking
@@ -44,7 +43,7 @@
     - Bayesian optimization
 - Error analysis and iterative improvement
 
-## Module 9 - Model Deployment
+## Module 11 - Model Deployment
 - Creating a simple API for model deployment (using Flask)
 - Monitoring model performance in production
 - Ethical considerations in AI/ML
