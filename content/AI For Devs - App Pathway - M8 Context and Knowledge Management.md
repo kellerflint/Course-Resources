@@ -1,8 +1,4 @@
-- Managing Context
-- RAG (Retrieval-Augmented Generation)
-- Vector Databases
-- Implementing custom knowledge bases
-
+# Context and Knowledge Management
 
 ### Read: [What is a context window—and why does it matter? | Zapier](https://zapier.com/blog/context-window/)
 
