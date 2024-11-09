@@ -1,4 +1,4 @@
-# Database Design
+# M8 Database Design
 
 ## Intro
 
@@ -15,7 +15,7 @@
 
 For this assignment, you’ll be going through the entire process of designing, creating and querying a database for a local property management company. This company manages rental properties for landlords in the greater Seattle area for a percentage of the rental income. In order to handle these properties effectively the company needs to organize and track information about their properties and tenants in a database.
 
-**Part 1 (20 pts): Create an Entity Relationship Diagram**. Create an entity relationship diagram that represents the following:
+**Part 1 (10 pts): Create an Entity Relationship Diagram**. Create an entity relationship diagram that represents the following:
 
 1. Owners have names, phone numbers and a date that they joined the management service.
 2. An owner can have multiple properties managed by the company and a property can have one or more owners.
