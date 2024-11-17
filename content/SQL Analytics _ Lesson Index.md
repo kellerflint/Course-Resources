@@ -15,10 +15,10 @@
 
 ### [[SQL Analytics M6 - Entity Relationship Diagrams and Table Creation]]
 
-
-
 ### [[SQL Analytics M7 - Many-to-Many Relationships and Entity Relationship Diagrams]]
 
 ### [[SQL Analytics M8 - Database Design]]
+
+### [[SQL Analytics M9 - Database Design Peer Review Assignment]]
 
 ### [[SQL Analytics Final - Practice Questions]]
