@@ -19,6 +19,7 @@ CartPole Documentation: [Cart Pole - Gymnasium Documentation (farama.org)](https
 
 ### Optional Resources
 - If you're interested in learning more about how to implement RL -> [Reinforcement Learning in 3 Hours | Full Course using Python (youtube.com)](https://www.youtube.com/watch?v=Mut_u40Sqz4&t=2674s&ab_channel=NicholasRenotte)
+
 # Lessons
 - [[AI - W6 Introduction]]
 - [[AI - W6 Basics of RL]]

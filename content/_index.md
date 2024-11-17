@@ -1,7 +1,7 @@
 ---
 title: Landing Page
 ---
-Hi there! This is a hosted obsidian notebook with all of the lessons, content, and resources for the courses I teach.
+Hi there! This is a hosted obsidian notebook with all of the lessons, content, and resources for courses I teach. You're currently on the landing page, below are links to the specific courses and resources you might be after.
 
 # Courses
 
@@ -16,13 +16,8 @@ Hi there! This is a hosted obsidian notebook with all of the lessons, content, a
 
 [[MISC - Node Demo]]
 
-[[AI For Devs MISC - AI In-Class EDA]]
-
 [[MISC - 305 Midterm]]
 
 [[MISC - 305 Midterm Practice]]
 
 [[MISC - 305 Midterm Redo]]
-# Legacy
-
-[[LEGACY SQL _ Lesson Index]]

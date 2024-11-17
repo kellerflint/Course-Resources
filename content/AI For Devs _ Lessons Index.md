@@ -17,9 +17,9 @@
 ### AI For Devs - M7
 - [[AI For Devs MISC - AI In-Class Life Expectancy Scenario]]
 ### [[AI For Devs - M8]]
-### AI For Devs - M9 Intro
+### [[AI For Devs - M9]]
 
-### AI For Devs - M10 Intro
+### AI For Devs - M10
 
 ## Pathways and Final Project
 - [[AI For Devs - Course Project Rubric]]
