@@ -20,3 +20,6 @@ Confirm Opportunity: completed on 10/21/2022, assigned to Annabeth Chase
 Create Cost Estimation: completed on 10/23/2022, assigned to David Martinez
 Create Statement of Work: completed on 10/24/2022 assigned to Annabeth Chase
 Review Statement of Work: no completion date yet, assigned to Si Wang-mu
+
+
+### Back [[SQL Analytics M9 - Database Design Peer Review Assignment]]
