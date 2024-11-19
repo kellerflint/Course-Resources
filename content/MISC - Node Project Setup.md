@@ -189,17 +189,8 @@ app.get('/confirmations', async (req, res) => {
     // Query the database
     const rows = await conn.query('SELECT * FROM users;');
 
-    // Create an array to hold the confirmations
-    const confirmations = [];
-
-    // Loop through the rows and add them to the array
-    for (let row of rows) {
-        console.log(row);
-        confirmations.push(row);
-    }
-
     // Display the confirm page, pass the data
-    res.render('confirmations', { confirmations: confirmations });
+    res.render('confirmations', { confirmations: rows });
 });
 
 // Tell the app to listen for requests on the designated port
