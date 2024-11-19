@@ -27,9 +27,9 @@
 - Random Forests / Boosting vs Bagging
 - Understanding Accuracy and the Confusion Matrix
 
-## Module 9 - Model Training and Evaluation
+## [[AI For Devs - ML Pathway - M9 Model Training and Evaluation|Module 9 - Model Training and Evaluation]]
 - Cross-validation
-- Overfitting and handling it
+- Overfitting / underfitting and handling each
 - Learning and validation curves
 
 ## Module 10 - Model Improvements
