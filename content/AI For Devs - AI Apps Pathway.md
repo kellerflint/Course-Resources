@@ -24,12 +24,11 @@
 - RAG (Retrieval-Augmented Generation)
 - Implementing custom knowledge bases
 
-## M9 - AI Workflow Orchestration
+## [[AI For Devs - App Pathway - M9 AI Workflow Orchestration|M9 - AI Workflow Orchestration]]
 - Introduction to frameworks for building AI workflows (LangChain)
 - Chains and flows
 - Tool Calling
 - Agents (REACT)
-- Error handling and fallback strategies in complex workflows - maybe
 
 ## M10 - Model Customization
 - Fine-tuning LLMs (conceptual overview and practical considerations)
