@@ -21,4 +21,6 @@
 
 ### [[SQL Analytics M9 - Database Design Peer Review Assignment]]
 
+### [[SQL Analytics M10 - Subqueries]]
+
 ### [[SQL Analytics Final - Practice Questions]]
