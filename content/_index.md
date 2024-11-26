@@ -9,13 +9,14 @@ Hi there! This is a hosted obsidian notebook with all of the lessons, content, a
 
 ### [[AI For Devs _ Lessons Index]]
 
-### 305 Resources
+### 305 Web Frameworks Resources
 
-- [[MISC - Node Project Setup]]
-- [[MISC - Node Demo]]
-- [[MISC - 305 Midterm]]
-- [[MISC - 305 Midterm Practice]]
-- [[MISC - 305 Midterm Redo]]
+- [[Web Frameworks - Node Project Setup]]
+- [[Web Frameworks - Node Demo]]
+- [[Web Frameworks - Midterm]]
+- [[Web Frameworks - Midterm Practice]]
+- [[Web Frameworks - Midterm Redo]]
+- [[Web Frameworks - Paired Program Mini-Blog with Database]]
 
 # Miscellaneous Resources
 
