@@ -1,10 +1,10 @@
 # Tips for Completing Entry Tickets
 
-**Be Concise:** Provide brief answers that get straight to the point.
+**Be Concise:** Provide brief answers that get straight to the point. Provide the information necessary to show understanding.
 
 **Be Specific:** Use precise language and relevant examples. Avoid vague meaningless statements that are not necessary to answer the question.
 
-**Focus on Clarity:** Explain your ideas as if you’re speaking to someone who is also familiar with the topic. Don't over explain, state thinking clearly.
+**Be Clear:** Explain your ideas as if you’re speaking to someone who is also familiar with the topic. Don't over explain, state reasoning clearly.
 
 **Manage Your Time:** Don't spend more than 2-3 minutes on each question. You can come back if you have extra time.
 
