@@ -18,4 +18,4 @@ Briefly describe the difference between Decision Trees and Random Forests. Why m
 
 **Response:** 
 
-Decision Trees are single tree-based models whereas Random Forests consist of multiple Decision Trees trained on different data subsets. By combining multiple trees, Random Forests reduce the risk of overfitting, increase accuracy, and reduce the model's sensitivity to noise.
+Decision Trees are single tree-based models whereas Random Forests consist of multiple Decision Trees trained on different data subsets. By combining multiple trees, Random Forests increase accuracy by reducing the risk of overfitting on the training data.
