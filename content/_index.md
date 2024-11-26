@@ -9,15 +9,14 @@ Hi there! This is a hosted obsidian notebook with all of the lessons, content, a
 
 ### [[AI For Devs _ Lessons Index]]
 
+### 305 Resources
+
+- [[MISC - Node Project Setup]]
+- [[MISC - Node Demo]]
+- [[MISC - 305 Midterm]]
+- [[MISC - 305 Midterm Practice]]
+- [[MISC - 305 Midterm Redo]]
 
 # Miscellaneous Resources
 
-[[MISC - Node Project Setup]]
-
-[[MISC - Node Demo]]
-
-[[MISC - 305 Midterm]]
-
-[[MISC - 305 Midterm Practice]]
-
-[[MISC - 305 Midterm Redo]]
+[[MISC - Tips for Completing Entry Tickets]]
