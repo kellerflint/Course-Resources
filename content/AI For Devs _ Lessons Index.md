@@ -19,7 +19,7 @@
 ### [[AI For Devs - M8]]
 ### [[AI For Devs - M9]]
 
-### AI For Devs - M10
+### [[AI For Devs - M10]]
 - [[AI For Devs - Final Project Peer Reviews]]
 
 ## Pathways and Final Project
