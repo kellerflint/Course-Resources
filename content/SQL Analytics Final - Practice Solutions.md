@@ -57,7 +57,7 @@ HAVING SUM(orderdetails.Quantity) > 1000
 ORDER BY SUM(orderdetails.Quantity) DESC;
 ```
 
-*This last one is more challenging than what may be asked on the final but good for additional practice.*
+*This last one is more challenging than what will be asked on the final but good for additional practice!*
 
 Write a query to show the top 5 customers by total order value. Display the customer name and their total order value. Only include customers who have placed orders totaling more than $10,000. Order the results by total order value in descending order.
 

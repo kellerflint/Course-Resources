@@ -14,4 +14,6 @@ Write a query to show the category name and the total quantity of products order
 
 Write a query to show the top 5 customers by total order value. Display the customer name and their total order value. Only include customers who have placed orders totaling more than $10,000. Order the results by total order value in descending order.
 - *This last one is more challenging than what may be asked on the final but good for additional practice.*
-# [[SQL Analytics - Midterm Practice Solutions]]
+
+If you want more you're welcome to come by office hours for more practice. ChatGPT (or other AI tools) can also be a good resource for generating additional practice questions!
+### See Solutions: [[SQL Analytics Final - Practice Solutions]]
