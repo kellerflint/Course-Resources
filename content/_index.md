@@ -21,3 +21,5 @@ Hi there! This is a hosted obsidian notebook with all of the lessons, content, a
 # Miscellaneous Resources
 
 [[MISC - Tips for Completing Entry Tickets]]
+
+[[MISC - AI Talk]]
