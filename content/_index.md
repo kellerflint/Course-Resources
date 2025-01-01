@@ -11,6 +11,7 @@ Hi there! This is a hosted obsidian notebook with all of the lessons, content, a
 
 ### 305 Web Frameworks Resources
 
+- [[Web Frameworks - Environment Setup]]
 - [[Web Frameworks - Node Project Setup]]
 - [[Web Frameworks - Node Demo]]
 - [[Web Frameworks - Midterm]]
