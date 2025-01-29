@@ -13,6 +13,10 @@ Hi there! This is a hosted obsidian notebook with all of the lessons, content, a
 - [[Web Frameworks - Environment Setup]]
 - [[Web Frameworks - Pair Program - Appointment Scheduler]]
 
+
+### Software Capstone Resources
+- [[Software Capstone - Initial Client Meeting Checklist]]
+
 # Miscellaneous Resources
 
 [[MISC - Tips for Completing Entry Tickets]]
