@@ -1,6 +1,6 @@
-# Midterm: JavaScript Technical Interview Practice
+# Technical Interview Practice
 
-These questions are designed to help prepare you for the [[Web Frameworks - Midterm|305 Midterm]]. Once you feel familiar with the JavaScript topics, try taking these without using notes for practice.
+These questions are designed to help prepare you for the Technical Interview. Try completing these practice problems without using notes or online resources.
 
 ### Questions
 
