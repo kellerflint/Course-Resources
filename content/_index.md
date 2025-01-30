@@ -10,19 +10,20 @@ Hi there! This is a hosted obsidian notebook with all of the lessons, content, a
 ### [[AI For Devs _ Lessons Index]]
 
 ### 305 Web Frameworks Resources
+
 - [[Web Frameworks - Environment Setup]]
 - [[Web Frameworks - Pair Program - Appointment Scheduler]]
 
 
 ### Software Capstone Resources
+
 - [[Software Capstone - Initial Client Meeting Checklist]]
+- [[Software Capstone - Initial Client Meeting Email Template]]
 
 # Miscellaneous Resources
 
-[[MISC - Tips for Completing Entry Tickets]]
-
-[[MISC - AI Talk]]
-
+- [[MISC - Tips for Completing Entry Tickets]]
+- [[MISC - AI Talk Resources]]
 
 ### Old
 

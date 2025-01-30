@@ -33,5 +33,7 @@
 
 #### 5. Plan for Post-Meeting Follow-Up
 
-✅ **Send a Follow-Up Email** – Recap key discussion points, decisions made, and next steps.  
 ✅ **Debrief as a Team** – Immediately after the meeting, discuss what was learned and adjust plans accordingly.
+✅ **Send a Follow-Up Email** – Recap key discussion points, decisions made, and next steps.  
+
+Remember to CC your instructors on all client communication!
