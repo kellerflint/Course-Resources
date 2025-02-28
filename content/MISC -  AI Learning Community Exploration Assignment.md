@@ -17,7 +17,7 @@ In this course, you will work in learning communities focused on different areas
 4. Build a mini-project using that service and integrate it into an application.
 5. Present your project, discuss how the service works, and take questions.
 
-By the end of this assignment, you will:  
+In this first assignment you will explore potential applications of AI that interest you. By the end of this assignment, you will:  
 
 ✅ Have an Azure account set up.  
 ✅ Have chosen an AI application area to explore further.  
