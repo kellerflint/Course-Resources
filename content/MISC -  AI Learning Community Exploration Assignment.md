@@ -38,22 +38,22 @@ By the end of this assignment, you will:
 
 Choose an AI application area that interests you. Here are the available options:
 
-### 1. Computer Vision
+### Computer Vision
 
 - AI for image recognition, object detection, and document processing.
 - Examples: OCR (extracting text from images), face recognition, object classification.
 
-### 2. Natural Language Processing (NLP)
+### Natural Language Processing (NLP)
 
 - AI for understanding and processing text or speech.
 - Examples: Sentiment analysis, chatbots, automatic translation, speech-to-text.
 
-### 3. Document Intelligence & AI Search
+### Document Intelligence & AI Search
 
 - AI for knowledge mining and structured document processing.
 - Examples: Automating data extraction from documents, intelligent search tools.
 
-### 4. Generative AI
+### Generative AI
 
 - AI that creates new content, such as text, images, or code.
 - Examples: Using Azure OpenAI’s GPT models for text generation, AI-generated images.
