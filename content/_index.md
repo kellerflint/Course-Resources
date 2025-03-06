@@ -20,6 +20,9 @@ Hi there! This is a hosted obsidian notebook with all of the lessons, content, a
 - [[Software Capstone - Initial Client Meeting Checklist]]
 - [[Software Capstone - Initial Client Meeting Email Template]]
 
+- [[Software Capstone - Technical Q3]]
+- [[Software Capstone - Technical Q4]]
+
 # Miscellaneous Resources
 
 - [[MISC - Tips for Completing Entry Tickets]]
