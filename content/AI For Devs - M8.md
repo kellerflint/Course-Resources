@@ -1,6 +1,5 @@
 # Neural Networks and Deep Learning
 ## Learning Objectives
-*These topics will be covered in this module's knowledge check and entry ticket.*
 - Understand the basic structure and components of a feedforward neural network, including input layer, hidden layers, and output layer.
 - Explain the purpose of training a neural network and the role of weights in determining the network's predictions.
 - Understand the roll of the loss function in training a neural network.
