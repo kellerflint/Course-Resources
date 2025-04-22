@@ -35,7 +35,3 @@
 
 ### [TensorFlow Playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4&seed=0.91979&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false&discretize_hide=false&showTestData_hide=false&stepButton_hide=false&activation_hide=true&noise_hide=false&regularization_hide=true&regularizationRate_hide=true)
 
-
-## M8 Assignment
-
-Complete all section of the [Learn Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning) course on Kaggle (est. 3-4 hours). Submit your completed file for the final exercise (Binary Classification) to the assignment in canvas.
